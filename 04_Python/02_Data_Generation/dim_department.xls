@@ -1,0 +1,19 @@
+department_code,department_name,department_description,department_head,floor_number,phone_extension,is_active
+D001,Cardiology,Heart related diseases,Dr. S. Mehta,8,7582,Yes
+D002,Neurology,Brain and nervous system,Dr. A. Sharma,2,5913,Yes
+D003,Orthopedics,Bones and joints,Dr. N. Singh,7,5137,Yes
+D004,Pediatrics,Child healthcare,Dr. R. Patel,7,9414,Yes
+D005,Gynecology,Women's healthcare,Dr. P. Verma,5,3411,Yes
+D006,Oncology,Cancer treatment,Dr. A. Sharma,6,3698,Yes
+D007,Dermatology,Skin diseases,Dr. A. Sharma,5,2982,Yes
+D008,ENT,"Ear, Nose and Throat",Dr. N. Singh,1,4590,Yes
+D009,Ophthalmology,Eye care,Dr. S. Mehta,4,6852,Yes
+D010,Psychiatry,Mental health,Dr. S. Mehta,8,1205,Yes
+D011,Emergency,Emergency services,Dr. N. Singh,2,8790,Yes
+D012,Radiology,Medical imaging,Dr. R. Patel,2,4426,Yes
+D013,Pathology,Laboratory diagnosis,Dr. A. Sharma,7,2704,Yes
+D014,Urology,Urinary system,Dr. P. Verma,3,8810,Yes
+D015,Nephrology,Kidney treatment,Dr. K. Rao,1,8294,Yes
+D016,Pulmonology,Respiratory diseases,Dr. R. Patel,1,8763,Yes
+D017,General Surgery,General surgical procedures,Dr. A. Sharma,4,5076,Yes
+D018,Anesthesiology,Anesthesia services,Dr. R. Patel,2,1639,Yes
