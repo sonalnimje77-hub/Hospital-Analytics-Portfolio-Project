@@ -1,0 +1,4001 @@
+surgery_id,patient_id,doctor_id,date_key,surgery_type,surgery_duration_minutes,outcome
+1,4058,52,20240721,Orthopedic repair,194,Success
+2,6775,20,20240829,General surgery,270,Success
+3,6787,17,20240101,Cataract,241,Success
+4,11396,6,20241006,General surgery,283,Success
+5,8523,103,20240614,Orthopedic repair,294,Success
+6,13546,48,20241220,Appendectomy,205,Success
+7,9886,39,20240512,General surgery,356,Complications
+8,12976,13,20241113,Appendectomy,275,Success
+9,11040,78,20241113,Appendectomy,157,Success
+10,6749,47,20241029,Cardiac procedure,243,Success
+11,13707,92,20241018,Cataract,31,Success
+12,995,9,20240112,Appendectomy,230,Success
+13,13378,118,20240505,Cataract,357,Success
+14,12843,92,20241027,General surgery,231,Success
+15,8658,119,20240227,Appendectomy,99,Success
+16,13300,72,20240417,Cardiac procedure,129,Success
+17,3883,112,20240327,General surgery,187,Success
+18,5471,17,20240923,Cardiac procedure,254,Success
+19,5940,76,20241026,Appendectomy,358,Success
+20,12346,72,20240721,Orthopedic repair,198,Success
+21,8000,50,20240803,Cataract,308,Success
+22,8016,68,20241211,Cataract,40,Success
+23,10225,16,20240718,Cataract,138,Success
+24,9908,24,20240612,Cardiac procedure,210,Success
+25,10456,106,20240109,Cardiac procedure,288,Success
+26,8970,47,20240131,Cardiac procedure,325,Success
+27,10181,48,20240830,Appendectomy,292,Success
+28,14635,34,20240120,Orthopedic repair,195,Success
+29,10152,52,20240612,General surgery,352,Success
+30,12957,75,20240910,Appendectomy,32,Success
+31,6430,29,20240705,Cardiac procedure,235,Success
+32,732,43,20241017,Appendectomy,122,Success
+33,3056,80,20241017,Appendectomy,64,Success
+34,8234,88,20240603,Cardiac procedure,199,Success
+35,14072,27,20241117,Orthopedic repair,276,Success
+36,8280,75,20240903,Orthopedic repair,280,Success
+37,2931,65,20240507,Appendectomy,139,Success
+38,6966,70,20240226,General surgery,79,Success
+39,6583,30,20240613,General surgery,216,Success
+40,12983,84,20241007,Appendectomy,256,Success
+41,9066,10,20240515,Cardiac procedure,54,Success
+42,10856,9,20241108,Cataract,247,Success
+43,12082,88,20240123,Cardiac procedure,273,Success
+44,8762,1,20240716,Orthopedic repair,355,Success
+45,6542,90,20240224,General surgery,226,Success
+46,7057,105,20240703,Orthopedic repair,320,Success
+47,11686,117,20241019,Cardiac procedure,238,Success
+48,7242,54,20241118,Orthopedic repair,267,Success
+49,11622,120,20240601,Cardiac procedure,55,Success
+50,14892,56,20241009,General surgery,309,Success
+51,6877,98,20241114,Appendectomy,276,Success
+52,14835,120,20241011,Appendectomy,251,Success
+53,14846,10,20241029,Appendectomy,215,Success
+54,3205,119,20240903,Appendectomy,185,Success
+55,8882,4,20240214,Appendectomy,70,Success
+56,6571,27,20240525,General surgery,32,Complications
+57,13509,95,20240429,Orthopedic repair,347,Success
+58,4986,61,20240221,Appendectomy,64,Success
+59,9614,85,20240331,General surgery,49,Complications
+60,13484,23,20240705,Orthopedic repair,166,Success
+61,11112,119,20241120,Cataract,218,Success
+62,9665,47,20240917,Cardiac procedure,56,Success
+63,14102,2,20240927,Cataract,250,Success
+64,2788,104,20240225,Appendectomy,88,Success
+65,8905,1,20240501,Orthopedic repair,225,Success
+66,3605,61,20240530,Cataract,159,Success
+67,13093,12,20240404,Orthopedic repair,49,Success
+68,11298,90,20240915,Appendectomy,140,Success
+69,7341,117,20241207,Cataract,188,Success
+70,689,100,20240306,Orthopedic repair,103,Success
+71,9973,66,20240731,Orthopedic repair,307,Success
+72,6237,65,20240919,Cardiac procedure,272,Success
+73,8648,109,20240810,Appendectomy,50,Success
+74,14040,84,20241030,Orthopedic repair,314,Success
+75,1493,23,20240201,Cataract,194,Success
+76,4298,65,20240121,Appendectomy,204,Success
+77,11842,49,20240223,Orthopedic repair,173,Success
+78,1514,29,20240509,Orthopedic repair,201,Success
+79,7862,17,20240223,Appendectomy,39,Success
+80,4940,24,20241210,General surgery,283,Death
+81,1020,90,20240909,Cataract,209,Success
+82,1851,95,20240616,Orthopedic repair,323,Success
+83,1238,66,20240531,Orthopedic repair,191,Success
+84,14273,47,20240210,General surgery,46,Success
+85,10496,53,20240316,Cardiac procedure,252,Success
+86,8563,63,20241203,Orthopedic repair,321,Success
+87,4228,43,20240529,Orthopedic repair,198,Complications
+88,10544,30,20240904,Cataract,344,Success
+89,5261,87,20241023,Orthopedic repair,340,Success
+90,1368,23,20240602,Cardiac procedure,54,Success
+91,14609,6,20240612,General surgery,154,Success
+92,7694,11,20240410,Orthopedic repair,342,Success
+93,3608,68,20240408,Cardiac procedure,306,Success
+94,10737,82,20240210,Cardiac procedure,313,Success
+95,1053,52,20240129,Appendectomy,184,Success
+96,13277,101,20240712,Orthopedic repair,40,Success
+97,13815,66,20241012,Cardiac procedure,273,Complications
+98,8317,93,20241213,Cardiac procedure,222,Success
+99,12904,10,20240622,Appendectomy,181,Success
+100,5368,45,20240601,Cardiac procedure,143,Success
+101,9644,112,20240305,Orthopedic repair,295,Success
+102,11824,54,20240210,General surgery,206,Success
+103,10243,2,20240308,Cataract,236,Success
+104,7714,57,20240209,Cataract,289,Success
+105,2692,89,20240321,Cardiac procedure,174,Success
+106,2988,42,20240629,Orthopedic repair,178,Success
+107,7334,91,20240408,Appendectomy,268,Success
+108,3225,37,20240411,Cataract,344,Success
+109,11987,20,20240910,Appendectomy,252,Success
+110,4111,63,20240414,Cataract,138,Death
+111,7824,48,20240225,Orthopedic repair,41,Success
+112,11197,26,20240106,Appendectomy,280,Success
+113,13594,26,20240211,Orthopedic repair,66,Success
+114,9670,109,20241122,Cataract,160,Success
+115,11469,44,20241209,Cardiac procedure,134,Success
+116,10576,119,20241109,Appendectomy,338,Success
+117,13226,81,20240814,Cataract,225,Complications
+118,11940,54,20241210,General surgery,69,Success
+119,9682,35,20240309,Orthopedic repair,295,Success
+120,1818,24,20240418,Cardiac procedure,191,Success
+121,12448,104,20240624,Orthopedic repair,143,Success
+122,4847,59,20241116,Cardiac procedure,207,Success
+123,13328,79,20241025,General surgery,114,Success
+124,13995,84,20241220,Cataract,117,Success
+125,7424,53,20240627,Orthopedic repair,280,Success
+126,13641,39,20240716,Orthopedic repair,218,Success
+127,8145,110,20241110,General surgery,80,Success
+128,12135,70,20240925,Cataract,314,Success
+129,4412,89,20240209,Cardiac procedure,322,Success
+130,5932,65,20240214,Appendectomy,149,Success
+131,5216,28,20241116,Appendectomy,209,Success
+132,7747,58,20240308,Cataract,228,Success
+133,3805,29,20241027,General surgery,135,Success
+134,1938,86,20241102,Appendectomy,103,Success
+135,4485,106,20240306,Appendectomy,293,Success
+136,3643,10,20240830,Cardiac procedure,338,Success
+137,3967,18,20240807,General surgery,92,Success
+138,2633,43,20241223,Cataract,172,Success
+139,14112,33,20240803,General surgery,314,Success
+140,13237,22,20241230,General surgery,124,Success
+141,4033,112,20240214,General surgery,96,Success
+142,1985,28,20240130,Cardiac procedure,45,Success
+143,5122,48,20240902,Orthopedic repair,204,Success
+144,12748,118,20240903,General surgery,85,Success
+145,8696,80,20240111,Cardiac procedure,220,Success
+146,7306,82,20240106,Cardiac procedure,276,Success
+147,8880,13,20240308,Cardiac procedure,265,Success
+148,10361,47,20241121,Orthopedic repair,246,Success
+149,1487,58,20240710,Appendectomy,317,Success
+150,6555,56,20240425,General surgery,201,Success
+151,10031,80,20240720,Cardiac procedure,50,Complications
+152,5389,30,20240611,General surgery,80,Success
+153,12189,41,20241214,General surgery,172,Success
+154,1398,66,20240331,Cataract,339,Success
+155,11049,109,20240720,General surgery,274,Success
+156,2267,54,20240222,Cataract,276,Complications
+157,14826,8,20240218,Appendectomy,278,Success
+158,9694,56,20240403,Cataract,156,Success
+159,2562,96,20240207,Orthopedic repair,338,Success
+160,4029,12,20240912,Cardiac procedure,222,Success
+161,8272,102,20241220,Orthopedic repair,45,Success
+162,4439,13,20240912,Orthopedic repair,92,Success
+163,10348,17,20240219,Cataract,170,Success
+164,8622,2,20241212,Cardiac procedure,49,Success
+165,4041,58,20240516,Cataract,284,Success
+166,6372,60,20240928,Appendectomy,115,Success
+167,14075,37,20240618,Cardiac procedure,117,Success
+168,8133,49,20240919,Appendectomy,349,Success
+169,11918,115,20240322,Appendectomy,275,Success
+170,5587,37,20240801,Cardiac procedure,162,Success
+171,9512,23,20240227,Cataract,106,Success
+172,180,102,20240723,Appendectomy,96,Success
+173,3285,108,20240301,General surgery,102,Success
+174,12029,36,20240601,Cataract,287,Success
+175,757,35,20240413,Appendectomy,339,Success
+176,14469,26,20240426,Orthopedic repair,36,Success
+177,7756,47,20240621,Cataract,274,Success
+178,6295,14,20241202,Orthopedic repair,300,Success
+179,8190,47,20240706,General surgery,248,Success
+180,981,73,20240108,Cataract,203,Success
+181,1819,116,20240928,Cataract,208,Success
+182,8098,78,20240515,Appendectomy,49,Complications
+183,2086,26,20241211,Orthopedic repair,294,Success
+184,7991,54,20240529,Cataract,54,Success
+185,332,89,20240521,Appendectomy,163,Success
+186,6878,110,20241023,Orthopedic repair,105,Success
+187,13078,83,20241209,Cardiac procedure,324,Success
+188,3000,47,20240607,General surgery,349,Success
+189,9810,29,20241218,Cataract,145,Success
+190,8178,58,20240407,Cardiac procedure,353,Success
+191,2711,115,20240629,Orthopedic repair,197,Success
+192,6983,24,20240508,Appendectomy,58,Complications
+193,10771,10,20240620,Appendectomy,294,Success
+194,12738,111,20240618,Cataract,325,Success
+195,7689,62,20240803,Appendectomy,137,Success
+196,2409,33,20241108,Cardiac procedure,129,Success
+197,1085,30,20241225,Cardiac procedure,311,Success
+198,3059,93,20240317,Cataract,33,Success
+199,12911,55,20240322,Orthopedic repair,224,Success
+200,1181,33,20240303,General surgery,288,Success
+201,12064,25,20241220,General surgery,311,Success
+202,2133,26,20240411,General surgery,140,Success
+203,10134,8,20240308,Cardiac procedure,117,Success
+204,13775,33,20240728,Cataract,200,Success
+205,959,75,20240525,Appendectomy,236,Success
+206,6829,104,20240726,Orthopedic repair,313,Success
+207,5439,109,20240125,Appendectomy,179,Success
+208,4579,56,20240417,Cardiac procedure,209,Success
+209,1699,44,20240412,Appendectomy,69,Success
+210,11077,115,20241128,Cataract,160,Success
+211,8411,29,20240623,General surgery,88,Success
+212,4341,6,20241005,Cardiac procedure,143,Success
+213,10800,116,20240207,Cardiac procedure,194,Success
+214,1251,59,20240630,Appendectomy,260,Success
+215,1898,46,20240514,Cataract,291,Success
+216,1032,3,20241227,Cardiac procedure,252,Success
+217,10285,75,20240817,Appendectomy,246,Success
+218,12913,4,20240422,Appendectomy,284,Success
+219,1134,17,20241124,Appendectomy,179,Success
+220,4032,69,20240909,Cardiac procedure,204,Success
+221,7099,8,20240925,Cardiac procedure,303,Success
+222,6689,97,20240623,Cataract,171,Success
+223,2411,101,20240714,Orthopedic repair,171,Success
+224,1419,118,20240503,Cardiac procedure,53,Success
+225,14582,87,20241008,Orthopedic repair,48,Success
+226,5935,28,20240111,Orthopedic repair,259,Success
+227,7442,28,20240823,Appendectomy,357,Success
+228,12966,18,20240402,Cardiac procedure,87,Success
+229,5084,17,20240326,Cataract,254,Success
+230,639,7,20240405,Cardiac procedure,271,Complications
+231,2016,18,20240321,General surgery,156,Success
+232,14252,101,20241203,Appendectomy,303,Success
+233,12976,13,20240802,Cataract,322,Success
+234,4967,69,20240114,Cardiac procedure,266,Success
+235,431,120,20241020,Cardiac procedure,296,Success
+236,9534,70,20240511,Cataract,119,Success
+237,2609,28,20241126,General surgery,329,Success
+238,8596,1,20240703,Cardiac procedure,71,Success
+239,9431,119,20241223,Cardiac procedure,247,Success
+240,3028,109,20241214,Orthopedic repair,267,Success
+241,11545,113,20240430,Appendectomy,51,Success
+242,9774,113,20240707,Orthopedic repair,297,Success
+243,3398,10,20240217,Orthopedic repair,62,Success
+244,3739,68,20241223,General surgery,264,Success
+245,2371,14,20240825,General surgery,117,Success
+246,7581,44,20241214,Orthopedic repair,154,Success
+247,10852,46,20240208,Orthopedic repair,206,Success
+248,12930,8,20240820,Orthopedic repair,287,Success
+249,4639,91,20240227,Cataract,334,Success
+250,11318,95,20240918,Cardiac procedure,150,Success
+251,8484,65,20240118,Orthopedic repair,323,Success
+252,8428,52,20240626,Cataract,148,Success
+253,876,119,20240907,Cardiac procedure,191,Success
+254,6991,94,20241117,Appendectomy,167,Success
+255,7614,53,20240713,General surgery,327,Success
+256,1475,51,20240711,Appendectomy,167,Success
+257,8327,28,20241203,General surgery,93,Success
+258,5832,35,20240817,Appendectomy,342,Success
+259,7298,97,20241125,Cataract,213,Success
+260,13115,38,20241227,Appendectomy,314,Success
+261,10455,106,20240911,Appendectomy,77,Success
+262,5204,60,20241230,Cataract,189,Success
+263,7081,15,20241110,Cardiac procedure,168,Success
+264,10401,30,20240422,Cardiac procedure,316,Success
+265,2428,43,20240515,Orthopedic repair,147,Success
+266,5187,65,20240726,Appendectomy,42,Success
+267,7441,55,20240428,Cataract,157,Success
+268,3043,32,20240222,Cataract,292,Success
+269,3119,25,20240921,General surgery,219,Success
+270,1633,71,20240706,Appendectomy,127,Success
+271,3096,73,20240211,Cardiac procedure,240,Success
+272,12697,35,20241002,General surgery,167,Success
+273,11566,75,20240901,General surgery,178,Success
+274,850,15,20240105,Cataract,315,Success
+275,3948,71,20240429,Appendectomy,291,Success
+276,5489,118,20240628,Cataract,68,Success
+277,14073,106,20240427,Cardiac procedure,340,Complications
+278,10044,33,20240715,Cataract,76,Success
+279,14084,72,20240924,Appendectomy,77,Complications
+280,14493,5,20240629,Cardiac procedure,38,Success
+281,4077,98,20240719,General surgery,164,Success
+282,12043,106,20240603,Appendectomy,152,Success
+283,10432,24,20240529,General surgery,98,Success
+284,13005,77,20240526,Orthopedic repair,247,Success
+285,11483,53,20240722,Cardiac procedure,302,Success
+286,14911,89,20240929,Orthopedic repair,68,Success
+287,7380,7,20240512,General surgery,281,Success
+288,5883,108,20240406,Cardiac procedure,119,Success
+289,10887,11,20240303,Orthopedic repair,264,Success
+290,807,52,20240131,Cataract,281,Success
+291,4610,56,20241224,Cataract,282,Success
+292,14362,67,20240327,Cardiac procedure,153,Success
+293,8145,89,20240307,General surgery,60,Complications
+294,12902,71,20240608,Cataract,79,Success
+295,13280,46,20240522,Appendectomy,237,Success
+296,7353,34,20240102,Appendectomy,148,Success
+297,6175,79,20240723,Orthopedic repair,142,Success
+298,9521,49,20240305,Cataract,119,Success
+299,11982,98,20241024,Cataract,184,Success
+300,11258,11,20241023,Appendectomy,298,Success
+301,12228,115,20240317,General surgery,246,Success
+302,10802,33,20241221,Appendectomy,354,Success
+303,7203,102,20240808,Cataract,101,Success
+304,5561,65,20240604,Appendectomy,43,Success
+305,13129,104,20240511,General surgery,182,Success
+306,10118,120,20240809,Orthopedic repair,297,Success
+307,1763,81,20240816,Cardiac procedure,307,Success
+308,1269,104,20241207,Cardiac procedure,154,Success
+309,7297,19,20240331,Cardiac procedure,347,Success
+310,12944,116,20240201,Cataract,297,Complications
+311,9606,20,20240909,Cardiac procedure,86,Success
+312,14594,108,20240703,General surgery,154,Success
+313,5464,85,20240808,Orthopedic repair,90,Success
+314,11080,119,20240729,General surgery,92,Success
+315,11501,104,20240928,Orthopedic repair,71,Success
+316,10786,10,20240102,Cardiac procedure,177,Success
+317,3532,25,20241201,General surgery,143,Success
+318,13143,56,20241014,Appendectomy,71,Success
+319,2587,73,20240212,Appendectomy,349,Success
+320,12176,28,20240318,Cardiac procedure,356,Success
+321,14933,103,20240416,Cardiac procedure,311,Success
+322,14759,87,20241015,General surgery,230,Success
+323,4136,10,20240425,Orthopedic repair,174,Success
+324,2432,33,20240104,General surgery,37,Success
+325,1098,41,20241028,Orthopedic repair,80,Success
+326,13562,58,20241130,Appendectomy,134,Success
+327,556,98,20240717,Orthopedic repair,261,Success
+328,3274,113,20240617,General surgery,190,Success
+329,8688,113,20241208,Cardiac procedure,227,Success
+330,14907,58,20240324,Cardiac procedure,212,Success
+331,11985,64,20241119,Cataract,278,Success
+332,6799,116,20240619,General surgery,30,Success
+333,7900,79,20240727,Cataract,358,Success
+334,204,2,20240409,Cardiac procedure,64,Success
+335,1203,56,20241224,Cataract,159,Success
+336,6935,30,20240710,Orthopedic repair,200,Success
+337,2501,45,20240329,Orthopedic repair,41,Success
+338,10119,43,20240808,Cataract,38,Success
+339,14471,115,20240809,Cardiac procedure,120,Success
+340,4149,62,20240607,General surgery,74,Success
+341,11291,30,20240826,Cardiac procedure,284,Success
+342,12813,85,20240321,Cardiac procedure,344,Success
+343,9698,5,20240423,General surgery,140,Success
+344,5053,119,20241230,Cataract,88,Success
+345,11592,27,20240704,Appendectomy,204,Success
+346,7602,12,20240408,Appendectomy,165,Success
+347,13699,43,20240331,Orthopedic repair,170,Success
+348,3360,74,20240113,Orthopedic repair,121,Complications
+349,11552,64,20241004,Cataract,143,Success
+350,13844,31,20240920,Orthopedic repair,324,Success
+351,12049,115,20240804,Cardiac procedure,220,Success
+352,5363,76,20240325,Cardiac procedure,266,Success
+353,6427,57,20240708,Orthopedic repair,328,Success
+354,11251,79,20240301,General surgery,295,Complications
+355,13984,12,20240610,General surgery,87,Success
+356,3933,31,20240814,Cardiac procedure,204,Success
+357,3725,2,20240304,Cardiac procedure,337,Success
+358,13307,21,20240202,Orthopedic repair,162,Success
+359,3078,59,20240711,Orthopedic repair,50,Success
+360,14823,111,20240828,Appendectomy,298,Success
+361,6628,70,20240210,Orthopedic repair,46,Success
+362,5667,81,20241005,Orthopedic repair,293,Success
+363,1111,38,20241213,Orthopedic repair,217,Death
+364,12282,72,20241111,Cataract,350,Success
+365,3521,47,20241221,Cataract,197,Success
+366,1864,61,20241110,General surgery,99,Success
+367,6861,21,20241130,Appendectomy,139,Success
+368,483,25,20240324,Orthopedic repair,86,Success
+369,1770,29,20240226,Appendectomy,215,Success
+370,3251,47,20240730,Cataract,342,Success
+371,10756,89,20241030,General surgery,254,Success
+372,13864,59,20240912,General surgery,113,Success
+373,1681,63,20241218,Cataract,307,Success
+374,7240,78,20241102,General surgery,280,Success
+375,3979,112,20241205,General surgery,305,Success
+376,9186,91,20240417,Cardiac procedure,354,Success
+377,1791,48,20240914,Cardiac procedure,191,Success
+378,3256,83,20240601,Cardiac procedure,242,Success
+379,9982,115,20240402,General surgery,261,Success
+380,4881,63,20240518,Cardiac procedure,157,Success
+381,7103,10,20240217,Orthopedic repair,239,Success
+382,11371,39,20241213,Cardiac procedure,61,Success
+383,10339,74,20240927,Appendectomy,222,Success
+384,13255,52,20240724,Cardiac procedure,158,Success
+385,769,68,20240616,General surgery,220,Success
+386,11430,113,20241008,Cardiac procedure,150,Success
+387,6270,100,20241226,General surgery,206,Success
+388,2370,96,20240126,General surgery,273,Success
+389,13620,57,20240118,Cataract,203,Success
+390,14851,31,20240530,General surgery,35,Success
+391,4212,49,20241215,Cardiac procedure,209,Success
+392,4932,5,20240512,Cardiac procedure,338,Success
+393,4610,9,20240822,General surgery,172,Success
+394,7823,31,20240430,General surgery,337,Success
+395,7555,19,20240318,General surgery,53,Success
+396,11241,1,20240617,Cardiac procedure,344,Success
+397,10639,119,20240110,Appendectomy,108,Success
+398,1083,90,20240310,General surgery,192,Success
+399,5565,46,20241229,Orthopedic repair,139,Success
+400,7626,39,20240302,Cataract,200,Success
+401,12175,67,20240310,Cataract,130,Success
+402,8898,112,20240611,Cataract,97,Success
+403,1533,7,20240824,Orthopedic repair,278,Success
+404,415,113,20240101,General surgery,271,Success
+405,11871,24,20240121,Orthopedic repair,180,Success
+406,2347,24,20240102,General surgery,316,Complications
+407,2066,98,20240430,General surgery,177,Success
+408,4847,47,20240725,Orthopedic repair,171,Success
+409,7148,66,20240815,Orthopedic repair,70,Success
+410,11380,38,20240910,Appendectomy,54,Success
+411,1494,107,20240911,Cardiac procedure,98,Success
+412,3548,71,20241001,General surgery,249,Success
+413,2259,97,20240226,Cardiac procedure,335,Success
+414,11953,2,20241026,Orthopedic repair,170,Success
+415,9262,74,20240114,Orthopedic repair,197,Success
+416,1382,114,20240124,Cardiac procedure,322,Success
+417,712,60,20241005,General surgery,151,Success
+418,9768,48,20240507,General surgery,122,Success
+419,10676,46,20241023,Orthopedic repair,144,Success
+420,14025,35,20240711,Appendectomy,207,Success
+421,6597,81,20240307,Orthopedic repair,146,Success
+422,8449,91,20240525,Orthopedic repair,174,Success
+423,12340,5,20240611,Orthopedic repair,111,Success
+424,6371,114,20240827,Cataract,288,Success
+425,5357,51,20240429,Cardiac procedure,127,Success
+426,8312,34,20240416,Appendectomy,309,Success
+427,6370,44,20240123,Appendectomy,153,Success
+428,1426,44,20241206,Orthopedic repair,178,Success
+429,8753,7,20240720,Cardiac procedure,204,Success
+430,5683,14,20241211,Cataract,288,Success
+431,8032,48,20241013,Cardiac procedure,185,Success
+432,11716,12,20240905,Orthopedic repair,206,Success
+433,1052,31,20240628,Cataract,67,Success
+434,918,26,20240223,General surgery,121,Success
+435,12212,100,20241122,Appendectomy,199,Success
+436,3740,94,20240302,Orthopedic repair,224,Success
+437,3702,19,20240502,Orthopedic repair,142,Success
+438,8493,35,20240609,Cataract,190,Success
+439,11735,107,20241016,Cataract,55,Success
+440,1278,91,20241208,Cardiac procedure,317,Success
+441,6859,1,20240616,Cardiac procedure,264,Success
+442,6557,3,20240716,General surgery,79,Success
+443,6507,21,20241009,Cataract,301,Success
+444,12663,1,20241014,Cataract,262,Success
+445,7818,113,20240306,Cataract,178,Success
+446,9603,85,20241124,Orthopedic repair,48,Success
+447,6804,115,20241014,Appendectomy,59,Success
+448,2449,76,20240913,Orthopedic repair,153,Success
+449,4245,90,20240523,Cardiac procedure,285,Success
+450,10487,64,20240301,Orthopedic repair,271,Success
+451,543,73,20240724,General surgery,44,Success
+452,10799,83,20240908,Cardiac procedure,285,Success
+453,6941,74,20240819,Appendectomy,264,Success
+454,11312,29,20241115,General surgery,99,Success
+455,13875,89,20240715,Appendectomy,274,Success
+456,13049,63,20240930,Orthopedic repair,118,Success
+457,1476,14,20240229,Orthopedic repair,227,Success
+458,8729,72,20240406,Appendectomy,289,Success
+459,6169,17,20240502,Orthopedic repair,335,Success
+460,4682,76,20240315,Appendectomy,273,Success
+461,4681,80,20241101,Cardiac procedure,314,Complications
+462,11236,39,20240214,Appendectomy,189,Success
+463,3703,62,20240831,General surgery,332,Success
+464,8870,110,20240804,Cataract,64,Success
+465,5035,60,20240318,Orthopedic repair,220,Success
+466,8764,4,20241127,Orthopedic repair,137,Success
+467,13811,95,20240702,Orthopedic repair,134,Success
+468,3152,36,20241031,Appendectomy,287,Success
+469,7773,15,20241011,Appendectomy,164,Success
+470,2112,35,20240601,Orthopedic repair,326,Success
+471,5137,30,20240513,Cardiac procedure,91,Success
+472,2684,50,20240922,Cardiac procedure,234,Success
+473,13158,39,20240809,Orthopedic repair,317,Success
+474,11487,36,20240308,General surgery,134,Success
+475,10892,24,20240305,Orthopedic repair,176,Success
+476,3240,58,20240225,Cardiac procedure,97,Success
+477,6828,10,20240818,Cataract,126,Success
+478,2816,30,20241224,Cardiac procedure,129,Success
+479,7139,94,20240402,General surgery,226,Success
+480,9840,30,20241017,Orthopedic repair,272,Success
+481,14723,37,20240529,Appendectomy,75,Success
+482,344,52,20241014,Orthopedic repair,257,Success
+483,1070,2,20241130,Orthopedic repair,342,Success
+484,9260,60,20240614,Cataract,74,Success
+485,9018,113,20240225,Cataract,230,Success
+486,14314,120,20240816,Appendectomy,306,Success
+487,2312,42,20240908,Cardiac procedure,290,Success
+488,2580,77,20240821,General surgery,188,Success
+489,7011,90,20240606,Orthopedic repair,88,Success
+490,398,3,20240621,Cardiac procedure,136,Success
+491,11317,67,20240808,Appendectomy,325,Success
+492,13047,43,20241117,Appendectomy,163,Success
+493,2867,84,20240210,Appendectomy,141,Success
+494,8501,66,20240220,Appendectomy,214,Success
+495,503,37,20240609,Orthopedic repair,85,Success
+496,6772,4,20241023,Cardiac procedure,65,Success
+497,11246,44,20240116,Cardiac procedure,114,Success
+498,13981,104,20241204,Cardiac procedure,138,Success
+499,2388,18,20240130,Cardiac procedure,300,Success
+500,5671,30,20240826,Cataract,102,Success
+501,8303,114,20241013,General surgery,148,Success
+502,10342,73,20240618,Cardiac procedure,327,Success
+503,13068,117,20240717,Cardiac procedure,60,Success
+504,13381,115,20240707,General surgery,80,Success
+505,3968,27,20241027,Orthopedic repair,84,Success
+506,13055,7,20240609,Cardiac procedure,236,Success
+507,936,43,20240607,Appendectomy,127,Success
+508,10665,37,20240622,Cataract,245,Success
+509,8092,32,20240726,Appendectomy,169,Success
+510,14675,36,20240902,Cardiac procedure,274,Success
+511,13697,106,20240610,Cataract,184,Success
+512,10731,60,20240614,Orthopedic repair,207,Success
+513,6105,41,20240615,Orthopedic repair,181,Success
+514,6823,98,20241229,Orthopedic repair,94,Success
+515,2206,16,20240327,Orthopedic repair,90,Success
+516,2656,102,20240427,Cardiac procedure,164,Success
+517,9431,87,20240526,Cataract,310,Success
+518,2400,15,20240918,Orthopedic repair,214,Success
+519,9815,48,20240128,Orthopedic repair,107,Success
+520,7388,40,20240501,Appendectomy,325,Success
+521,12880,9,20241228,Appendectomy,193,Success
+522,5496,35,20240128,Cardiac procedure,225,Success
+523,3461,62,20240302,Orthopedic repair,43,Success
+524,14483,35,20241130,Cardiac procedure,90,Success
+525,3098,93,20240512,Cardiac procedure,98,Success
+526,9041,46,20241120,Orthopedic repair,238,Success
+527,3318,35,20240117,Appendectomy,348,Success
+528,13851,83,20240625,Orthopedic repair,201,Success
+529,11213,97,20241219,Appendectomy,118,Success
+530,13727,20,20240911,Cataract,43,Success
+531,4314,25,20241111,Cataract,110,Success
+532,10837,2,20240904,Orthopedic repair,315,Success
+533,5923,48,20240803,Cataract,119,Success
+534,1893,94,20240504,Appendectomy,52,Success
+535,6263,60,20241022,Cataract,241,Success
+536,810,38,20240106,Orthopedic repair,97,Success
+537,13590,59,20240902,Cataract,155,Success
+538,2069,65,20240826,Orthopedic repair,143,Success
+539,3890,58,20240710,General surgery,260,Success
+540,11220,14,20240108,Cardiac procedure,281,Success
+541,7291,50,20240501,General surgery,278,Success
+542,5307,32,20240506,Cardiac procedure,143,Success
+543,8308,15,20240116,General surgery,45,Success
+544,4591,61,20240519,General surgery,96,Success
+545,7121,59,20240222,General surgery,191,Success
+546,13621,60,20240924,Orthopedic repair,318,Success
+547,12690,49,20241108,Appendectomy,77,Success
+548,13802,120,20240719,Appendectomy,182,Success
+549,542,27,20240919,Orthopedic repair,181,Complications
+550,5943,56,20241224,Appendectomy,129,Success
+551,1975,45,20240202,Orthopedic repair,352,Success
+552,4853,89,20240208,Appendectomy,127,Success
+553,13703,59,20240514,Cardiac procedure,216,Success
+554,1446,24,20241010,Cataract,312,Success
+555,14001,112,20240731,General surgery,263,Success
+556,5669,28,20240424,Appendectomy,214,Success
+557,452,23,20240419,Orthopedic repair,189,Success
+558,3074,106,20240803,Orthopedic repair,261,Success
+559,9809,74,20240730,General surgery,201,Success
+560,6847,29,20240414,Orthopedic repair,302,Success
+561,2332,26,20240331,Appendectomy,61,Success
+562,2534,73,20240430,General surgery,324,Success
+563,13545,108,20240414,General surgery,47,Success
+564,5425,4,20240101,General surgery,216,Success
+565,13954,23,20241108,General surgery,221,Success
+566,1539,30,20241006,Orthopedic repair,142,Success
+567,9262,70,20240310,Cardiac procedure,144,Success
+568,9085,93,20240714,Cataract,358,Success
+569,2335,45,20240829,Cardiac procedure,53,Success
+570,11400,85,20241219,General surgery,88,Success
+571,1787,66,20240420,General surgery,250,Success
+572,1589,66,20240222,Cardiac procedure,214,Success
+573,13939,31,20240129,Appendectomy,75,Success
+574,14924,48,20240829,Orthopedic repair,298,Success
+575,13191,89,20241112,Appendectomy,37,Success
+576,6601,87,20240617,Appendectomy,169,Success
+577,239,8,20240211,General surgery,329,Success
+578,2745,13,20240924,Cardiac procedure,130,Success
+579,11170,37,20241018,Orthopedic repair,153,Success
+580,9180,64,20240615,Appendectomy,151,Success
+581,782,80,20240718,Orthopedic repair,236,Success
+582,10692,51,20240827,Cardiac procedure,213,Success
+583,10962,93,20241117,Orthopedic repair,177,Success
+584,4443,64,20240913,Orthopedic repair,122,Success
+585,8579,115,20241028,Cataract,119,Success
+586,1451,43,20240626,Appendectomy,359,Success
+587,14460,47,20240518,General surgery,335,Success
+588,11500,77,20240711,Appendectomy,134,Success
+589,9976,18,20241216,General surgery,177,Success
+590,14735,33,20240912,General surgery,202,Success
+591,2322,50,20241107,Cardiac procedure,197,Success
+592,3447,61,20240819,Cataract,330,Success
+593,6556,102,20241221,Orthopedic repair,327,Success
+594,7327,114,20240114,Orthopedic repair,320,Success
+595,1272,101,20240806,Appendectomy,215,Success
+596,3505,22,20240814,Appendectomy,284,Success
+597,13725,58,20240109,Cataract,289,Success
+598,2160,29,20240901,Cataract,124,Success
+599,2671,2,20240223,Appendectomy,71,Success
+600,9454,100,20240828,Cardiac procedure,60,Success
+601,10114,2,20241225,General surgery,211,Success
+602,10928,117,20240302,Cardiac procedure,200,Success
+603,8764,75,20241219,Appendectomy,243,Success
+604,5365,107,20240312,Orthopedic repair,171,Success
+605,108,117,20241027,General surgery,110,Success
+606,8072,117,20240328,Appendectomy,251,Success
+607,4750,43,20240701,Appendectomy,144,Success
+608,3070,95,20240509,Cataract,253,Success
+609,6446,20,20240510,Orthopedic repair,321,Success
+610,13106,76,20240405,General surgery,80,Success
+611,4822,87,20241128,General surgery,331,Success
+612,5952,98,20240302,Appendectomy,207,Success
+613,9353,56,20240306,Cataract,109,Success
+614,5639,117,20241208,Cataract,307,Success
+615,3458,118,20240423,Cardiac procedure,98,Success
+616,12764,110,20240109,Orthopedic repair,303,Success
+617,10347,108,20241108,Orthopedic repair,151,Success
+618,2360,16,20241112,Cardiac procedure,69,Success
+619,3107,19,20241218,Cataract,214,Success
+620,4050,55,20240804,Appendectomy,314,Success
+621,7382,10,20241026,Cataract,355,Success
+622,5755,61,20240816,Cataract,342,Success
+623,1963,104,20240305,Cataract,196,Success
+624,3423,23,20240125,Appendectomy,286,Success
+625,12703,90,20241020,General surgery,329,Success
+626,4614,45,20240828,Cataract,326,Success
+627,4329,45,20240322,General surgery,119,Success
+628,2842,119,20240311,Orthopedic repair,309,Success
+629,6751,17,20240226,Cataract,235,Success
+630,13887,18,20240702,Orthopedic repair,133,Success
+631,2445,35,20240805,Appendectomy,43,Success
+632,3692,19,20240131,Cardiac procedure,202,Success
+633,2214,18,20240418,General surgery,295,Success
+634,12761,78,20240516,Appendectomy,247,Success
+635,5200,92,20240813,Appendectomy,338,Success
+636,12559,102,20241017,Appendectomy,132,Success
+637,1836,83,20240909,General surgery,79,Success
+638,8003,62,20241218,Cardiac procedure,322,Success
+639,4062,33,20241119,Orthopedic repair,236,Success
+640,6371,82,20241006,Appendectomy,214,Complications
+641,14932,12,20240825,Cardiac procedure,33,Success
+642,11397,75,20240317,General surgery,273,Success
+643,13177,33,20240702,Cardiac procedure,78,Success
+644,11092,117,20241202,Orthopedic repair,213,Success
+645,9694,51,20240119,Appendectomy,120,Success
+646,7598,24,20240125,Cataract,168,Success
+647,7165,46,20240703,Orthopedic repair,289,Complications
+648,9715,107,20240518,Cardiac procedure,352,Success
+649,6061,63,20240626,Cardiac procedure,41,Success
+650,5572,100,20240707,Orthopedic repair,347,Success
+651,1321,108,20240709,Appendectomy,242,Success
+652,13927,34,20240523,Cardiac procedure,71,Success
+653,381,98,20240830,General surgery,215,Success
+654,4465,24,20240214,Cardiac procedure,229,Success
+655,9903,20,20241015,Appendectomy,30,Success
+656,12439,87,20240123,Cataract,135,Success
+657,3383,88,20240617,General surgery,79,Success
+658,2535,7,20240322,Cataract,275,Success
+659,9629,14,20240312,Orthopedic repair,316,Success
+660,1718,71,20240702,Appendectomy,267,Success
+661,5609,111,20240925,Cataract,206,Success
+662,11950,97,20241229,Cataract,213,Success
+663,12931,18,20241006,Appendectomy,81,Success
+664,210,69,20241009,General surgery,283,Success
+665,6453,64,20240702,General surgery,281,Success
+666,14623,57,20240404,Cataract,63,Success
+667,9233,99,20240327,Cardiac procedure,84,Success
+668,10596,26,20240504,Cataract,247,Success
+669,2879,11,20240610,Cardiac procedure,102,Success
+670,8653,86,20241206,Cardiac procedure,51,Success
+671,278,66,20241212,Orthopedic repair,250,Success
+672,2387,110,20240515,Orthopedic repair,165,Success
+673,7960,85,20240929,Cardiac procedure,95,Success
+674,12083,12,20240207,Appendectomy,44,Success
+675,13756,21,20240211,Cardiac procedure,269,Success
+676,355,117,20240624,General surgery,133,Success
+677,8234,117,20240401,General surgery,254,Success
+678,6618,114,20241115,Orthopedic repair,235,Success
+679,9034,43,20241001,Cardiac procedure,77,Success
+680,301,117,20240507,Cataract,245,Success
+681,1076,97,20241102,Appendectomy,308,Success
+682,7993,103,20240215,Cardiac procedure,41,Success
+683,11368,45,20240214,Cardiac procedure,160,Success
+684,2035,47,20240705,Appendectomy,286,Success
+685,7338,100,20241101,Cataract,291,Success
+686,6646,54,20240814,Cardiac procedure,339,Success
+687,1898,93,20240816,General surgery,268,Success
+688,13287,40,20240613,Orthopedic repair,197,Success
+689,1582,63,20241206,Orthopedic repair,350,Success
+690,10806,48,20240926,Appendectomy,153,Success
+691,11419,36,20240217,Orthopedic repair,242,Success
+692,10455,58,20240306,Cardiac procedure,260,Success
+693,708,31,20240305,Orthopedic repair,300,Success
+694,1111,8,20240311,Orthopedic repair,274,Success
+695,4191,62,20241219,Orthopedic repair,283,Success
+696,6410,46,20241109,Appendectomy,121,Success
+697,14218,75,20240701,Cardiac procedure,270,Success
+698,12878,15,20241001,Cataract,309,Success
+699,13272,29,20241026,Orthopedic repair,294,Success
+700,11134,34,20240326,Cardiac procedure,214,Success
+701,10532,116,20240603,Appendectomy,172,Success
+702,8266,80,20240925,Cataract,224,Success
+703,14451,86,20240529,Orthopedic repair,294,Success
+704,12514,30,20241213,Cardiac procedure,51,Success
+705,439,38,20241125,Cardiac procedure,175,Success
+706,3093,37,20241106,Cardiac procedure,64,Success
+707,13517,66,20240213,Appendectomy,227,Success
+708,9722,59,20240917,Cataract,359,Success
+709,3080,38,20240401,Cardiac procedure,90,Success
+710,12153,28,20240111,Appendectomy,171,Success
+711,4802,90,20240524,Appendectomy,93,Complications
+712,4606,6,20241020,Orthopedic repair,201,Success
+713,1623,115,20240325,Cardiac procedure,71,Success
+714,4769,44,20240324,Orthopedic repair,263,Success
+715,13941,15,20241224,Cataract,208,Success
+716,3860,87,20240212,Cataract,71,Success
+717,2855,103,20240406,Cataract,275,Success
+718,11882,52,20240621,Appendectomy,319,Success
+719,5304,20,20240805,Orthopedic repair,128,Success
+720,10313,52,20240905,Appendectomy,189,Success
+721,10189,88,20240125,Cataract,178,Success
+722,3749,53,20240921,Cataract,197,Success
+723,11136,104,20240421,Orthopedic repair,259,Success
+724,5320,30,20240114,Appendectomy,263,Success
+725,12344,35,20240730,Cataract,195,Success
+726,435,100,20240901,General surgery,227,Success
+727,47,91,20240421,Appendectomy,64,Success
+728,8584,56,20241105,Cataract,206,Success
+729,6276,52,20240417,General surgery,197,Success
+730,8007,16,20240214,Orthopedic repair,212,Success
+731,10210,107,20240426,Orthopedic repair,290,Success
+732,7896,89,20240325,Appendectomy,103,Success
+733,7307,87,20240520,Cataract,167,Success
+734,2526,105,20241205,Cardiac procedure,94,Success
+735,10927,69,20240217,Appendectomy,195,Success
+736,3396,14,20241029,General surgery,150,Success
+737,12295,26,20241029,Cataract,327,Success
+738,9243,110,20240125,General surgery,109,Success
+739,8397,71,20241122,Orthopedic repair,358,Success
+740,10398,72,20240618,General surgery,223,Success
+741,1911,54,20240923,Cataract,159,Success
+742,11526,105,20240817,Orthopedic repair,42,Success
+743,907,35,20240410,Appendectomy,316,Success
+744,10115,84,20240630,Orthopedic repair,261,Success
+745,4835,50,20240109,Orthopedic repair,227,Success
+746,1759,77,20240923,Appendectomy,35,Success
+747,6319,21,20241022,Appendectomy,149,Success
+748,4322,38,20240501,Cataract,348,Success
+749,9379,49,20240205,General surgery,201,Success
+750,12301,68,20240208,Cardiac procedure,55,Success
+751,6185,114,20240423,Cataract,87,Success
+752,176,15,20240827,Appendectomy,282,Success
+753,14487,101,20240605,Cataract,151,Success
+754,14993,111,20240321,Orthopedic repair,96,Success
+755,13153,47,20241226,Orthopedic repair,49,Success
+756,2677,45,20240624,General surgery,78,Success
+757,4382,84,20240215,Appendectomy,272,Complications
+758,10114,58,20240905,Appendectomy,50,Success
+759,12863,47,20240328,Appendectomy,210,Success
+760,13964,77,20240109,Appendectomy,200,Success
+761,11439,36,20240303,Cardiac procedure,52,Success
+762,10409,96,20240309,Orthopedic repair,176,Success
+763,2749,73,20240505,General surgery,41,Success
+764,12557,106,20241030,Appendectomy,328,Success
+765,5578,48,20240610,General surgery,168,Success
+766,9112,31,20240229,General surgery,329,Success
+767,13847,89,20240102,Orthopedic repair,42,Success
+768,836,44,20240131,Orthopedic repair,290,Success
+769,9509,66,20241121,Cardiac procedure,121,Success
+770,11625,46,20240729,Cardiac procedure,118,Success
+771,1325,65,20240409,Appendectomy,213,Success
+772,12041,24,20241005,Appendectomy,201,Success
+773,12622,55,20241026,General surgery,272,Success
+774,457,74,20240822,Cardiac procedure,217,Success
+775,8327,117,20241013,Cataract,60,Success
+776,11881,3,20241003,Cataract,104,Success
+777,3169,109,20240619,Appendectomy,274,Success
+778,12364,68,20240703,Orthopedic repair,152,Success
+779,8540,50,20240323,Cardiac procedure,208,Success
+780,71,105,20241026,General surgery,170,Success
+781,6955,20,20241109,Orthopedic repair,348,Success
+782,4933,58,20240406,Orthopedic repair,212,Success
+783,5543,90,20240531,General surgery,230,Success
+784,2011,117,20240218,Cardiac procedure,257,Success
+785,4625,57,20241216,General surgery,261,Success
+786,14609,82,20240526,General surgery,290,Success
+787,6985,72,20240124,General surgery,358,Success
+788,10393,52,20240420,General surgery,223,Complications
+789,3444,64,20240919,Cataract,261,Success
+790,6946,54,20240408,Cardiac procedure,77,Success
+791,2336,65,20240213,Orthopedic repair,301,Success
+792,4240,117,20240101,Cardiac procedure,356,Success
+793,411,116,20240821,Cardiac procedure,31,Success
+794,1983,44,20240526,Cataract,303,Success
+795,3450,33,20240515,General surgery,138,Success
+796,4970,112,20240628,Orthopedic repair,346,Success
+797,9016,64,20241106,General surgery,308,Success
+798,9636,67,20241023,Cataract,249,Success
+799,14815,8,20240308,Orthopedic repair,250,Success
+800,11017,48,20240612,Cardiac procedure,193,Success
+801,12522,25,20240229,Appendectomy,178,Success
+802,5687,115,20240114,Orthopedic repair,302,Success
+803,3637,73,20240516,Cataract,290,Success
+804,7875,23,20240711,Appendectomy,152,Success
+805,10,119,20240210,Orthopedic repair,182,Success
+806,8943,57,20241023,Cataract,142,Success
+807,10397,90,20240720,Orthopedic repair,296,Success
+808,4914,63,20240128,Cardiac procedure,160,Success
+809,1466,12,20240513,Orthopedic repair,343,Success
+810,1698,16,20240805,Cataract,285,Success
+811,5736,84,20241007,Appendectomy,251,Success
+812,2310,9,20241128,Cardiac procedure,31,Complications
+813,4032,6,20240618,Cardiac procedure,149,Success
+814,8112,72,20240424,Appendectomy,136,Success
+815,1347,108,20240107,Cataract,136,Success
+816,3173,70,20240202,Appendectomy,82,Success
+817,3192,32,20240118,Cataract,123,Success
+818,2798,104,20241220,Cataract,314,Success
+819,14502,103,20241107,General surgery,334,Success
+820,14496,105,20240616,Cataract,317,Success
+821,715,30,20241219,Cardiac procedure,347,Success
+822,13808,53,20240112,Cardiac procedure,205,Success
+823,11064,72,20241109,Orthopedic repair,276,Success
+824,11978,91,20240301,Cataract,334,Success
+825,3676,56,20240806,General surgery,201,Success
+826,11960,120,20240526,Cataract,271,Success
+827,2290,78,20241026,Cardiac procedure,258,Success
+828,12922,90,20241211,Orthopedic repair,269,Success
+829,3075,105,20240617,General surgery,133,Success
+830,5361,51,20240719,Orthopedic repair,110,Success
+831,12758,31,20240818,Orthopedic repair,70,Success
+832,1622,47,20240615,General surgery,238,Success
+833,10327,91,20240124,Cardiac procedure,205,Success
+834,2142,17,20240710,Cataract,324,Success
+835,1145,62,20240714,General surgery,276,Success
+836,11583,78,20241205,Orthopedic repair,283,Success
+837,4575,119,20241027,Cataract,273,Success
+838,9050,50,20241127,General surgery,185,Success
+839,6973,28,20240914,Appendectomy,173,Success
+840,12045,29,20241005,Cataract,307,Success
+841,3315,68,20240313,Appendectomy,131,Success
+842,8224,60,20241212,Appendectomy,351,Success
+843,2249,88,20241220,Orthopedic repair,339,Success
+844,10997,70,20240419,Cataract,92,Success
+845,9044,44,20240707,Appendectomy,340,Success
+846,9621,104,20241211,Appendectomy,36,Success
+847,12824,18,20240805,Cardiac procedure,333,Success
+848,10073,89,20240814,Appendectomy,68,Success
+849,5144,112,20241022,Orthopedic repair,199,Success
+850,13827,40,20240826,Orthopedic repair,337,Success
+851,3613,83,20240803,Appendectomy,154,Success
+852,12992,90,20240511,Appendectomy,168,Success
+853,10664,57,20241209,Cardiac procedure,276,Success
+854,13427,41,20240729,Orthopedic repair,96,Success
+855,7109,27,20240229,Cardiac procedure,218,Success
+856,13889,116,20240327,General surgery,243,Success
+857,12433,17,20240212,Cardiac procedure,216,Success
+858,3766,58,20240325,Appendectomy,358,Success
+859,11597,105,20240506,Appendectomy,66,Success
+860,4681,120,20240509,Cataract,343,Success
+861,4717,10,20240207,Appendectomy,166,Success
+862,11589,53,20240208,Cataract,49,Success
+863,3446,103,20240601,Cataract,112,Success
+864,12582,81,20240504,Cataract,122,Success
+865,6100,117,20240507,Appendectomy,294,Success
+866,14996,29,20240411,Cardiac procedure,346,Success
+867,11390,104,20240702,Cataract,51,Success
+868,5332,113,20240307,General surgery,35,Success
+869,4248,119,20240519,Appendectomy,210,Success
+870,8393,72,20240512,Cataract,216,Success
+871,11362,8,20240202,General surgery,45,Success
+872,2041,75,20240210,Orthopedic repair,35,Success
+873,10096,91,20240311,Cataract,255,Success
+874,4129,62,20240424,General surgery,234,Success
+875,11613,71,20241206,Cardiac procedure,192,Success
+876,14583,77,20240207,Cataract,255,Success
+877,11435,92,20241014,Cardiac procedure,265,Success
+878,1229,89,20241215,Orthopedic repair,317,Success
+879,11433,91,20240120,Orthopedic repair,199,Success
+880,13440,59,20240824,General surgery,93,Success
+881,10677,113,20240111,Cataract,94,Success
+882,2343,45,20240507,Cataract,305,Success
+883,6681,33,20240202,Appendectomy,84,Success
+884,9907,72,20241006,Cardiac procedure,93,Success
+885,5193,53,20241213,Cataract,354,Success
+886,3626,76,20240526,Cataract,226,Success
+887,10277,20,20241025,Appendectomy,155,Success
+888,8745,106,20240103,Cardiac procedure,147,Success
+889,436,95,20240725,General surgery,341,Success
+890,3361,59,20241214,Cardiac procedure,239,Success
+891,9157,35,20240105,General surgery,208,Success
+892,11742,62,20240712,Cataract,289,Success
+893,7168,111,20240704,Appendectomy,159,Success
+894,6348,21,20240226,General surgery,107,Success
+895,13510,33,20240717,Cataract,268,Success
+896,2048,12,20241201,Cataract,273,Success
+897,2243,13,20240423,Appendectomy,72,Success
+898,5731,72,20240507,Cataract,249,Success
+899,11131,84,20240507,Cataract,147,Success
+900,12770,69,20241007,Cataract,86,Success
+901,6280,9,20241210,Orthopedic repair,90,Success
+902,6606,31,20240519,Appendectomy,181,Success
+903,3120,78,20240209,Cardiac procedure,203,Success
+904,2309,74,20240716,Cataract,171,Success
+905,7945,29,20240903,Cataract,153,Success
+906,6410,44,20241118,Appendectomy,321,Success
+907,11501,48,20240907,Appendectomy,347,Success
+908,12718,92,20240728,Orthopedic repair,77,Success
+909,11245,44,20240308,Orthopedic repair,177,Success
+910,3247,18,20240531,Orthopedic repair,286,Success
+911,6801,105,20240525,General surgery,333,Success
+912,10587,93,20240926,General surgery,184,Success
+913,4618,24,20240111,Orthopedic repair,184,Success
+914,13225,86,20240509,Cataract,169,Success
+915,6897,86,20241013,Appendectomy,152,Success
+916,7351,32,20240216,General surgery,317,Success
+917,13012,25,20240714,Orthopedic repair,47,Success
+918,7095,56,20241204,General surgery,60,Success
+919,7581,11,20240311,Cardiac procedure,263,Complications
+920,1007,90,20240621,General surgery,171,Success
+921,749,22,20240729,Cataract,82,Success
+922,12909,28,20240225,Appendectomy,172,Success
+923,14671,88,20240226,Orthopedic repair,128,Success
+924,10726,85,20240623,Appendectomy,266,Success
+925,2841,60,20240306,Orthopedic repair,302,Success
+926,3508,58,20240810,Appendectomy,263,Success
+927,7522,109,20240305,Cardiac procedure,256,Success
+928,858,90,20241212,General surgery,127,Success
+929,1007,51,20240218,Cardiac procedure,246,Success
+930,6908,114,20240804,General surgery,156,Success
+931,6,116,20241225,Cataract,80,Success
+932,11510,36,20240327,Cardiac procedure,83,Success
+933,2703,105,20240613,Cataract,357,Success
+934,10263,45,20240311,Cardiac procedure,317,Success
+935,5435,73,20240618,Cataract,95,Success
+936,7806,10,20240727,Appendectomy,71,Success
+937,8890,93,20240806,Cataract,172,Success
+938,12046,22,20240205,Cardiac procedure,187,Success
+939,7090,39,20241126,General surgery,116,Success
+940,13408,66,20240208,General surgery,84,Success
+941,1540,31,20240418,Orthopedic repair,245,Success
+942,3284,14,20240207,Cardiac procedure,116,Success
+943,13324,115,20240811,Cardiac procedure,67,Success
+944,1438,3,20240708,Appendectomy,87,Success
+945,4769,12,20240901,Cataract,49,Success
+946,8506,40,20240907,Cardiac procedure,284,Success
+947,7771,7,20241204,Appendectomy,145,Success
+948,310,120,20240116,General surgery,113,Success
+949,7388,35,20240730,Orthopedic repair,351,Success
+950,383,34,20240610,Cataract,94,Success
+951,2314,63,20240415,Cardiac procedure,219,Success
+952,10025,74,20241212,General surgery,356,Success
+953,11046,120,20240314,Orthopedic repair,202,Success
+954,8764,32,20240327,General surgery,154,Success
+955,715,11,20240603,Orthopedic repair,227,Success
+956,195,118,20241205,General surgery,274,Success
+957,14462,104,20240225,General surgery,79,Success
+958,3719,10,20241016,Cardiac procedure,108,Success
+959,8811,57,20241203,Appendectomy,276,Success
+960,5419,60,20240301,General surgery,349,Complications
+961,14640,102,20241105,Cataract,77,Success
+962,10488,51,20240926,Cardiac procedure,332,Success
+963,425,22,20240323,Cardiac procedure,302,Success
+964,12750,46,20240604,General surgery,192,Success
+965,2114,41,20240506,Cardiac procedure,129,Success
+966,3946,13,20240117,Cataract,300,Success
+967,14163,110,20240725,Appendectomy,241,Success
+968,2603,94,20240212,Cardiac procedure,120,Success
+969,12912,66,20241219,Cardiac procedure,209,Success
+970,4796,33,20240725,Appendectomy,258,Success
+971,14642,41,20240226,Cataract,88,Success
+972,12743,83,20240119,Cataract,137,Death
+973,4585,114,20240102,Appendectomy,62,Success
+974,2739,45,20240507,General surgery,224,Success
+975,2761,5,20240719,Cataract,49,Success
+976,1394,44,20241209,Orthopedic repair,167,Success
+977,9488,81,20240929,Appendectomy,254,Success
+978,5328,45,20240130,Appendectomy,359,Success
+979,551,34,20240406,Appendectomy,260,Success
+980,6193,115,20240202,Orthopedic repair,222,Success
+981,8362,67,20240117,Cardiac procedure,285,Success
+982,7383,74,20240101,Appendectomy,312,Success
+983,13272,82,20241201,Orthopedic repair,185,Success
+984,2814,29,20240209,General surgery,186,Success
+985,1823,78,20240420,Cardiac procedure,118,Success
+986,1283,111,20240426,Cardiac procedure,67,Success
+987,6488,8,20240131,Cardiac procedure,48,Success
+988,10381,17,20240412,Appendectomy,199,Success
+989,1033,19,20240225,Cardiac procedure,112,Success
+990,7652,37,20240907,Orthopedic repair,288,Complications
+991,276,20,20241020,Appendectomy,201,Success
+992,6988,112,20240309,Cataract,155,Success
+993,11230,3,20240228,Cataract,189,Success
+994,9936,100,20240403,General surgery,216,Success
+995,14459,47,20240504,General surgery,260,Success
+996,4764,82,20241209,General surgery,351,Success
+997,12644,55,20240626,General surgery,250,Success
+998,4966,49,20240117,Orthopedic repair,286,Success
+999,3607,49,20240515,Cardiac procedure,200,Success
+1000,10320,27,20241216,Cataract,80,Success
+1001,1549,114,20240508,Orthopedic repair,81,Success
+1002,4577,51,20240513,Orthopedic repair,296,Success
+1003,13858,19,20240619,Cardiac procedure,264,Success
+1004,13366,93,20240501,Cataract,176,Success
+1005,1425,13,20241011,Appendectomy,128,Success
+1006,5584,26,20240531,Cardiac procedure,141,Success
+1007,7850,67,20241230,Cardiac procedure,242,Complications
+1008,1053,2,20240703,Cataract,80,Success
+1009,12511,31,20240406,Appendectomy,57,Success
+1010,11030,87,20241105,General surgery,287,Success
+1011,6033,110,20241029,General surgery,60,Success
+1012,5614,43,20241102,Appendectomy,212,Success
+1013,8434,92,20240427,Orthopedic repair,110,Success
+1014,13116,61,20240201,General surgery,157,Success
+1015,9902,22,20240405,Appendectomy,303,Success
+1016,13274,110,20240707,Cataract,278,Success
+1017,11379,45,20240411,Cataract,154,Success
+1018,7479,48,20240706,General surgery,164,Success
+1019,1259,26,20241114,General surgery,231,Success
+1020,6635,117,20240529,Cardiac procedure,74,Success
+1021,1732,75,20240313,Cataract,53,Success
+1022,7510,114,20240819,Orthopedic repair,338,Success
+1023,7708,10,20240707,Orthopedic repair,227,Success
+1024,6315,46,20240118,Orthopedic repair,91,Success
+1025,11096,111,20240810,Cataract,228,Success
+1026,7488,104,20240802,Cardiac procedure,339,Success
+1027,8746,23,20241013,Cataract,196,Success
+1028,8075,54,20240315,Cardiac procedure,62,Success
+1029,13435,30,20240511,Orthopedic repair,141,Success
+1030,14460,62,20240210,Appendectomy,191,Success
+1031,1978,80,20240107,Appendectomy,223,Success
+1032,555,101,20240123,General surgery,162,Success
+1033,4528,54,20240806,Appendectomy,59,Success
+1034,10036,17,20240806,General surgery,136,Success
+1035,7057,47,20240201,Cardiac procedure,192,Success
+1036,14882,22,20241002,General surgery,98,Success
+1037,14478,119,20240412,Appendectomy,143,Success
+1038,14733,118,20241027,Appendectomy,103,Success
+1039,13972,91,20240203,Cataract,250,Success
+1040,4765,86,20241218,General surgery,305,Success
+1041,2388,105,20241014,General surgery,290,Success
+1042,13216,99,20241002,Appendectomy,345,Success
+1043,1231,67,20240730,Orthopedic repair,286,Success
+1044,3845,36,20240917,Orthopedic repair,344,Success
+1045,8005,48,20240410,General surgery,120,Complications
+1046,10915,109,20240912,Cardiac procedure,138,Success
+1047,8396,60,20240114,Orthopedic repair,205,Success
+1048,5956,100,20241202,Orthopedic repair,110,Success
+1049,8026,64,20240917,Cardiac procedure,80,Success
+1050,3762,116,20240222,General surgery,58,Success
+1051,4880,57,20240609,Cataract,128,Success
+1052,9113,18,20240717,Orthopedic repair,94,Success
+1053,4881,66,20240308,General surgery,171,Success
+1054,5308,23,20241025,Cardiac procedure,54,Success
+1055,3587,77,20241208,Cardiac procedure,145,Success
+1056,1004,109,20240511,Cardiac procedure,195,Success
+1057,10706,32,20241122,Cataract,83,Success
+1058,7961,2,20240404,Orthopedic repair,74,Success
+1059,8440,115,20240223,Cardiac procedure,67,Success
+1060,12308,53,20240916,Orthopedic repair,345,Success
+1061,10279,90,20240223,Appendectomy,137,Success
+1062,4735,108,20240319,Cataract,285,Success
+1063,9485,112,20241216,Cataract,185,Success
+1064,4152,114,20241013,Cataract,342,Success
+1065,2577,112,20241016,Orthopedic repair,227,Success
+1066,2187,99,20240513,Cataract,266,Success
+1067,2392,18,20241220,Cardiac procedure,181,Success
+1068,4824,27,20240502,Orthopedic repair,145,Success
+1069,3140,72,20241121,Cataract,256,Success
+1070,13365,12,20241002,Appendectomy,50,Success
+1071,6246,81,20240527,Cataract,68,Success
+1072,568,107,20240729,General surgery,140,Success
+1073,1361,29,20241212,Cardiac procedure,56,Success
+1074,10128,118,20240105,Cataract,214,Success
+1075,14912,94,20240307,Cataract,335,Success
+1076,5474,110,20240809,Cardiac procedure,51,Success
+1077,12399,99,20240806,Orthopedic repair,340,Success
+1078,8917,11,20240411,General surgery,34,Success
+1079,8370,58,20240611,Appendectomy,291,Success
+1080,12074,28,20240725,General surgery,33,Success
+1081,1145,71,20240604,Cataract,262,Success
+1082,808,92,20240803,Orthopedic repair,105,Success
+1083,4389,17,20240222,General surgery,90,Success
+1084,2138,107,20240206,Appendectomy,166,Success
+1085,3366,118,20240927,Orthopedic repair,315,Success
+1086,1513,115,20240906,General surgery,57,Success
+1087,7088,85,20240208,Cardiac procedure,226,Success
+1088,6958,94,20240209,Orthopedic repair,182,Success
+1089,2376,39,20240808,General surgery,130,Success
+1090,8192,95,20241103,Cataract,243,Success
+1091,13620,52,20240707,Cardiac procedure,231,Success
+1092,5319,10,20240320,Appendectomy,259,Success
+1093,1377,99,20240801,Appendectomy,292,Success
+1094,8037,49,20240425,Orthopedic repair,227,Success
+1095,6248,58,20240913,Orthopedic repair,80,Success
+1096,6718,4,20240731,Cataract,276,Success
+1097,9979,85,20241120,Appendectomy,124,Success
+1098,10327,89,20240409,Cardiac procedure,69,Success
+1099,1062,55,20240821,General surgery,355,Death
+1100,1069,109,20240224,Cataract,348,Success
+1101,1022,41,20241008,Appendectomy,340,Success
+1102,2173,79,20241022,Appendectomy,288,Success
+1103,6557,98,20241229,Appendectomy,352,Success
+1104,6033,118,20241208,Cataract,231,Success
+1105,12883,25,20241213,Cataract,148,Success
+1106,13930,2,20240710,Orthopedic repair,255,Success
+1107,2155,74,20240502,Cardiac procedure,46,Success
+1108,7120,1,20240818,Orthopedic repair,270,Success
+1109,8254,14,20241206,Cardiac procedure,302,Success
+1110,5630,64,20240305,Orthopedic repair,230,Success
+1111,6050,62,20240321,Cardiac procedure,42,Success
+1112,6378,71,20240101,Cataract,193,Success
+1113,1807,97,20240601,Appendectomy,163,Success
+1114,3539,14,20240815,Appendectomy,121,Success
+1115,6943,28,20240922,Cataract,281,Success
+1116,321,51,20240923,Orthopedic repair,58,Success
+1117,10700,27,20240216,Orthopedic repair,255,Success
+1118,14266,93,20241220,General surgery,129,Success
+1119,1341,32,20241112,Appendectomy,234,Success
+1120,9190,102,20240511,Appendectomy,201,Success
+1121,3855,38,20240606,General surgery,103,Success
+1122,6499,55,20240309,Orthopedic repair,141,Success
+1123,8522,9,20240118,Appendectomy,200,Success
+1124,5380,97,20241221,General surgery,57,Success
+1125,337,90,20240128,Cataract,122,Success
+1126,8851,24,20240421,General surgery,52,Success
+1127,10115,120,20240901,Cardiac procedure,54,Success
+1128,9738,81,20241016,Appendectomy,258,Success
+1129,3488,43,20240802,Cataract,157,Success
+1130,7859,49,20240626,Cardiac procedure,166,Success
+1131,10589,23,20240609,General surgery,273,Success
+1132,14052,43,20240929,Orthopedic repair,45,Success
+1133,7299,57,20240119,Appendectomy,283,Success
+1134,7647,6,20240202,Orthopedic repair,143,Success
+1135,8439,9,20240908,Appendectomy,39,Success
+1136,11583,38,20240411,Appendectomy,190,Success
+1137,3231,67,20240915,General surgery,262,Success
+1138,7676,90,20240406,Cardiac procedure,343,Success
+1139,1417,32,20241130,General surgery,250,Success
+1140,12209,23,20240822,General surgery,324,Success
+1141,4217,58,20241228,Orthopedic repair,255,Success
+1142,3864,66,20240104,Cardiac procedure,69,Success
+1143,8444,62,20240625,General surgery,309,Success
+1144,5416,75,20240610,Appendectomy,309,Success
+1145,9917,50,20240601,Cardiac procedure,79,Success
+1146,8564,19,20240304,Appendectomy,111,Success
+1147,6471,21,20240719,General surgery,115,Complications
+1148,7251,1,20240801,Cataract,189,Success
+1149,10427,13,20240808,General surgery,108,Success
+1150,11655,9,20240305,Cardiac procedure,254,Success
+1151,2097,114,20240506,Orthopedic repair,160,Success
+1152,11111,106,20241226,Orthopedic repair,109,Success
+1153,2189,65,20240928,General surgery,227,Success
+1154,13126,100,20240708,Cardiac procedure,178,Success
+1155,11630,106,20241214,Orthopedic repair,133,Success
+1156,11124,3,20240616,Cardiac procedure,77,Success
+1157,14623,74,20240826,Cataract,350,Success
+1158,14106,66,20240530,Orthopedic repair,82,Success
+1159,2296,69,20241106,Orthopedic repair,313,Success
+1160,843,53,20241004,Cataract,203,Success
+1161,13093,119,20241013,Cardiac procedure,72,Success
+1162,2756,109,20240730,General surgery,180,Complications
+1163,8318,75,20241024,Appendectomy,352,Success
+1164,11564,43,20240115,Cardiac procedure,195,Success
+1165,7685,18,20240222,Orthopedic repair,212,Success
+1166,11919,85,20240727,General surgery,124,Success
+1167,13846,90,20240902,Orthopedic repair,52,Success
+1168,4283,38,20241020,General surgery,335,Success
+1169,12002,28,20240601,Cardiac procedure,89,Success
+1170,9502,53,20240720,Cataract,184,Success
+1171,7405,10,20240224,Cataract,215,Success
+1172,2407,35,20240521,Cataract,277,Success
+1173,733,83,20240512,General surgery,324,Success
+1174,8319,81,20240214,Appendectomy,126,Success
+1175,9743,92,20241231,Appendectomy,99,Success
+1176,10374,114,20240413,General surgery,219,Success
+1177,4614,31,20240909,General surgery,110,Success
+1178,8773,19,20240502,General surgery,179,Success
+1179,7498,100,20240814,General surgery,338,Success
+1180,14590,62,20240907,Cardiac procedure,36,Success
+1181,10596,109,20241109,Orthopedic repair,318,Success
+1182,12322,79,20240409,Cataract,122,Success
+1183,4248,95,20240411,Appendectomy,208,Success
+1184,5015,29,20240531,General surgery,342,Success
+1185,9166,44,20241005,General surgery,309,Success
+1186,6812,41,20240909,Appendectomy,113,Success
+1187,13443,96,20240821,General surgery,317,Success
+1188,1158,40,20240521,Orthopedic repair,91,Success
+1189,8345,86,20240702,Orthopedic repair,99,Success
+1190,2432,20,20241126,Appendectomy,320,Complications
+1191,2639,20,20240211,Appendectomy,134,Success
+1192,6144,68,20240405,Cardiac procedure,291,Success
+1193,8379,81,20240818,Cataract,354,Success
+1194,7215,61,20241122,Orthopedic repair,55,Success
+1195,10880,20,20241012,General surgery,252,Success
+1196,4180,117,20241011,Orthopedic repair,149,Success
+1197,3732,73,20241106,Orthopedic repair,201,Success
+1198,2890,90,20241111,General surgery,318,Success
+1199,4615,96,20240305,General surgery,138,Success
+1200,8361,111,20241014,Cardiac procedure,143,Success
+1201,1083,19,20240402,General surgery,58,Success
+1202,7272,96,20240409,Cardiac procedure,62,Success
+1203,14519,108,20240314,Appendectomy,239,Success
+1204,684,119,20240726,Cataract,80,Success
+1205,9087,84,20240714,Appendectomy,52,Success
+1206,2068,81,20240922,Cardiac procedure,202,Success
+1207,11044,65,20240720,Appendectomy,196,Success
+1208,9792,96,20240305,Cardiac procedure,37,Success
+1209,13208,31,20240229,Cardiac procedure,195,Success
+1210,2739,3,20240628,Appendectomy,186,Success
+1211,13172,8,20240826,Cataract,140,Success
+1212,712,42,20241229,Orthopedic repair,219,Success
+1213,1247,99,20240531,Orthopedic repair,252,Success
+1214,7426,111,20241207,Orthopedic repair,300,Success
+1215,11471,35,20241101,Cardiac procedure,107,Success
+1216,11556,3,20240113,Cataract,269,Success
+1217,10512,64,20241209,Cardiac procedure,292,Success
+1218,13228,74,20240901,Cataract,96,Success
+1219,4564,103,20240716,Cardiac procedure,350,Success
+1220,6983,72,20240914,Orthopedic repair,287,Success
+1221,14413,17,20240508,Orthopedic repair,337,Success
+1222,7341,112,20241010,General surgery,104,Success
+1223,10002,32,20241106,Cataract,37,Success
+1224,7650,71,20240918,General surgery,267,Success
+1225,1236,103,20241203,Orthopedic repair,179,Success
+1226,1042,73,20240618,Cataract,255,Success
+1227,13704,2,20240929,General surgery,307,Success
+1228,12065,78,20240712,Appendectomy,170,Success
+1229,13080,118,20240330,General surgery,42,Success
+1230,6767,6,20240813,Appendectomy,276,Success
+1231,14454,23,20240428,Appendectomy,131,Success
+1232,7304,25,20240528,Cataract,288,Success
+1233,12126,71,20240131,General surgery,206,Success
+1234,14389,61,20240927,Orthopedic repair,351,Success
+1235,6136,17,20241113,Orthopedic repair,315,Success
+1236,12019,67,20240306,Cataract,157,Success
+1237,12561,76,20240622,General surgery,60,Success
+1238,10693,38,20240217,General surgery,147,Success
+1239,13291,33,20241103,Appendectomy,342,Success
+1240,7077,22,20240729,Cataract,124,Success
+1241,13738,91,20241025,Cataract,79,Success
+1242,8321,116,20240929,General surgery,150,Success
+1243,3131,85,20241222,Cataract,79,Success
+1244,14435,7,20241203,Orthopedic repair,354,Success
+1245,14373,28,20240905,Orthopedic repair,329,Success
+1246,14116,21,20240508,Cataract,258,Success
+1247,4598,36,20240120,Appendectomy,39,Success
+1248,14970,61,20241101,Appendectomy,181,Success
+1249,5749,60,20240104,Appendectomy,324,Complications
+1250,7589,106,20240326,General surgery,44,Success
+1251,7419,76,20240106,Cataract,141,Success
+1252,4665,17,20240807,General surgery,235,Success
+1253,9433,49,20240829,Cardiac procedure,122,Success
+1254,9364,5,20240229,Cataract,74,Success
+1255,8056,14,20240518,Appendectomy,200,Success
+1256,14218,66,20241206,Appendectomy,168,Success
+1257,7840,109,20240227,Appendectomy,100,Success
+1258,11537,119,20240216,General surgery,278,Success
+1259,2032,42,20240719,General surgery,227,Success
+1260,6886,106,20241029,Cardiac procedure,255,Success
+1261,13590,98,20240812,General surgery,157,Success
+1262,5601,94,20240130,Cardiac procedure,249,Success
+1263,5328,83,20240308,Cardiac procedure,52,Success
+1264,1235,82,20240613,General surgery,35,Success
+1265,3161,79,20241210,Appendectomy,63,Success
+1266,2065,28,20240221,General surgery,76,Success
+1267,6534,40,20240224,Orthopedic repair,139,Success
+1268,9035,88,20240326,Cataract,303,Success
+1269,3204,104,20241231,General surgery,314,Success
+1270,1571,43,20241020,Cataract,182,Success
+1271,13372,18,20241120,Cataract,353,Success
+1272,4868,95,20240511,Orthopedic repair,75,Success
+1273,8920,88,20240106,Cardiac procedure,167,Success
+1274,11411,39,20241018,Orthopedic repair,346,Success
+1275,12524,110,20240807,General surgery,354,Success
+1276,14848,12,20240201,General surgery,124,Success
+1277,12255,10,20241220,Appendectomy,328,Success
+1278,13887,75,20240318,Cardiac procedure,351,Success
+1279,14668,44,20240130,Cataract,174,Success
+1280,1714,77,20240902,Appendectomy,262,Success
+1281,7361,8,20240710,Appendectomy,60,Success
+1282,8098,97,20241201,Cardiac procedure,247,Success
+1283,940,92,20240317,Cardiac procedure,258,Success
+1284,1956,30,20240418,Appendectomy,151,Success
+1285,2232,1,20240914,Appendectomy,331,Success
+1286,4634,118,20240904,General surgery,211,Success
+1287,8348,61,20241223,General surgery,274,Success
+1288,9146,103,20240801,Appendectomy,112,Success
+1289,5821,53,20240921,General surgery,34,Success
+1290,1917,21,20240531,Appendectomy,349,Success
+1291,14604,25,20240809,Cardiac procedure,40,Success
+1292,7450,16,20241210,Orthopedic repair,282,Success
+1293,10052,81,20241110,Cataract,296,Success
+1294,84,51,20240521,Cataract,295,Success
+1295,14296,44,20240817,Cataract,113,Success
+1296,7815,102,20241103,Orthopedic repair,276,Success
+1297,708,21,20240203,Orthopedic repair,160,Success
+1298,14911,34,20240416,Appendectomy,316,Success
+1299,4494,3,20241227,Cardiac procedure,330,Success
+1300,6648,12,20240915,Cataract,60,Success
+1301,1431,87,20240924,General surgery,115,Success
+1302,9172,21,20241124,Appendectomy,205,Success
+1303,14517,50,20240608,Appendectomy,102,Success
+1304,9811,42,20240310,Orthopedic repair,97,Success
+1305,6525,99,20240625,Appendectomy,176,Success
+1306,115,62,20240129,Cataract,337,Success
+1307,1992,57,20240927,Appendectomy,56,Success
+1308,7583,31,20240602,General surgery,253,Success
+1309,2034,80,20240228,Orthopedic repair,34,Success
+1310,12995,23,20240101,Cataract,50,Success
+1311,7931,49,20241029,Cardiac procedure,112,Success
+1312,10137,67,20240718,General surgery,270,Success
+1313,12598,58,20240827,Orthopedic repair,108,Success
+1314,7813,57,20240908,Appendectomy,77,Success
+1315,10312,52,20240425,Cataract,274,Success
+1316,4449,117,20240318,General surgery,255,Success
+1317,3353,76,20240228,General surgery,200,Success
+1318,5498,97,20241228,Cataract,103,Success
+1319,13642,12,20240518,Cataract,113,Success
+1320,6346,84,20240515,General surgery,186,Success
+1321,6359,22,20240217,Orthopedic repair,273,Success
+1322,8142,3,20240103,Cardiac procedure,238,Success
+1323,8873,97,20240221,General surgery,326,Success
+1324,6125,99,20240212,Cardiac procedure,54,Success
+1325,14449,88,20241023,General surgery,40,Success
+1326,8279,50,20240622,Cardiac procedure,95,Success
+1327,12239,51,20240223,Cardiac procedure,188,Success
+1328,9810,10,20240709,Cardiac procedure,201,Success
+1329,14948,75,20240710,Cardiac procedure,330,Success
+1330,14054,9,20240510,Orthopedic repair,234,Success
+1331,13710,66,20240613,Appendectomy,270,Success
+1332,5308,78,20240327,Cataract,250,Success
+1333,2761,91,20241130,Orthopedic repair,147,Complications
+1334,14391,21,20241226,Appendectomy,226,Success
+1335,1585,6,20240226,General surgery,213,Success
+1336,5341,75,20241229,Cardiac procedure,332,Success
+1337,10209,34,20240119,Cardiac procedure,90,Success
+1338,8210,117,20240430,Orthopedic repair,210,Success
+1339,14895,86,20241026,General surgery,300,Success
+1340,12140,88,20240101,Cataract,316,Success
+1341,137,44,20240213,Orthopedic repair,302,Success
+1342,10192,12,20240822,Cataract,154,Success
+1343,5379,95,20240728,Cataract,324,Success
+1344,10950,38,20240510,Appendectomy,352,Success
+1345,11142,68,20240601,Cataract,351,Success
+1346,13691,32,20241225,Cataract,30,Success
+1347,12088,95,20240807,General surgery,161,Complications
+1348,6263,10,20240426,Orthopedic repair,118,Success
+1349,10206,87,20241114,Appendectomy,80,Success
+1350,11086,110,20241103,Cataract,319,Success
+1351,306,21,20240222,Cardiac procedure,134,Success
+1352,7645,52,20240820,General surgery,155,Success
+1353,6819,22,20240214,Cataract,137,Complications
+1354,9124,14,20240815,Orthopedic repair,96,Success
+1355,11287,117,20241230,Cardiac procedure,113,Success
+1356,8764,109,20240329,Appendectomy,315,Success
+1357,2567,95,20240130,Orthopedic repair,178,Success
+1358,2504,107,20241208,Cataract,60,Success
+1359,2132,6,20240815,General surgery,210,Success
+1360,9857,65,20240627,Appendectomy,358,Success
+1361,5139,78,20240927,Cataract,229,Success
+1362,554,102,20241212,Orthopedic repair,286,Success
+1363,1402,10,20240624,Appendectomy,174,Complications
+1364,12183,15,20240926,Orthopedic repair,342,Success
+1365,10222,5,20240827,Cardiac procedure,261,Complications
+1366,12584,45,20241028,Appendectomy,333,Success
+1367,2534,68,20240213,Orthopedic repair,137,Success
+1368,8386,107,20240404,General surgery,293,Success
+1369,2293,47,20240301,General surgery,263,Success
+1370,1413,80,20240324,Appendectomy,92,Success
+1371,9176,54,20240922,General surgery,76,Success
+1372,5571,24,20241203,Appendectomy,213,Complications
+1373,7600,105,20241215,General surgery,107,Success
+1374,5633,104,20240529,General surgery,150,Complications
+1375,5443,57,20240701,General surgery,45,Success
+1376,13125,95,20240303,Appendectomy,98,Success
+1377,972,47,20240424,General surgery,179,Success
+1378,14032,19,20241121,Orthopedic repair,293,Success
+1379,3923,51,20241220,Appendectomy,68,Success
+1380,8967,35,20240506,Cataract,38,Success
+1381,11488,47,20241014,Appendectomy,108,Success
+1382,982,37,20241212,Appendectomy,264,Success
+1383,10561,58,20240824,Cardiac procedure,188,Success
+1384,1282,32,20240609,Appendectomy,189,Success
+1385,2781,9,20240710,General surgery,37,Success
+1386,2384,97,20240505,General surgery,135,Success
+1387,3067,118,20240629,Orthopedic repair,107,Success
+1388,5973,80,20241226,Orthopedic repair,110,Success
+1389,7066,54,20240919,Cardiac procedure,37,Complications
+1390,12705,37,20240109,Cataract,149,Success
+1391,5482,77,20240902,Cataract,224,Success
+1392,9288,22,20240930,Cataract,75,Success
+1393,11234,70,20240511,Cardiac procedure,193,Success
+1394,6147,80,20240429,Cardiac procedure,151,Success
+1395,7030,68,20241205,Cataract,290,Success
+1396,434,42,20241220,Cardiac procedure,36,Success
+1397,583,75,20240518,Orthopedic repair,159,Success
+1398,12524,105,20240419,Cataract,350,Success
+1399,8304,13,20240820,General surgery,135,Success
+1400,1693,64,20240729,Cataract,280,Success
+1401,14081,117,20240901,General surgery,264,Success
+1402,12892,25,20240311,Cardiac procedure,34,Success
+1403,6709,13,20240822,Orthopedic repair,167,Success
+1404,4288,91,20241208,Orthopedic repair,159,Success
+1405,5539,95,20240728,General surgery,256,Success
+1406,8903,62,20240210,Cataract,130,Success
+1407,10501,53,20241203,General surgery,211,Success
+1408,10589,20,20241227,Cataract,137,Success
+1409,14186,107,20241102,Orthopedic repair,106,Success
+1410,12730,49,20240511,Cardiac procedure,153,Success
+1411,10264,5,20241119,Cataract,148,Success
+1412,124,102,20240717,Cataract,142,Success
+1413,9400,64,20241104,Appendectomy,321,Success
+1414,2924,38,20240120,Cataract,93,Success
+1415,9330,8,20241026,Orthopedic repair,121,Success
+1416,14480,60,20240213,Orthopedic repair,336,Success
+1417,5682,58,20240510,Appendectomy,303,Success
+1418,2726,33,20241019,Cataract,214,Success
+1419,11935,116,20240405,Cardiac procedure,351,Success
+1420,5969,98,20241125,Cataract,156,Success
+1421,12098,115,20241018,Cataract,258,Success
+1422,11007,46,20240629,General surgery,42,Success
+1423,11097,117,20240930,Orthopedic repair,250,Success
+1424,8495,31,20240508,Appendectomy,141,Success
+1425,10854,31,20240809,General surgery,355,Success
+1426,2860,67,20240911,Appendectomy,287,Success
+1427,14470,118,20241024,Cardiac procedure,199,Success
+1428,5543,29,20240930,General surgery,156,Success
+1429,14477,14,20241220,Orthopedic repair,172,Complications
+1430,10359,115,20240414,Cataract,97,Success
+1431,13538,60,20240826,General surgery,358,Success
+1432,7476,82,20240303,Cardiac procedure,323,Success
+1433,14797,65,20240803,Cardiac procedure,181,Success
+1434,4808,68,20241028,Cataract,237,Success
+1435,2866,58,20240717,Appendectomy,257,Success
+1436,9519,117,20241112,Orthopedic repair,272,Success
+1437,12113,46,20240911,Cataract,173,Success
+1438,14078,10,20241104,Orthopedic repair,146,Success
+1439,8056,104,20240825,Appendectomy,113,Success
+1440,1264,92,20240917,General surgery,333,Success
+1441,9306,58,20240818,Appendectomy,178,Success
+1442,1404,26,20240201,Cataract,139,Success
+1443,7486,71,20241229,General surgery,289,Success
+1444,6532,29,20240416,General surgery,251,Success
+1445,4751,52,20240323,Cataract,227,Success
+1446,2395,19,20240806,Cataract,339,Success
+1447,13008,80,20241122,Appendectomy,276,Success
+1448,12602,75,20240909,Appendectomy,95,Success
+1449,10312,75,20240222,Cardiac procedure,51,Success
+1450,6707,29,20240321,Cataract,276,Success
+1451,3127,98,20240430,Appendectomy,34,Success
+1452,4982,28,20240414,General surgery,359,Success
+1453,13232,94,20240406,Orthopedic repair,276,Success
+1454,3474,30,20240513,Cardiac procedure,357,Success
+1455,9934,96,20241205,Cataract,248,Success
+1456,1156,109,20240822,Orthopedic repair,337,Success
+1457,2409,39,20240908,Orthopedic repair,229,Success
+1458,688,60,20241018,Appendectomy,109,Success
+1459,5498,15,20240425,General surgery,251,Success
+1460,3847,120,20240831,Cardiac procedure,94,Success
+1461,12706,84,20240223,Cardiac procedure,186,Success
+1462,14693,103,20240421,Cardiac procedure,330,Complications
+1463,12391,32,20240510,Cataract,112,Success
+1464,1279,19,20240807,Cataract,92,Success
+1465,1429,23,20240514,Cataract,306,Success
+1466,13663,13,20240923,Appendectomy,151,Success
+1467,7488,118,20240613,Cardiac procedure,179,Success
+1468,8739,48,20240711,Cataract,57,Success
+1469,6618,79,20240220,Cardiac procedure,43,Success
+1470,11144,118,20240506,Cardiac procedure,141,Success
+1471,11830,116,20240403,General surgery,290,Success
+1472,6479,28,20240327,Appendectomy,174,Success
+1473,8895,64,20241231,Cataract,94,Success
+1474,3900,48,20240609,Cardiac procedure,152,Success
+1475,8429,11,20240818,Cardiac procedure,332,Success
+1476,5471,79,20240130,Orthopedic repair,326,Success
+1477,7718,6,20240123,Orthopedic repair,105,Success
+1478,7830,91,20240922,Appendectomy,116,Success
+1479,9162,25,20240612,Orthopedic repair,248,Success
+1480,13161,115,20241204,Orthopedic repair,130,Success
+1481,3926,34,20240925,Cataract,162,Complications
+1482,9568,101,20240904,Orthopedic repair,312,Success
+1483,3330,112,20241120,General surgery,161,Success
+1484,299,98,20240115,Orthopedic repair,339,Success
+1485,6523,74,20240318,Cataract,75,Success
+1486,6483,53,20240311,Cardiac procedure,329,Success
+1487,4366,117,20240521,General surgery,351,Success
+1488,14223,117,20240522,Appendectomy,176,Success
+1489,5523,114,20241213,General surgery,58,Success
+1490,11919,110,20241106,Cardiac procedure,201,Success
+1491,5131,103,20240821,General surgery,359,Success
+1492,7897,94,20240629,Cardiac procedure,60,Success
+1493,11907,83,20240322,Appendectomy,223,Success
+1494,11957,58,20241126,Cataract,51,Success
+1495,304,61,20240312,Cataract,130,Success
+1496,2942,100,20240929,Cataract,49,Success
+1497,10061,101,20240621,Orthopedic repair,324,Success
+1498,14589,25,20240106,Cardiac procedure,186,Success
+1499,7806,87,20240703,Appendectomy,197,Success
+1500,11572,14,20240108,Cardiac procedure,344,Success
+1501,7947,45,20240313,Cataract,296,Success
+1502,13406,35,20240518,Cardiac procedure,350,Success
+1503,13418,4,20241105,Orthopedic repair,351,Success
+1504,12347,40,20240210,Orthopedic repair,322,Success
+1505,8713,85,20240222,General surgery,270,Success
+1506,9037,50,20240421,Appendectomy,320,Success
+1507,4046,80,20240325,Cardiac procedure,60,Success
+1508,3331,39,20240705,General surgery,207,Success
+1509,4469,69,20241209,Appendectomy,237,Success
+1510,5237,43,20240116,General surgery,116,Success
+1511,1734,120,20240830,Orthopedic repair,238,Success
+1512,7553,28,20241017,Cataract,277,Success
+1513,8742,10,20241124,General surgery,294,Success
+1514,14967,51,20240730,General surgery,175,Success
+1515,7977,28,20241014,Orthopedic repair,151,Success
+1516,8978,72,20240830,Appendectomy,37,Success
+1517,14392,116,20240906,Cataract,213,Success
+1518,1780,116,20241121,Orthopedic repair,143,Success
+1519,12256,8,20240802,Appendectomy,165,Success
+1520,10911,120,20240202,Orthopedic repair,48,Success
+1521,6043,21,20240720,Orthopedic repair,147,Success
+1522,5332,113,20240915,General surgery,283,Success
+1523,8882,108,20240328,Cataract,158,Success
+1524,7915,79,20241207,General surgery,47,Success
+1525,3435,15,20240812,Orthopedic repair,134,Success
+1526,13785,29,20240602,Orthopedic repair,124,Success
+1527,3713,66,20240319,Cataract,206,Success
+1528,7178,89,20240928,Appendectomy,43,Success
+1529,7076,14,20240224,General surgery,354,Success
+1530,14663,8,20240112,Appendectomy,283,Success
+1531,81,53,20241019,General surgery,218,Success
+1532,9039,34,20240322,Cardiac procedure,232,Success
+1533,13312,39,20240113,Cataract,301,Success
+1534,9303,97,20241016,Cataract,224,Success
+1535,8434,82,20240826,Orthopedic repair,78,Success
+1536,6109,66,20241105,Cataract,173,Success
+1537,13391,31,20240908,General surgery,146,Success
+1538,13672,85,20241003,Orthopedic repair,231,Success
+1539,8917,55,20241026,Appendectomy,103,Success
+1540,11674,89,20240516,Cardiac procedure,52,Success
+1541,2272,77,20240825,General surgery,323,Success
+1542,12023,78,20240319,Appendectomy,272,Success
+1543,3047,88,20240218,Appendectomy,224,Success
+1544,8333,66,20240903,Cataract,128,Success
+1545,7733,9,20240413,Orthopedic repair,39,Success
+1546,897,72,20241205,General surgery,319,Success
+1547,568,47,20240528,General surgery,357,Success
+1548,10787,35,20240630,General surgery,299,Success
+1549,6432,13,20240311,Appendectomy,56,Success
+1550,621,5,20240326,Cataract,218,Success
+1551,3324,10,20240902,Orthopedic repair,177,Success
+1552,8860,106,20240306,Cataract,187,Success
+1553,6182,82,20240210,Cataract,271,Success
+1554,6245,68,20240113,Cardiac procedure,30,Success
+1555,4803,9,20240316,General surgery,195,Success
+1556,2160,91,20240909,Cardiac procedure,229,Success
+1557,3711,39,20240704,Appendectomy,358,Success
+1558,3689,62,20241021,Cataract,209,Success
+1559,13356,69,20240416,Cardiac procedure,291,Success
+1560,13624,34,20240214,General surgery,140,Success
+1561,1943,108,20241129,Appendectomy,238,Success
+1562,2430,56,20241108,Orthopedic repair,178,Success
+1563,5467,29,20241209,General surgery,269,Success
+1564,7795,73,20240123,Appendectomy,185,Success
+1565,9507,78,20240930,Cataract,115,Success
+1566,6039,10,20240409,Cardiac procedure,104,Success
+1567,2274,94,20240717,General surgery,37,Success
+1568,3947,48,20240621,Cataract,325,Success
+1569,7717,1,20240822,Orthopedic repair,261,Success
+1570,12842,40,20241021,Orthopedic repair,359,Success
+1571,2815,57,20240701,Appendectomy,117,Success
+1572,9402,113,20240510,General surgery,275,Success
+1573,13613,113,20240119,Appendectomy,140,Success
+1574,4679,93,20241117,Cataract,211,Success
+1575,6418,35,20240913,Cardiac procedure,76,Success
+1576,13923,28,20240702,Appendectomy,146,Success
+1577,3379,6,20240317,Appendectomy,75,Success
+1578,12589,50,20240316,Cardiac procedure,207,Success
+1579,2735,78,20240511,Appendectomy,259,Success
+1580,5498,57,20240121,Orthopedic repair,298,Success
+1581,6234,64,20240226,Cataract,76,Complications
+1582,5002,109,20240912,Appendectomy,53,Success
+1583,3260,22,20241230,Appendectomy,240,Success
+1584,8439,118,20240123,Appendectomy,107,Success
+1585,10930,73,20241026,Orthopedic repair,52,Success
+1586,4715,81,20241006,Orthopedic repair,234,Success
+1587,2086,6,20240430,Cataract,327,Success
+1588,4935,109,20240405,Orthopedic repair,203,Success
+1589,12082,28,20241231,Cardiac procedure,140,Success
+1590,538,57,20240520,Appendectomy,122,Success
+1591,2342,89,20240129,Cardiac procedure,123,Success
+1592,6228,73,20240419,Appendectomy,158,Complications
+1593,11210,90,20240616,Appendectomy,314,Success
+1594,3882,51,20241110,Appendectomy,57,Success
+1595,14390,9,20240709,Cataract,179,Success
+1596,9601,34,20240526,Cardiac procedure,257,Success
+1597,9245,41,20240717,Appendectomy,305,Success
+1598,4352,86,20240930,Cardiac procedure,51,Success
+1599,739,74,20240802,General surgery,285,Success
+1600,8008,65,20240414,General surgery,279,Success
+1601,801,100,20241007,Appendectomy,197,Success
+1602,10268,15,20240515,Orthopedic repair,304,Success
+1603,5081,114,20241003,Orthopedic repair,222,Success
+1604,1755,109,20240414,Cataract,270,Success
+1605,3596,17,20240608,Appendectomy,93,Success
+1606,4750,13,20241119,Appendectomy,88,Success
+1607,3091,107,20240430,General surgery,150,Success
+1608,2338,36,20240716,Cataract,311,Success
+1609,11319,49,20241215,Appendectomy,177,Success
+1610,3511,34,20241224,Cardiac procedure,64,Success
+1611,7907,94,20240831,General surgery,209,Success
+1612,11267,117,20241206,Appendectomy,293,Complications
+1613,4888,74,20240421,General surgery,157,Success
+1614,7951,111,20240201,Cataract,181,Success
+1615,12867,51,20241209,General surgery,185,Success
+1616,9874,39,20240517,Cataract,65,Success
+1617,12366,21,20240616,Cardiac procedure,102,Success
+1618,1638,111,20241003,Appendectomy,308,Success
+1619,4528,43,20240903,General surgery,129,Success
+1620,5653,3,20240321,Cataract,173,Success
+1621,10464,5,20240724,General surgery,296,Success
+1622,4452,120,20241023,General surgery,161,Success
+1623,1885,83,20240309,Appendectomy,288,Success
+1624,11708,26,20241203,Orthopedic repair,193,Success
+1625,13590,67,20241127,Appendectomy,177,Success
+1626,8934,19,20240704,Cardiac procedure,164,Success
+1627,4768,44,20240917,General surgery,148,Success
+1628,7899,8,20241108,General surgery,225,Success
+1629,7472,10,20240705,Appendectomy,299,Success
+1630,695,40,20240625,Orthopedic repair,314,Success
+1631,7108,8,20240608,Orthopedic repair,276,Success
+1632,4995,91,20240401,Appendectomy,286,Success
+1633,12119,96,20241110,Appendectomy,131,Success
+1634,12511,22,20240323,Orthopedic repair,308,Success
+1635,12407,42,20241226,General surgery,237,Success
+1636,617,61,20240315,Cataract,92,Success
+1637,2422,6,20240409,Orthopedic repair,308,Success
+1638,4153,108,20241206,Orthopedic repair,39,Success
+1639,7533,7,20240423,Cardiac procedure,289,Success
+1640,9570,41,20240310,Cardiac procedure,216,Success
+1641,13293,65,20240417,Cataract,293,Success
+1642,4055,38,20241031,Appendectomy,347,Success
+1643,9561,85,20240528,General surgery,199,Success
+1644,1661,66,20240613,Cataract,84,Success
+1645,3542,76,20241006,Cataract,323,Success
+1646,4694,8,20240822,Orthopedic repair,285,Success
+1647,12795,47,20240418,Appendectomy,323,Success
+1648,1133,93,20240309,Appendectomy,87,Success
+1649,14606,73,20240727,Orthopedic repair,210,Success
+1650,9459,67,20240313,Cataract,99,Complications
+1651,12493,81,20240123,Orthopedic repair,238,Success
+1652,4969,56,20240107,Appendectomy,161,Success
+1653,11289,81,20241027,General surgery,297,Success
+1654,4855,23,20240711,Orthopedic repair,353,Success
+1655,2527,93,20240218,Cataract,146,Success
+1656,5998,17,20240501,Appendectomy,114,Success
+1657,9708,51,20240409,Orthopedic repair,178,Success
+1658,5419,23,20241020,Orthopedic repair,304,Success
+1659,674,41,20240128,Cataract,198,Success
+1660,4187,23,20240721,Cardiac procedure,144,Success
+1661,11253,83,20240101,Cataract,349,Success
+1662,8340,113,20241228,Orthopedic repair,138,Success
+1663,4091,39,20240520,Orthopedic repair,307,Success
+1664,13301,11,20240309,Cataract,289,Complications
+1665,7634,117,20241112,General surgery,260,Success
+1666,9347,70,20240810,Appendectomy,109,Success
+1667,4921,96,20240516,Orthopedic repair,309,Success
+1668,7685,89,20240824,Cardiac procedure,206,Success
+1669,6775,68,20240331,Cardiac procedure,228,Success
+1670,4610,6,20240815,Cardiac procedure,326,Success
+1671,11646,8,20240123,Appendectomy,75,Success
+1672,8998,50,20240729,Orthopedic repair,144,Success
+1673,6292,107,20240106,Cardiac procedure,276,Success
+1674,14903,11,20240128,Orthopedic repair,242,Success
+1675,13286,65,20240102,Cardiac procedure,342,Success
+1676,14621,91,20240730,Cataract,297,Success
+1677,5832,39,20240703,Appendectomy,274,Success
+1678,12855,64,20240616,Cardiac procedure,333,Success
+1679,13248,111,20240120,Cataract,42,Success
+1680,2343,6,20241002,Cataract,249,Success
+1681,123,107,20241205,Appendectomy,208,Success
+1682,7457,62,20240429,Cataract,306,Success
+1683,5712,50,20241117,General surgery,165,Success
+1684,1973,66,20241008,Orthopedic repair,317,Success
+1685,3550,38,20240315,Appendectomy,244,Success
+1686,12785,19,20241231,General surgery,339,Success
+1687,13710,84,20240609,Orthopedic repair,267,Success
+1688,9202,8,20240122,Orthopedic repair,148,Success
+1689,13145,84,20240521,Cardiac procedure,119,Success
+1690,14606,101,20240622,Appendectomy,335,Success
+1691,3744,66,20240828,Cataract,86,Success
+1692,12529,35,20241218,Cataract,327,Success
+1693,8868,115,20240831,Orthopedic repair,205,Success
+1694,5335,34,20240104,Cataract,200,Success
+1695,14324,43,20240808,Appendectomy,276,Success
+1696,10162,114,20241214,Cardiac procedure,285,Success
+1697,1598,87,20240602,Cataract,180,Success
+1698,13169,75,20240127,Cataract,332,Success
+1699,581,39,20240826,Orthopedic repair,249,Success
+1700,7083,65,20241118,Cataract,335,Success
+1701,12955,2,20240803,Cataract,175,Success
+1702,2586,99,20240820,Appendectomy,178,Success
+1703,14096,21,20240414,Orthopedic repair,349,Success
+1704,14266,96,20241011,Cardiac procedure,270,Success
+1705,9082,74,20240530,General surgery,63,Success
+1706,14118,54,20240202,Cardiac procedure,132,Success
+1707,7194,48,20240102,Orthopedic repair,170,Success
+1708,6515,41,20240306,General surgery,339,Success
+1709,9979,110,20241202,General surgery,234,Success
+1710,2500,10,20240205,Cardiac procedure,185,Success
+1711,5620,41,20241025,Cataract,245,Success
+1712,10080,87,20241215,Appendectomy,193,Success
+1713,717,30,20241126,Cardiac procedure,105,Success
+1714,857,119,20240520,Cardiac procedure,158,Success
+1715,14401,82,20241002,Cardiac procedure,134,Success
+1716,4199,120,20240803,General surgery,295,Success
+1717,12066,50,20240410,Cardiac procedure,147,Success
+1718,1634,19,20240915,General surgery,108,Success
+1719,12883,77,20240205,Cardiac procedure,287,Success
+1720,9207,78,20240412,Orthopedic repair,220,Success
+1721,1115,57,20240501,Cardiac procedure,33,Success
+1722,8660,115,20240901,General surgery,113,Success
+1723,8464,42,20241226,Cardiac procedure,187,Success
+1724,8908,36,20240901,Orthopedic repair,311,Success
+1725,6199,87,20240817,Orthopedic repair,106,Success
+1726,11542,101,20240725,Cataract,65,Success
+1727,4621,84,20240629,Appendectomy,180,Success
+1728,2053,66,20240715,Cardiac procedure,76,Success
+1729,6155,97,20240521,Orthopedic repair,32,Success
+1730,7481,84,20240501,Cardiac procedure,295,Success
+1731,3207,81,20241114,Appendectomy,245,Success
+1732,9445,35,20240319,Cardiac procedure,200,Success
+1733,5113,73,20241017,Cataract,61,Success
+1734,1310,82,20240119,Orthopedic repair,73,Success
+1735,5429,77,20240209,Orthopedic repair,154,Success
+1736,823,79,20241001,Cataract,102,Success
+1737,11788,51,20240827,Cardiac procedure,56,Success
+1738,4621,51,20241004,Cataract,274,Success
+1739,6851,84,20240330,Cataract,54,Success
+1740,3342,113,20241118,Appendectomy,305,Success
+1741,9322,28,20241214,Appendectomy,208,Success
+1742,8900,63,20241130,Cardiac procedure,352,Success
+1743,4847,17,20241102,Cardiac procedure,96,Success
+1744,7341,44,20240428,General surgery,249,Complications
+1745,974,19,20240609,Orthopedic repair,89,Success
+1746,14772,119,20240121,General surgery,221,Success
+1747,1348,22,20240124,Appendectomy,317,Success
+1748,4498,90,20240414,Appendectomy,212,Success
+1749,7025,115,20241001,Appendectomy,139,Success
+1750,3699,13,20240911,Cardiac procedure,274,Success
+1751,10885,115,20241128,Appendectomy,94,Success
+1752,5280,80,20241110,Orthopedic repair,31,Success
+1753,5691,21,20240503,Orthopedic repair,199,Success
+1754,8996,91,20240312,Cardiac procedure,320,Success
+1755,12994,75,20240518,Orthopedic repair,171,Success
+1756,11184,48,20241030,Cardiac procedure,258,Success
+1757,2183,55,20240602,General surgery,294,Success
+1758,3116,75,20240112,Cardiac procedure,127,Success
+1759,10981,50,20240217,General surgery,335,Success
+1760,13119,66,20240515,Cataract,354,Success
+1761,4220,87,20241014,Cataract,266,Success
+1762,3514,81,20240211,Cardiac procedure,186,Success
+1763,9402,108,20241206,Cardiac procedure,151,Success
+1764,585,11,20240112,Cataract,238,Success
+1765,11928,66,20240809,Cardiac procedure,276,Success
+1766,14070,55,20240607,Cataract,168,Success
+1767,10859,63,20240604,Cardiac procedure,164,Success
+1768,5959,112,20240731,Cardiac procedure,240,Success
+1769,14173,117,20240501,Cataract,102,Complications
+1770,6286,56,20240606,Orthopedic repair,331,Success
+1771,3008,21,20240722,Cataract,215,Success
+1772,7776,84,20240923,Cardiac procedure,233,Success
+1773,11800,96,20241228,Appendectomy,269,Success
+1774,1488,7,20241015,General surgery,182,Success
+1775,3212,66,20241116,Cataract,253,Success
+1776,2876,2,20241024,Cataract,84,Success
+1777,9506,106,20240221,General surgery,342,Complications
+1778,14677,70,20240306,Appendectomy,193,Success
+1779,10224,83,20240407,Appendectomy,145,Success
+1780,242,2,20240116,Cataract,291,Success
+1781,7034,98,20240412,Cataract,146,Success
+1782,4871,58,20240214,Appendectomy,343,Success
+1783,3883,76,20240216,Cardiac procedure,207,Success
+1784,11944,59,20241201,Appendectomy,41,Success
+1785,4896,71,20240301,Appendectomy,152,Success
+1786,9614,85,20241018,General surgery,82,Success
+1787,2084,38,20240920,General surgery,326,Success
+1788,14031,36,20240814,Cardiac procedure,156,Success
+1789,170,23,20240111,Appendectomy,156,Success
+1790,14146,50,20240626,Orthopedic repair,135,Success
+1791,2242,42,20241020,General surgery,281,Success
+1792,13819,36,20240321,General surgery,124,Success
+1793,13577,42,20240906,Appendectomy,146,Success
+1794,3522,39,20240929,Cataract,47,Success
+1795,9486,88,20241216,Orthopedic repair,77,Success
+1796,14874,44,20240331,Cardiac procedure,124,Success
+1797,9314,15,20240220,Appendectomy,354,Success
+1798,10719,53,20240115,Orthopedic repair,127,Success
+1799,1778,10,20240112,General surgery,145,Success
+1800,14973,100,20240212,Cataract,112,Success
+1801,8879,74,20240115,Orthopedic repair,351,Success
+1802,7509,73,20240710,Cataract,34,Success
+1803,10889,61,20240118,General surgery,61,Success
+1804,5726,108,20240920,General surgery,64,Success
+1805,2090,48,20240217,General surgery,168,Success
+1806,45,110,20240309,Cataract,123,Success
+1807,800,37,20240413,General surgery,111,Success
+1808,5211,107,20240131,General surgery,264,Success
+1809,4581,57,20240305,General surgery,47,Success
+1810,11252,42,20241021,Orthopedic repair,345,Success
+1811,3618,72,20240307,Cataract,134,Success
+1812,5605,9,20240311,General surgery,165,Success
+1813,12490,25,20240426,Appendectomy,189,Success
+1814,14076,27,20240608,Orthopedic repair,249,Success
+1815,2752,83,20240423,Orthopedic repair,164,Success
+1816,11252,92,20240319,Orthopedic repair,354,Success
+1817,2669,80,20241129,Orthopedic repair,221,Success
+1818,7431,104,20241008,General surgery,237,Success
+1819,14419,11,20240523,Orthopedic repair,298,Success
+1820,5417,57,20241109,Appendectomy,197,Success
+1821,10223,114,20240630,Appendectomy,109,Success
+1822,8196,14,20240103,General surgery,198,Success
+1823,13371,15,20240103,Cataract,304,Success
+1824,3780,88,20241217,General surgery,86,Success
+1825,10048,18,20240624,General surgery,263,Success
+1826,10986,33,20241125,Orthopedic repair,159,Success
+1827,5880,16,20240918,Orthopedic repair,55,Success
+1828,13704,93,20240727,General surgery,103,Success
+1829,7812,83,20240929,General surgery,314,Success
+1830,7359,108,20240224,Appendectomy,83,Success
+1831,3533,30,20241216,Orthopedic repair,179,Success
+1832,9046,37,20240104,Cardiac procedure,337,Success
+1833,11971,12,20240616,General surgery,132,Success
+1834,67,49,20240305,Orthopedic repair,225,Success
+1835,10595,15,20240201,General surgery,223,Success
+1836,14668,100,20241008,Cardiac procedure,208,Success
+1837,4091,89,20241129,Appendectomy,259,Success
+1838,6838,43,20241217,General surgery,125,Success
+1839,7714,101,20240901,General surgery,39,Success
+1840,4037,29,20240522,Cataract,291,Success
+1841,7354,34,20240406,Orthopedic repair,299,Success
+1842,7831,54,20240313,Appendectomy,194,Success
+1843,3968,45,20240128,Orthopedic repair,227,Success
+1844,6882,19,20240307,Orthopedic repair,213,Success
+1845,9316,83,20241009,Cataract,182,Success
+1846,11899,1,20240715,Appendectomy,165,Success
+1847,4244,77,20240906,Orthopedic repair,146,Success
+1848,8313,86,20240312,General surgery,279,Success
+1849,1394,90,20240121,General surgery,49,Success
+1850,7570,84,20240226,General surgery,62,Success
+1851,10271,7,20240821,Orthopedic repair,300,Success
+1852,8880,6,20240411,Appendectomy,201,Success
+1853,9470,7,20240807,Appendectomy,159,Success
+1854,1672,69,20240115,Cardiac procedure,163,Success
+1855,874,43,20240308,Cardiac procedure,215,Success
+1856,3853,27,20240623,Appendectomy,94,Success
+1857,11041,39,20241107,Cardiac procedure,113,Success
+1858,12667,81,20240405,Cardiac procedure,127,Success
+1859,1057,92,20240211,Appendectomy,311,Success
+1860,5718,74,20240223,Appendectomy,333,Success
+1861,11420,38,20240115,Cataract,346,Success
+1862,1084,46,20240718,General surgery,273,Success
+1863,5920,65,20240803,Cataract,186,Success
+1864,1628,34,20241122,Cataract,285,Success
+1865,4142,56,20240410,Appendectomy,224,Success
+1866,14506,106,20240511,Appendectomy,222,Success
+1867,12024,21,20241018,Cataract,61,Success
+1868,7837,64,20240826,Appendectomy,322,Success
+1869,7264,67,20241126,Appendectomy,35,Success
+1870,8753,68,20241007,Cardiac procedure,313,Success
+1871,4972,61,20241117,Cardiac procedure,54,Success
+1872,6433,115,20240327,Appendectomy,354,Success
+1873,1151,39,20240409,General surgery,92,Success
+1874,9350,77,20240310,Cataract,228,Success
+1875,9930,48,20241115,Cataract,355,Complications
+1876,14421,115,20240522,General surgery,291,Success
+1877,11491,59,20240520,Appendectomy,112,Success
+1878,1409,25,20240611,Appendectomy,194,Success
+1879,7747,24,20240720,Cardiac procedure,163,Success
+1880,7321,38,20240621,Cataract,220,Success
+1881,347,44,20240414,Cardiac procedure,250,Success
+1882,13086,3,20241118,Orthopedic repair,122,Success
+1883,2752,68,20241105,General surgery,136,Success
+1884,4636,82,20240802,Cataract,247,Complications
+1885,10385,14,20240803,Appendectomy,179,Success
+1886,8950,63,20240806,Orthopedic repair,136,Success
+1887,11288,38,20240627,General surgery,343,Success
+1888,10146,78,20241023,Orthopedic repair,234,Success
+1889,12847,84,20240523,Cardiac procedure,93,Success
+1890,3430,24,20240722,Cataract,107,Success
+1891,4326,91,20240904,Orthopedic repair,47,Success
+1892,5518,48,20241126,Appendectomy,84,Complications
+1893,8433,67,20240120,General surgery,165,Success
+1894,6647,9,20240420,Cardiac procedure,59,Success
+1895,509,120,20241023,General surgery,74,Success
+1896,10328,24,20241031,Cardiac procedure,314,Success
+1897,7084,57,20241014,Cataract,69,Success
+1898,3166,55,20240305,Appendectomy,51,Success
+1899,859,76,20241030,Orthopedic repair,214,Success
+1900,6297,16,20240414,General surgery,61,Success
+1901,1274,14,20240918,Appendectomy,231,Success
+1902,13465,110,20240906,General surgery,217,Success
+1903,5927,105,20240507,Orthopedic repair,170,Success
+1904,12884,75,20241113,Appendectomy,69,Success
+1905,8949,103,20240119,Cardiac procedure,62,Success
+1906,13602,106,20240925,Cataract,248,Success
+1907,313,100,20240320,Cardiac procedure,153,Success
+1908,3556,118,20241002,Cataract,31,Success
+1909,1681,115,20240123,Orthopedic repair,290,Success
+1910,13078,71,20240511,General surgery,179,Success
+1911,4432,40,20241204,Cardiac procedure,350,Success
+1912,14139,116,20240929,General surgery,190,Success
+1913,10284,62,20241010,Cardiac procedure,193,Success
+1914,299,28,20241225,Appendectomy,48,Success
+1915,1617,50,20240527,Appendectomy,293,Success
+1916,8484,35,20241026,Appendectomy,301,Success
+1917,9883,25,20240822,Cataract,34,Success
+1918,3310,39,20240824,Cataract,135,Success
+1919,8627,67,20240628,Orthopedic repair,46,Success
+1920,8277,77,20240903,Cardiac procedure,336,Success
+1921,5828,114,20240528,Cardiac procedure,296,Success
+1922,10689,14,20241112,Cardiac procedure,232,Success
+1923,7778,67,20240929,Orthopedic repair,299,Success
+1924,14809,101,20240730,Orthopedic repair,355,Success
+1925,1541,118,20240129,Appendectomy,189,Success
+1926,7401,12,20240403,Cataract,206,Success
+1927,3233,82,20240513,Cardiac procedure,213,Success
+1928,11322,44,20240817,Cataract,94,Success
+1929,2674,18,20240918,Cardiac procedure,233,Success
+1930,458,41,20240303,Appendectomy,179,Success
+1931,12924,33,20240621,Cardiac procedure,195,Success
+1932,8513,29,20240620,Cataract,112,Success
+1933,13919,18,20240301,Orthopedic repair,111,Success
+1934,7398,34,20241025,Cardiac procedure,272,Success
+1935,11691,88,20240702,Cataract,150,Success
+1936,4843,120,20240625,Cataract,176,Success
+1937,7677,59,20240613,General surgery,329,Success
+1938,539,20,20240711,Appendectomy,81,Success
+1939,11796,2,20241228,Cataract,173,Success
+1940,13906,68,20240630,General surgery,310,Success
+1941,14686,61,20240101,Cataract,355,Success
+1942,4694,31,20241229,Cardiac procedure,304,Success
+1943,8159,56,20240508,Appendectomy,144,Success
+1944,7572,50,20241206,Appendectomy,46,Success
+1945,14479,75,20240229,Cataract,249,Success
+1946,1602,23,20240807,Cardiac procedure,178,Success
+1947,3462,93,20241002,Appendectomy,299,Success
+1948,1290,2,20240503,Cardiac procedure,268,Success
+1949,2862,93,20240930,Appendectomy,325,Success
+1950,10706,51,20240719,Cardiac procedure,82,Success
+1951,2021,73,20241012,Cardiac procedure,132,Success
+1952,11707,39,20240925,General surgery,267,Success
+1953,13505,41,20240411,Orthopedic repair,159,Success
+1954,4549,26,20240411,Orthopedic repair,273,Success
+1955,1312,79,20240626,General surgery,264,Success
+1956,3205,38,20240803,Cardiac procedure,236,Success
+1957,14367,5,20240112,Appendectomy,34,Success
+1958,4332,42,20240724,Cardiac procedure,320,Success
+1959,2711,20,20240628,General surgery,292,Complications
+1960,9076,85,20240311,Orthopedic repair,164,Success
+1961,817,73,20240527,General surgery,78,Success
+1962,8834,1,20240614,Cataract,218,Success
+1963,8156,28,20240826,Appendectomy,173,Success
+1964,13643,89,20241202,General surgery,93,Success
+1965,14728,65,20240515,Cataract,119,Success
+1966,7387,44,20240109,General surgery,133,Success
+1967,11473,43,20240910,General surgery,271,Success
+1968,4549,7,20240730,Appendectomy,92,Success
+1969,14191,97,20240510,Cardiac procedure,280,Success
+1970,5088,33,20240529,Orthopedic repair,116,Success
+1971,9447,10,20240821,Cardiac procedure,97,Complications
+1972,7435,97,20241009,Appendectomy,167,Success
+1973,5066,98,20240506,Appendectomy,282,Success
+1974,12432,106,20240822,Orthopedic repair,352,Success
+1975,4224,60,20241005,General surgery,278,Success
+1976,5024,115,20240528,Appendectomy,253,Success
+1977,8470,112,20240605,Cardiac procedure,289,Success
+1978,13339,37,20240607,Cardiac procedure,201,Success
+1979,8871,95,20240420,Appendectomy,330,Success
+1980,5417,87,20241222,Appendectomy,52,Complications
+1981,9458,83,20240328,Cardiac procedure,156,Success
+1982,8626,70,20241121,Cardiac procedure,221,Success
+1983,4235,53,20240429,Cataract,273,Success
+1984,14588,83,20240323,Appendectomy,214,Success
+1985,11471,116,20241230,Orthopedic repair,77,Success
+1986,1295,10,20240720,Cataract,186,Success
+1987,14830,63,20240628,Cataract,40,Success
+1988,3906,64,20240301,Appendectomy,192,Success
+1989,12071,20,20240927,Orthopedic repair,128,Success
+1990,5336,120,20241224,Appendectomy,223,Success
+1991,6377,103,20240514,Appendectomy,118,Success
+1992,12194,75,20241210,Appendectomy,269,Success
+1993,9060,68,20240507,Appendectomy,104,Success
+1994,6470,77,20241215,Cataract,123,Success
+1995,3550,89,20240912,Orthopedic repair,237,Success
+1996,4980,47,20240921,Appendectomy,323,Success
+1997,14997,94,20240725,Cardiac procedure,266,Success
+1998,5584,64,20241116,Cataract,131,Success
+1999,2560,107,20240617,Cardiac procedure,345,Success
+2000,6861,90,20240206,Appendectomy,153,Success
+2001,5926,105,20240629,Appendectomy,79,Success
+2002,2760,117,20240623,Cardiac procedure,258,Success
+2003,10832,113,20240811,Cataract,135,Success
+2004,6059,73,20240306,General surgery,242,Success
+2005,5622,91,20240821,Appendectomy,65,Success
+2006,1896,6,20240801,Orthopedic repair,324,Success
+2007,13533,73,20240420,Orthopedic repair,124,Success
+2008,9050,106,20240121,Appendectomy,268,Success
+2009,8507,114,20241027,Cataract,158,Success
+2010,10028,104,20240929,Appendectomy,69,Success
+2011,5822,54,20240318,Cataract,200,Success
+2012,13193,33,20240706,Cardiac procedure,276,Success
+2013,4348,6,20240606,Appendectomy,137,Success
+2014,6860,115,20240623,Cardiac procedure,83,Success
+2015,3435,13,20241218,Cataract,204,Success
+2016,13797,111,20241025,Appendectomy,235,Success
+2017,5043,88,20240109,Appendectomy,65,Success
+2018,13086,8,20240220,Cardiac procedure,288,Success
+2019,8475,7,20240818,Cardiac procedure,274,Success
+2020,6088,92,20241122,Orthopedic repair,150,Success
+2021,358,119,20240907,Appendectomy,166,Success
+2022,5862,53,20240229,Orthopedic repair,171,Success
+2023,5892,55,20240605,Appendectomy,137,Complications
+2024,11604,106,20240111,General surgery,55,Success
+2025,10054,61,20240821,Appendectomy,187,Success
+2026,9122,107,20240408,Cardiac procedure,146,Success
+2027,8794,111,20240802,Cardiac procedure,275,Success
+2028,1701,80,20241205,Appendectomy,255,Success
+2029,11303,63,20240714,Orthopedic repair,223,Success
+2030,11205,31,20240518,Appendectomy,131,Success
+2031,14702,84,20240725,Appendectomy,146,Success
+2032,11343,58,20240823,Cardiac procedure,193,Success
+2033,3247,117,20240707,Appendectomy,36,Success
+2034,5616,102,20240629,General surgery,261,Success
+2035,14572,104,20241003,Orthopedic repair,220,Success
+2036,6179,107,20241026,Cataract,128,Success
+2037,4963,101,20240513,Cataract,343,Success
+2038,9871,89,20240302,Cataract,74,Success
+2039,11185,108,20241003,Appendectomy,288,Success
+2040,10571,5,20241009,General surgery,187,Success
+2041,5615,18,20241128,Cataract,206,Success
+2042,604,67,20240730,Cataract,322,Success
+2043,11467,67,20241209,Cardiac procedure,157,Success
+2044,10924,53,20240521,Orthopedic repair,232,Success
+2045,13959,44,20240928,General surgery,80,Success
+2046,7919,21,20240106,Orthopedic repair,221,Success
+2047,9228,34,20241201,General surgery,103,Success
+2048,8634,111,20240715,General surgery,337,Success
+2049,9074,42,20240618,Orthopedic repair,252,Success
+2050,9007,88,20240130,Appendectomy,172,Success
+2051,7893,70,20241226,Orthopedic repair,39,Success
+2052,2420,24,20240624,Cataract,194,Success
+2053,753,37,20240326,Cardiac procedure,288,Success
+2054,7948,9,20240906,Appendectomy,219,Success
+2055,6192,9,20240309,General surgery,198,Success
+2056,7699,67,20240307,Cardiac procedure,114,Success
+2057,1039,45,20240919,Cataract,240,Success
+2058,6349,118,20241120,Appendectomy,194,Success
+2059,1779,9,20240330,Cataract,48,Success
+2060,2211,73,20240207,Orthopedic repair,153,Success
+2061,13736,40,20240408,General surgery,263,Success
+2062,5678,82,20240704,General surgery,358,Success
+2063,10850,64,20240724,Appendectomy,264,Success
+2064,3169,31,20240503,Orthopedic repair,158,Success
+2065,13159,89,20240413,Orthopedic repair,271,Success
+2066,3327,54,20241201,Orthopedic repair,207,Success
+2067,2244,46,20240507,Appendectomy,236,Success
+2068,12013,36,20240329,Appendectomy,31,Success
+2069,5417,16,20240403,Cardiac procedure,64,Success
+2070,4876,114,20241211,Cardiac procedure,262,Success
+2071,4088,17,20240416,Cataract,86,Success
+2072,10471,106,20241018,Orthopedic repair,128,Success
+2073,2045,97,20240727,General surgery,339,Success
+2074,230,97,20240122,General surgery,318,Success
+2075,3335,62,20241020,General surgery,99,Success
+2076,2672,93,20240503,Orthopedic repair,206,Success
+2077,3550,1,20240601,Cardiac procedure,69,Success
+2078,8927,105,20240116,Orthopedic repair,60,Success
+2079,3472,77,20240808,Orthopedic repair,317,Success
+2080,6401,72,20241021,Appendectomy,134,Success
+2081,2870,2,20240718,Appendectomy,288,Success
+2082,8932,50,20240405,General surgery,188,Success
+2083,12676,8,20241026,Cataract,261,Success
+2084,8911,32,20241202,General surgery,58,Success
+2085,3323,62,20240805,Appendectomy,120,Success
+2086,14335,80,20240123,General surgery,48,Success
+2087,9749,107,20241227,Appendectomy,327,Success
+2088,7852,107,20240801,Cataract,112,Success
+2089,13858,19,20240312,Orthopedic repair,89,Success
+2090,8275,73,20241113,General surgery,62,Success
+2091,1067,95,20240811,Cardiac procedure,202,Success
+2092,14103,22,20240807,General surgery,258,Success
+2093,9069,10,20240522,Orthopedic repair,256,Success
+2094,8793,87,20240628,Orthopedic repair,126,Success
+2095,411,60,20241104,Cardiac procedure,346,Success
+2096,10226,108,20240508,Orthopedic repair,182,Success
+2097,10026,73,20240301,Orthopedic repair,267,Success
+2098,9108,29,20241211,General surgery,95,Success
+2099,6267,44,20240615,Cardiac procedure,201,Success
+2100,9593,70,20240429,Cardiac procedure,30,Success
+2101,54,96,20240318,Cardiac procedure,146,Success
+2102,13133,95,20241009,Orthopedic repair,198,Success
+2103,12690,100,20240515,General surgery,58,Success
+2104,4963,93,20241116,General surgery,297,Success
+2105,2281,106,20240511,Appendectomy,243,Success
+2106,8179,74,20240914,Appendectomy,48,Success
+2107,14561,59,20240515,Appendectomy,281,Success
+2108,8037,114,20240222,Appendectomy,37,Success
+2109,1477,79,20240328,Cardiac procedure,233,Success
+2110,8783,58,20241120,Cardiac procedure,143,Success
+2111,10627,47,20241130,Cardiac procedure,308,Success
+2112,10388,32,20240327,Orthopedic repair,266,Success
+2113,14862,63,20241209,Orthopedic repair,88,Success
+2114,12524,95,20240907,Cataract,81,Success
+2115,10166,87,20240111,Appendectomy,297,Success
+2116,2371,10,20241217,Orthopedic repair,33,Success
+2117,12700,38,20240129,Appendectomy,135,Success
+2118,8796,112,20241223,Orthopedic repair,266,Success
+2119,8124,111,20240404,Orthopedic repair,57,Success
+2120,81,28,20240430,Orthopedic repair,186,Success
+2121,8485,111,20240528,Cardiac procedure,76,Success
+2122,4699,56,20240308,Cardiac procedure,76,Success
+2123,8835,81,20240209,Cataract,194,Success
+2124,2774,92,20241101,Orthopedic repair,358,Success
+2125,12787,62,20240601,General surgery,258,Success
+2126,3159,81,20240123,Orthopedic repair,146,Success
+2127,8962,115,20240204,General surgery,32,Success
+2128,5946,116,20240328,Orthopedic repair,118,Success
+2129,13271,37,20240712,Orthopedic repair,175,Success
+2130,9021,101,20240810,Cataract,351,Success
+2131,10131,23,20241228,Orthopedic repair,155,Success
+2132,6248,62,20240427,General surgery,194,Success
+2133,3108,5,20240319,Cardiac procedure,100,Success
+2134,12087,47,20241101,Appendectomy,44,Success
+2135,12028,49,20240903,Cardiac procedure,82,Success
+2136,2929,44,20240217,Cataract,160,Success
+2137,7613,29,20241204,General surgery,289,Success
+2138,9181,48,20240517,Cardiac procedure,343,Success
+2139,7705,2,20240422,Cardiac procedure,79,Success
+2140,4017,20,20240912,Appendectomy,59,Success
+2141,13584,69,20240708,General surgery,146,Complications
+2142,12469,16,20240910,Cardiac procedure,155,Success
+2143,10061,2,20241123,Appendectomy,349,Complications
+2144,12097,76,20240229,Appendectomy,231,Success
+2145,8955,115,20240612,Cardiac procedure,229,Success
+2146,14397,82,20240403,Cardiac procedure,116,Success
+2147,8551,106,20240405,Orthopedic repair,203,Success
+2148,5180,41,20240605,General surgery,199,Success
+2149,11960,4,20240615,Orthopedic repair,260,Success
+2150,11729,36,20240527,General surgery,153,Success
+2151,7371,23,20240315,Cardiac procedure,176,Success
+2152,11628,48,20240218,Appendectomy,300,Success
+2153,6344,5,20241202,Appendectomy,58,Success
+2154,7663,37,20240913,Appendectomy,96,Success
+2155,7419,82,20240505,Appendectomy,114,Success
+2156,9481,82,20240922,Cataract,159,Success
+2157,11840,55,20240910,Cardiac procedure,124,Success
+2158,6644,67,20240121,General surgery,123,Success
+2159,397,70,20240622,Cataract,126,Success
+2160,6767,120,20240602,Orthopedic repair,261,Success
+2161,5383,27,20240511,Orthopedic repair,323,Success
+2162,8360,104,20240214,Orthopedic repair,319,Success
+2163,6880,60,20240227,General surgery,347,Success
+2164,6875,49,20240126,General surgery,55,Success
+2165,12945,117,20240203,Appendectomy,48,Success
+2166,12565,65,20240316,Appendectomy,54,Success
+2167,14542,63,20240625,General surgery,99,Success
+2168,4391,25,20240216,Orthopedic repair,317,Success
+2169,9511,21,20240206,Cataract,47,Success
+2170,7162,67,20240808,Appendectomy,301,Success
+2171,1668,82,20240410,Cataract,246,Success
+2172,2690,5,20240706,General surgery,285,Success
+2173,7226,36,20240606,Orthopedic repair,214,Success
+2174,11797,2,20240706,Orthopedic repair,336,Success
+2175,13605,45,20240320,Orthopedic repair,328,Success
+2176,8587,13,20240101,Appendectomy,134,Success
+2177,10657,105,20240111,General surgery,167,Success
+2178,1937,119,20240725,Cardiac procedure,112,Success
+2179,11406,27,20240205,Cardiac procedure,130,Complications
+2180,13833,96,20241114,General surgery,152,Success
+2181,14327,73,20241001,Orthopedic repair,260,Success
+2182,1378,95,20240220,Cataract,241,Success
+2183,14878,79,20240514,Cardiac procedure,359,Success
+2184,6663,106,20241101,General surgery,352,Success
+2185,2407,102,20240805,General surgery,150,Success
+2186,14126,101,20240213,Orthopedic repair,301,Success
+2187,3808,112,20240107,Appendectomy,254,Success
+2188,2331,105,20240822,Cardiac procedure,296,Success
+2189,12056,50,20240918,Appendectomy,108,Success
+2190,3606,84,20240715,Cataract,253,Success
+2191,11371,114,20240401,Cataract,352,Success
+2192,2811,86,20240121,Orthopedic repair,288,Success
+2193,13093,53,20241005,Orthopedic repair,184,Success
+2194,2045,100,20240604,Cataract,53,Success
+2195,8631,24,20241106,Orthopedic repair,94,Success
+2196,6250,13,20240820,Orthopedic repair,60,Success
+2197,9135,115,20240820,Orthopedic repair,208,Success
+2198,1409,61,20240703,Orthopedic repair,242,Success
+2199,3188,73,20240726,Cardiac procedure,279,Success
+2200,3430,20,20241217,Cataract,95,Success
+2201,9745,93,20240115,Cataract,280,Success
+2202,5606,60,20240918,General surgery,216,Success
+2203,9706,71,20240329,General surgery,98,Success
+2204,3148,17,20240619,Cardiac procedure,250,Success
+2205,5780,97,20240415,General surgery,310,Success
+2206,14816,56,20241022,Cardiac procedure,213,Success
+2207,2268,59,20240426,Appendectomy,123,Success
+2208,9645,80,20241201,Cardiac procedure,232,Success
+2209,10258,78,20240210,Cataract,314,Success
+2210,7293,13,20240418,Cardiac procedure,315,Success
+2211,1389,24,20241018,Orthopedic repair,133,Success
+2212,11037,39,20241110,Appendectomy,279,Success
+2213,1151,16,20240812,General surgery,77,Complications
+2214,7847,87,20240803,Cataract,214,Success
+2215,14118,12,20240811,Cataract,284,Success
+2216,4558,37,20240914,Appendectomy,92,Complications
+2217,1529,32,20240202,Orthopedic repair,37,Success
+2218,1010,35,20240929,Appendectomy,304,Success
+2219,11326,28,20240522,Orthopedic repair,40,Success
+2220,1116,54,20240109,General surgery,259,Success
+2221,14954,31,20240202,Appendectomy,93,Success
+2222,11513,12,20240522,Orthopedic repair,278,Success
+2223,4526,33,20240323,Appendectomy,152,Success
+2224,9819,55,20240416,Cataract,262,Success
+2225,3455,53,20240403,Appendectomy,57,Success
+2226,8478,101,20241011,Cataract,115,Success
+2227,1013,8,20240313,Cardiac procedure,230,Success
+2228,13757,73,20240919,General surgery,255,Success
+2229,2615,97,20240721,Cardiac procedure,299,Success
+2230,12017,24,20240117,General surgery,342,Success
+2231,13152,93,20240526,Cataract,273,Success
+2232,1663,22,20241120,General surgery,315,Success
+2233,6031,87,20241005,Cardiac procedure,57,Success
+2234,2623,108,20240707,Cataract,59,Success
+2235,10398,50,20240628,Appendectomy,357,Success
+2236,12374,30,20240315,Cataract,130,Success
+2237,3313,86,20240904,Cardiac procedure,125,Success
+2238,12341,46,20240624,General surgery,153,Success
+2239,11111,41,20240728,Cataract,332,Success
+2240,1164,61,20241205,General surgery,174,Success
+2241,5892,37,20240808,General surgery,160,Success
+2242,10545,103,20240904,Cataract,117,Success
+2243,4900,104,20241001,Cardiac procedure,314,Success
+2244,11882,10,20241105,Cardiac procedure,31,Complications
+2245,7772,96,20240102,Cardiac procedure,316,Success
+2246,417,45,20240509,General surgery,319,Success
+2247,13727,68,20240119,Cardiac procedure,105,Success
+2248,5460,115,20240422,Cataract,197,Success
+2249,10526,48,20241105,General surgery,121,Success
+2250,146,89,20240507,General surgery,170,Success
+2251,4117,43,20240514,General surgery,138,Complications
+2252,7923,58,20240502,Cardiac procedure,349,Success
+2253,4010,8,20240127,General surgery,118,Success
+2254,6147,112,20241212,Orthopedic repair,339,Success
+2255,6877,77,20241019,Appendectomy,110,Success
+2256,13244,43,20241116,Appendectomy,247,Success
+2257,13229,77,20240313,Appendectomy,105,Success
+2258,6329,91,20241030,Orthopedic repair,80,Success
+2259,10826,95,20241104,Orthopedic repair,133,Success
+2260,10855,38,20241113,Appendectomy,194,Success
+2261,14769,108,20240229,General surgery,78,Success
+2262,6214,92,20240925,Appendectomy,168,Success
+2263,12741,88,20240805,Cardiac procedure,159,Success
+2264,5869,21,20240315,Cataract,217,Success
+2265,7732,112,20241002,General surgery,173,Success
+2266,9277,71,20241127,General surgery,63,Success
+2267,3703,43,20240607,Orthopedic repair,344,Success
+2268,14841,12,20240919,General surgery,74,Success
+2269,4401,72,20240215,Orthopedic repair,297,Success
+2270,590,107,20240720,General surgery,312,Complications
+2271,9827,92,20240102,Cataract,323,Success
+2272,10203,83,20240409,Orthopedic repair,162,Success
+2273,7291,17,20241027,Cardiac procedure,293,Success
+2274,6997,120,20241112,Orthopedic repair,330,Success
+2275,2388,104,20241008,Appendectomy,104,Success
+2276,13581,15,20241025,Cardiac procedure,312,Success
+2277,10832,77,20240331,Orthopedic repair,307,Success
+2278,7401,70,20240117,Cardiac procedure,141,Success
+2279,8577,80,20240801,Appendectomy,223,Success
+2280,801,86,20241225,Orthopedic repair,349,Success
+2281,7866,10,20240520,Cataract,305,Success
+2282,3153,84,20241111,Orthopedic repair,120,Success
+2283,14929,8,20241014,General surgery,295,Success
+2284,568,60,20240716,General surgery,337,Success
+2285,11636,64,20240530,General surgery,100,Success
+2286,5875,92,20240404,Orthopedic repair,52,Success
+2287,12875,4,20240722,Cardiac procedure,186,Success
+2288,10915,43,20240822,Orthopedic repair,281,Complications
+2289,8424,57,20240207,Appendectomy,137,Success
+2290,10265,85,20240116,Orthopedic repair,162,Success
+2291,14579,71,20240821,Orthopedic repair,353,Success
+2292,12277,6,20241026,Cardiac procedure,35,Success
+2293,6874,21,20241121,General surgery,105,Success
+2294,14462,33,20240821,General surgery,180,Success
+2295,5239,17,20241227,Cataract,117,Success
+2296,4475,28,20240917,General surgery,125,Success
+2297,11342,63,20240607,Cataract,227,Success
+2298,573,12,20241008,General surgery,313,Success
+2299,8571,77,20240717,General surgery,59,Success
+2300,5179,4,20240506,General surgery,257,Success
+2301,9790,24,20240929,Orthopedic repair,68,Success
+2302,2880,26,20240630,General surgery,334,Success
+2303,8959,68,20240620,Cataract,50,Success
+2304,760,11,20241213,General surgery,31,Success
+2305,2040,36,20240515,General surgery,319,Success
+2306,8122,25,20241014,Cardiac procedure,80,Success
+2307,4725,11,20240405,Cataract,217,Success
+2308,5324,73,20241110,Orthopedic repair,359,Success
+2309,9325,111,20241111,Cataract,184,Success
+2310,9147,16,20241014,Appendectomy,67,Success
+2311,13913,55,20240527,Cataract,317,Success
+2312,3281,98,20241201,Orthopedic repair,267,Success
+2313,5285,27,20240109,Orthopedic repair,117,Success
+2314,2495,81,20240112,Orthopedic repair,332,Success
+2315,6929,60,20240516,General surgery,263,Complications
+2316,13247,103,20240905,General surgery,322,Death
+2317,949,58,20240209,Orthopedic repair,210,Success
+2318,3920,101,20240427,Cardiac procedure,180,Success
+2319,10192,27,20240729,Orthopedic repair,350,Success
+2320,12288,88,20240329,General surgery,73,Success
+2321,2664,108,20241120,Appendectomy,231,Success
+2322,14008,63,20240407,Cataract,262,Success
+2323,10554,63,20240201,Appendectomy,126,Success
+2324,2327,43,20240326,Appendectomy,84,Success
+2325,11915,10,20240714,Orthopedic repair,180,Success
+2326,9163,80,20241023,Orthopedic repair,358,Success
+2327,2558,73,20240712,Cataract,69,Success
+2328,4238,116,20240127,Cardiac procedure,335,Success
+2329,6166,30,20240525,Cataract,349,Success
+2330,6027,25,20240727,Cardiac procedure,48,Success
+2331,5278,92,20240801,Cataract,321,Success
+2332,6463,52,20240629,Cataract,240,Success
+2333,7251,39,20240531,Cardiac procedure,241,Success
+2334,11464,106,20240201,Cardiac procedure,203,Success
+2335,243,81,20241120,Appendectomy,276,Success
+2336,13919,49,20240226,Cataract,339,Success
+2337,1247,67,20240610,Orthopedic repair,292,Success
+2338,13992,71,20240419,General surgery,283,Success
+2339,9137,86,20240114,Cataract,47,Success
+2340,12270,63,20241121,Cataract,46,Success
+2341,6793,119,20240417,General surgery,156,Complications
+2342,4277,86,20240725,Orthopedic repair,117,Success
+2343,13785,52,20240528,Cataract,298,Success
+2344,9987,80,20240915,Cataract,75,Success
+2345,4509,119,20240829,Orthopedic repair,326,Success
+2346,14362,63,20240116,Appendectomy,333,Success
+2347,8100,65,20241201,General surgery,171,Success
+2348,6038,26,20241127,Cataract,130,Success
+2349,1003,53,20240101,Orthopedic repair,42,Success
+2350,1268,84,20240214,Cardiac procedure,76,Success
+2351,10939,58,20240312,Cataract,124,Success
+2352,11886,48,20241203,General surgery,82,Success
+2353,13546,100,20240209,General surgery,287,Success
+2354,3279,31,20241206,Orthopedic repair,164,Success
+2355,9568,115,20240925,Orthopedic repair,229,Success
+2356,12455,74,20240728,Cataract,220,Success
+2357,1922,66,20240520,Cataract,303,Success
+2358,4698,69,20240930,Appendectomy,272,Success
+2359,8336,28,20240906,Cataract,69,Success
+2360,79,32,20241121,Cardiac procedure,118,Success
+2361,13801,53,20241024,Appendectomy,38,Success
+2362,4040,52,20240727,Cardiac procedure,272,Success
+2363,7249,113,20241222,Appendectomy,252,Success
+2364,8769,56,20240703,Orthopedic repair,51,Success
+2365,1138,67,20241014,Cataract,357,Success
+2366,14501,65,20240318,Appendectomy,167,Complications
+2367,8330,74,20240208,Cataract,206,Success
+2368,9538,79,20241207,Cardiac procedure,212,Success
+2369,9979,46,20240124,Cataract,313,Success
+2370,7454,7,20240403,Cardiac procedure,253,Success
+2371,1933,23,20240403,Cataract,82,Success
+2372,5996,16,20240824,General surgery,157,Success
+2373,369,44,20240225,General surgery,140,Success
+2374,9854,57,20240216,General surgery,321,Success
+2375,8078,12,20241218,General surgery,165,Success
+2376,2616,2,20240105,Appendectomy,140,Success
+2377,6306,24,20240502,General surgery,314,Success
+2378,6535,47,20240224,Cardiac procedure,273,Success
+2379,2718,36,20241109,Cataract,55,Success
+2380,4556,60,20241110,General surgery,267,Success
+2381,11034,53,20240913,General surgery,268,Success
+2382,11140,85,20240911,Cardiac procedure,270,Success
+2383,14046,42,20240229,General surgery,165,Success
+2384,13249,119,20240619,General surgery,62,Success
+2385,2546,111,20240502,Cataract,86,Success
+2386,6080,108,20240719,Cardiac procedure,161,Success
+2387,5555,100,20240403,Orthopedic repair,167,Success
+2388,14136,15,20240203,Appendectomy,202,Success
+2389,12825,28,20240212,Cardiac procedure,257,Success
+2390,12857,46,20240129,Appendectomy,37,Success
+2391,4434,67,20241001,Cataract,156,Success
+2392,6769,33,20240414,Orthopedic repair,232,Success
+2393,12926,93,20240222,Appendectomy,35,Success
+2394,2537,73,20240307,Orthopedic repair,212,Success
+2395,3679,80,20240308,Appendectomy,141,Success
+2396,4857,83,20240217,Orthopedic repair,239,Success
+2397,14796,112,20240905,Appendectomy,62,Success
+2398,11842,85,20240601,Cataract,167,Success
+2399,10149,73,20241225,Cataract,37,Success
+2400,2766,26,20240301,Orthopedic repair,145,Success
+2401,210,98,20241028,Appendectomy,359,Success
+2402,1377,61,20240302,Cataract,98,Success
+2403,3223,5,20240710,Appendectomy,130,Success
+2404,1299,114,20241229,Cataract,95,Success
+2405,6418,95,20241128,Cataract,145,Success
+2406,505,41,20240627,Cataract,93,Success
+2407,6131,29,20240625,Cardiac procedure,170,Success
+2408,2807,15,20240717,Appendectomy,278,Success
+2409,10680,61,20241215,Orthopedic repair,203,Success
+2410,648,102,20240821,Appendectomy,179,Success
+2411,10165,49,20241123,Cataract,210,Success
+2412,2602,95,20240324,Appendectomy,61,Success
+2413,3108,11,20240312,General surgery,124,Success
+2414,2688,40,20240921,General surgery,298,Success
+2415,14381,30,20240114,Orthopedic repair,351,Success
+2416,7621,59,20240916,General surgery,31,Success
+2417,107,41,20240615,Appendectomy,231,Success
+2418,680,105,20240415,General surgery,148,Success
+2419,7479,54,20240705,Cataract,235,Success
+2420,7368,63,20241229,Orthopedic repair,204,Success
+2421,11920,42,20240610,Cardiac procedure,299,Success
+2422,3083,16,20240622,General surgery,300,Success
+2423,14774,117,20240314,Cardiac procedure,204,Success
+2424,10774,107,20241018,Appendectomy,165,Success
+2425,7145,116,20241024,Cardiac procedure,289,Success
+2426,704,45,20241213,Appendectomy,203,Success
+2427,7363,86,20240504,Cataract,166,Success
+2428,9573,13,20240501,Appendectomy,168,Success
+2429,2378,7,20240929,General surgery,88,Success
+2430,7242,69,20240812,Appendectomy,355,Success
+2431,12363,44,20241112,Cardiac procedure,225,Success
+2432,6849,86,20240428,Cardiac procedure,115,Success
+2433,12242,13,20240421,Orthopedic repair,254,Success
+2434,3314,67,20240719,Cardiac procedure,49,Success
+2435,13255,117,20241204,Appendectomy,181,Success
+2436,1810,26,20240909,General surgery,215,Success
+2437,621,66,20240224,Cardiac procedure,137,Success
+2438,660,42,20241210,Orthopedic repair,69,Success
+2439,3553,120,20240201,General surgery,56,Success
+2440,10769,108,20240509,Orthopedic repair,163,Success
+2441,5395,24,20240815,Appendectomy,48,Success
+2442,7249,61,20240228,Appendectomy,183,Success
+2443,3252,120,20240103,Orthopedic repair,38,Success
+2444,7737,104,20240929,Orthopedic repair,124,Success
+2445,2405,96,20241201,Appendectomy,328,Success
+2446,4744,84,20240422,Orthopedic repair,343,Complications
+2447,13380,74,20240803,Appendectomy,124,Success
+2448,6683,79,20241021,Appendectomy,180,Success
+2449,14614,86,20240620,General surgery,198,Success
+2450,5938,63,20240618,Cataract,241,Success
+2451,2534,41,20240707,General surgery,63,Success
+2452,13308,61,20240412,Orthopedic repair,354,Success
+2453,13914,58,20240914,Appendectomy,296,Complications
+2454,12615,3,20240215,Cataract,312,Success
+2455,1278,59,20240105,Appendectomy,146,Success
+2456,8754,25,20240511,General surgery,260,Success
+2457,1285,83,20240104,Appendectomy,304,Success
+2458,4664,30,20240902,Orthopedic repair,193,Success
+2459,1774,112,20240928,Appendectomy,237,Success
+2460,7679,48,20240103,Cataract,302,Success
+2461,4886,57,20240720,Orthopedic repair,182,Success
+2462,10910,46,20241014,Orthopedic repair,286,Success
+2463,232,6,20240727,Orthopedic repair,157,Success
+2464,11362,76,20240531,Cataract,298,Success
+2465,14863,72,20241201,Cataract,189,Success
+2466,12560,11,20241009,Appendectomy,135,Success
+2467,11327,100,20240702,Cataract,285,Success
+2468,6171,18,20241019,Cardiac procedure,211,Success
+2469,688,100,20240605,Appendectomy,288,Success
+2470,1882,4,20240822,Appendectomy,143,Success
+2471,13499,110,20240416,Orthopedic repair,125,Success
+2472,11616,116,20240913,Orthopedic repair,116,Success
+2473,13866,21,20240115,Appendectomy,314,Success
+2474,3518,18,20240204,General surgery,231,Success
+2475,6501,94,20240424,Appendectomy,316,Success
+2476,6170,73,20240701,General surgery,310,Success
+2477,10042,120,20240706,General surgery,80,Success
+2478,6301,64,20240206,Cardiac procedure,174,Success
+2479,5517,6,20241023,Orthopedic repair,154,Success
+2480,300,115,20241119,Appendectomy,319,Success
+2481,8412,17,20240911,General surgery,168,Success
+2482,6513,82,20240321,Cardiac procedure,123,Success
+2483,1101,60,20241029,Cataract,30,Success
+2484,9604,89,20240807,Appendectomy,325,Success
+2485,11329,79,20240406,Cardiac procedure,200,Success
+2486,11678,70,20240902,Appendectomy,160,Success
+2487,8046,49,20240928,Cataract,269,Success
+2488,5475,14,20240518,Appendectomy,128,Success
+2489,2645,106,20240919,Cataract,95,Success
+2490,9887,98,20240719,Cataract,353,Success
+2491,12348,27,20240622,Cardiac procedure,213,Success
+2492,3417,103,20240730,Appendectomy,146,Success
+2493,14728,56,20240124,General surgery,359,Success
+2494,8778,30,20240727,Cardiac procedure,229,Success
+2495,11452,25,20240207,General surgery,88,Success
+2496,4333,31,20241213,Cataract,174,Success
+2497,2634,91,20241130,Orthopedic repair,153,Success
+2498,12142,91,20240420,Cardiac procedure,326,Success
+2499,13221,30,20241223,Cardiac procedure,186,Success
+2500,4521,35,20241105,Orthopedic repair,149,Success
+2501,11927,106,20240131,Appendectomy,164,Success
+2502,2695,47,20240331,Cardiac procedure,71,Success
+2503,8863,90,20241118,Cataract,118,Success
+2504,5371,68,20240406,Appendectomy,353,Success
+2505,8048,62,20241119,Cardiac procedure,108,Success
+2506,2745,2,20240404,Cataract,65,Success
+2507,13728,14,20241113,Orthopedic repair,144,Success
+2508,4434,70,20240620,Orthopedic repair,205,Success
+2509,7748,105,20240319,Cardiac procedure,320,Success
+2510,801,114,20240706,Cataract,58,Success
+2511,13723,70,20240524,Cardiac procedure,54,Success
+2512,13237,11,20241230,Cataract,303,Success
+2513,2548,114,20240515,Orthopedic repair,226,Success
+2514,1113,14,20240707,Appendectomy,93,Success
+2515,5074,82,20241022,Cardiac procedure,272,Success
+2516,7517,80,20241021,Cataract,239,Success
+2517,1765,72,20240316,General surgery,135,Success
+2518,1227,53,20240926,Appendectomy,154,Success
+2519,10355,77,20241116,Cardiac procedure,310,Success
+2520,3121,113,20241227,Orthopedic repair,167,Success
+2521,9406,42,20241126,Orthopedic repair,180,Success
+2522,8876,10,20240224,Orthopedic repair,282,Success
+2523,14906,104,20241001,Cataract,102,Success
+2524,8427,74,20241120,Orthopedic repair,307,Success
+2525,14625,80,20240201,General surgery,350,Success
+2526,6207,113,20240417,Cataract,204,Success
+2527,12974,13,20240505,Orthopedic repair,141,Success
+2528,7030,56,20241124,General surgery,300,Success
+2529,13359,32,20240921,Orthopedic repair,169,Success
+2530,14241,109,20240707,Appendectomy,322,Success
+2531,6117,33,20240612,Cataract,338,Success
+2532,11575,36,20240718,Cardiac procedure,45,Success
+2533,14783,47,20241118,Cardiac procedure,232,Success
+2534,5564,40,20240904,General surgery,204,Success
+2535,12757,19,20240420,Appendectomy,356,Success
+2536,6618,101,20240808,Appendectomy,326,Success
+2537,11939,111,20240729,Orthopedic repair,349,Success
+2538,2806,60,20240903,Cataract,180,Success
+2539,5785,4,20240324,Appendectomy,278,Success
+2540,3656,114,20241213,Appendectomy,47,Success
+2541,4555,115,20240910,Appendectomy,92,Success
+2542,4670,93,20240707,Cataract,320,Success
+2543,4710,99,20240415,Orthopedic repair,197,Success
+2544,12194,82,20240910,Orthopedic repair,42,Success
+2545,3749,97,20240208,Appendectomy,250,Success
+2546,10769,35,20240828,Appendectomy,223,Success
+2547,13100,92,20240529,General surgery,305,Success
+2548,958,66,20241130,Orthopedic repair,225,Success
+2549,11390,29,20240821,Cardiac procedure,112,Success
+2550,14510,50,20240906,Cardiac procedure,329,Success
+2551,8709,28,20240210,Cataract,48,Success
+2552,14285,33,20241119,Appendectomy,327,Success
+2553,4651,26,20240921,General surgery,223,Success
+2554,14161,15,20240208,Cataract,146,Success
+2555,8464,56,20240828,General surgery,120,Success
+2556,9439,30,20241006,Appendectomy,110,Success
+2557,1632,83,20240722,Appendectomy,204,Success
+2558,4285,71,20241011,Orthopedic repair,268,Success
+2559,13245,40,20240531,Cataract,201,Success
+2560,7918,103,20241204,Appendectomy,143,Success
+2561,6618,90,20240330,Appendectomy,120,Success
+2562,6059,36,20240817,Appendectomy,324,Success
+2563,2230,24,20241125,Cataract,225,Success
+2564,5339,120,20240811,Cataract,203,Success
+2565,6274,46,20240218,Cataract,311,Success
+2566,5589,34,20241126,Cataract,214,Success
+2567,12816,10,20240625,Cataract,121,Success
+2568,11995,38,20240326,Cataract,308,Success
+2569,13589,53,20240728,Cataract,281,Success
+2570,9974,115,20241230,Cataract,187,Success
+2571,13241,106,20241217,General surgery,242,Success
+2572,3664,106,20240203,Cataract,145,Success
+2573,85,117,20241011,Cataract,296,Success
+2574,13360,71,20241005,Cataract,242,Complications
+2575,10281,88,20241229,Orthopedic repair,257,Success
+2576,2845,41,20240909,Orthopedic repair,91,Success
+2577,1650,75,20240516,Cataract,38,Success
+2578,12338,32,20240122,Appendectomy,69,Success
+2579,12127,80,20240911,Cardiac procedure,276,Success
+2580,6347,11,20240608,Appendectomy,131,Success
+2581,13490,104,20240407,Appendectomy,41,Success
+2582,10512,67,20241023,Orthopedic repair,327,Success
+2583,9062,21,20240510,General surgery,222,Success
+2584,13831,3,20241119,Cardiac procedure,251,Success
+2585,10660,11,20241101,Cardiac procedure,243,Success
+2586,793,23,20241105,Cataract,259,Success
+2587,7982,90,20241026,Cataract,281,Success
+2588,13066,89,20240802,Cardiac procedure,332,Success
+2589,2608,50,20240115,Cataract,199,Success
+2590,14345,55,20240929,Cataract,78,Success
+2591,13507,92,20240620,Orthopedic repair,203,Success
+2592,10412,22,20241201,Orthopedic repair,234,Success
+2593,831,119,20241203,Cataract,240,Success
+2594,7805,119,20241127,Cataract,347,Success
+2595,12218,37,20240817,Cataract,278,Success
+2596,1140,111,20240802,Cataract,62,Success
+2597,10578,74,20240212,General surgery,270,Success
+2598,1604,37,20240919,Cardiac procedure,226,Success
+2599,2571,12,20240401,Cataract,136,Success
+2600,5698,14,20240302,Appendectomy,354,Success
+2601,6963,51,20240413,Cataract,209,Success
+2602,6219,8,20240209,Cataract,52,Success
+2603,5553,22,20240523,Cataract,209,Success
+2604,335,115,20240304,Cataract,160,Success
+2605,2827,7,20240621,Orthopedic repair,161,Success
+2606,8029,106,20240824,Cataract,348,Success
+2607,3169,21,20240812,Orthopedic repair,39,Success
+2608,2535,23,20240710,General surgery,139,Success
+2609,5608,88,20240625,Cardiac procedure,68,Success
+2610,14270,106,20240102,General surgery,332,Success
+2611,13083,53,20241007,General surgery,120,Success
+2612,13508,47,20240829,Cardiac procedure,343,Success
+2613,13574,19,20240125,Cataract,207,Success
+2614,5060,18,20240209,General surgery,296,Success
+2615,1715,18,20240921,Appendectomy,289,Success
+2616,9180,108,20241128,Cardiac procedure,43,Success
+2617,7709,14,20240103,Cardiac procedure,55,Success
+2618,12685,107,20240616,Appendectomy,50,Success
+2619,9762,117,20241104,Cardiac procedure,285,Success
+2620,10919,67,20241024,General surgery,32,Success
+2621,9585,24,20241225,Cataract,336,Success
+2622,9665,88,20240326,General surgery,45,Success
+2623,10899,75,20240327,Cardiac procedure,131,Success
+2624,9370,53,20240614,Orthopedic repair,106,Success
+2625,10094,102,20240214,Cataract,128,Success
+2626,4207,74,20240425,Appendectomy,291,Complications
+2627,1301,70,20240814,Appendectomy,275,Success
+2628,9778,15,20240610,Cataract,96,Success
+2629,1540,27,20240610,Appendectomy,185,Success
+2630,1887,105,20241201,General surgery,213,Success
+2631,9751,82,20241208,Orthopedic repair,306,Success
+2632,8243,59,20240112,General surgery,127,Success
+2633,4129,38,20240421,Orthopedic repair,249,Success
+2634,2795,14,20241118,Cataract,107,Success
+2635,8732,66,20240901,Cardiac procedure,51,Success
+2636,13757,95,20240729,Appendectomy,217,Success
+2637,3041,106,20241013,Cataract,54,Success
+2638,6042,28,20240915,Cardiac procedure,312,Success
+2639,1973,66,20240611,Appendectomy,33,Success
+2640,14172,58,20240904,Cataract,358,Success
+2641,6028,54,20240925,Orthopedic repair,266,Success
+2642,7693,74,20240805,Cataract,245,Success
+2643,5850,19,20240224,Cataract,53,Success
+2644,2197,51,20240819,Appendectomy,95,Success
+2645,9560,9,20240108,General surgery,358,Success
+2646,4555,96,20241010,Cataract,326,Success
+2647,8807,15,20241108,Orthopedic repair,357,Success
+2648,14316,34,20241014,Orthopedic repair,222,Success
+2649,11437,94,20241204,General surgery,306,Success
+2650,7011,45,20241121,Cataract,277,Success
+2651,5312,38,20240129,Cardiac procedure,280,Success
+2652,4401,95,20240908,Appendectomy,88,Success
+2653,6510,6,20240228,Cataract,212,Success
+2654,8796,112,20240206,Appendectomy,298,Success
+2655,8259,50,20241207,General surgery,298,Success
+2656,7133,21,20241112,Cataract,49,Success
+2657,14307,50,20240909,Cataract,152,Success
+2658,11938,113,20240724,Cataract,350,Success
+2659,11089,107,20241103,Orthopedic repair,299,Success
+2660,1879,37,20240812,General surgery,121,Success
+2661,7876,83,20240705,General surgery,204,Success
+2662,14673,80,20240127,Cardiac procedure,307,Success
+2663,6555,79,20240517,Cataract,340,Success
+2664,8577,48,20240107,Cardiac procedure,324,Success
+2665,6266,93,20241227,Appendectomy,281,Success
+2666,798,26,20240222,General surgery,116,Success
+2667,3793,47,20240831,Appendectomy,113,Success
+2668,3835,93,20240721,General surgery,62,Success
+2669,6605,57,20241218,Appendectomy,235,Success
+2670,1295,109,20240102,Appendectomy,143,Success
+2671,13157,64,20241014,Cataract,55,Success
+2672,5478,100,20240414,Appendectomy,88,Success
+2673,3716,47,20241208,General surgery,30,Success
+2674,6962,47,20241101,Cardiac procedure,108,Success
+2675,13707,70,20240920,Orthopedic repair,326,Success
+2676,4670,56,20241029,Appendectomy,260,Success
+2677,6531,62,20240102,General surgery,295,Success
+2678,14322,30,20240419,Cardiac procedure,192,Success
+2679,9968,75,20241018,Cardiac procedure,252,Success
+2680,7586,72,20240624,Appendectomy,233,Success
+2681,2174,8,20241224,Cataract,182,Success
+2682,7720,61,20240122,Cardiac procedure,104,Success
+2683,3629,91,20240930,Cardiac procedure,128,Success
+2684,1685,42,20240808,Cardiac procedure,338,Success
+2685,13504,27,20240425,Cardiac procedure,310,Success
+2686,2717,90,20240907,Orthopedic repair,305,Success
+2687,6901,50,20240219,General surgery,215,Success
+2688,12568,37,20241005,Cataract,47,Success
+2689,4913,117,20241225,General surgery,217,Success
+2690,5841,91,20240219,Cataract,117,Success
+2691,13041,113,20240521,Cataract,238,Success
+2692,12843,27,20240729,Appendectomy,255,Success
+2693,11708,48,20240817,Cataract,182,Complications
+2694,5845,55,20240420,Orthopedic repair,132,Success
+2695,10662,63,20240226,General surgery,226,Success
+2696,9268,57,20241008,Orthopedic repair,303,Success
+2697,10361,41,20240307,Cardiac procedure,32,Success
+2698,11041,43,20240407,Cataract,39,Success
+2699,12052,17,20240523,Cataract,135,Success
+2700,6379,19,20240624,Cataract,91,Success
+2701,5251,27,20240204,Cardiac procedure,289,Success
+2702,13146,44,20240112,Appendectomy,36,Success
+2703,1751,117,20241214,General surgery,327,Success
+2704,1850,48,20240909,Appendectomy,294,Success
+2705,8441,9,20240928,General surgery,214,Success
+2706,14423,33,20240610,Orthopedic repair,175,Success
+2707,9873,48,20240101,General surgery,206,Success
+2708,6711,48,20241001,General surgery,285,Success
+2709,6213,20,20240612,General surgery,168,Success
+2710,3168,63,20240510,Cardiac procedure,128,Success
+2711,9377,45,20241125,Orthopedic repair,236,Success
+2712,7212,77,20240908,Cataract,197,Success
+2713,10283,110,20240104,Cardiac procedure,83,Success
+2714,13332,98,20240227,Cardiac procedure,345,Success
+2715,5515,108,20241116,Orthopedic repair,311,Success
+2716,7648,46,20240818,General surgery,346,Success
+2717,4464,57,20240916,Cardiac procedure,138,Success
+2718,13088,51,20240920,Appendectomy,338,Success
+2719,934,97,20240914,Cataract,164,Success
+2720,13029,56,20240707,Cataract,165,Success
+2721,7892,5,20240427,Appendectomy,331,Death
+2722,199,7,20240925,Cardiac procedure,147,Success
+2723,13810,13,20240630,Orthopedic repair,352,Success
+2724,14523,101,20240521,Appendectomy,91,Success
+2725,8840,116,20240609,Orthopedic repair,335,Success
+2726,4727,29,20241110,Cardiac procedure,205,Success
+2727,9695,118,20240207,Orthopedic repair,215,Success
+2728,11381,106,20240731,Appendectomy,111,Success
+2729,14861,52,20241015,Orthopedic repair,73,Success
+2730,8964,66,20240619,Cardiac procedure,78,Success
+2731,14149,61,20240107,Cataract,351,Success
+2732,11858,12,20240120,Orthopedic repair,52,Success
+2733,11092,6,20240118,General surgery,119,Success
+2734,3102,71,20240322,Cardiac procedure,333,Success
+2735,1565,51,20240428,Cataract,215,Success
+2736,3224,57,20240424,General surgery,50,Complications
+2737,13725,67,20240521,Appendectomy,242,Success
+2738,9133,113,20240907,Cardiac procedure,139,Success
+2739,12366,46,20240316,Orthopedic repair,309,Success
+2740,2451,71,20241106,Appendectomy,218,Success
+2741,7945,48,20241007,Cardiac procedure,218,Success
+2742,2911,88,20240408,Appendectomy,260,Success
+2743,583,109,20240608,Orthopedic repair,208,Success
+2744,7919,103,20240225,Cardiac procedure,109,Success
+2745,6610,24,20240419,Cataract,332,Success
+2746,169,48,20240110,General surgery,147,Success
+2747,9845,27,20240501,Cataract,55,Success
+2748,6317,94,20240922,Cardiac procedure,139,Success
+2749,7739,91,20240129,Appendectomy,204,Success
+2750,10470,36,20240308,Orthopedic repair,316,Success
+2751,8710,40,20240906,Appendectomy,174,Success
+2752,832,56,20241124,General surgery,128,Success
+2753,644,82,20241201,Cardiac procedure,168,Success
+2754,4463,47,20240225,Cardiac procedure,306,Success
+2755,4821,81,20240704,General surgery,69,Success
+2756,6200,78,20240519,Cardiac procedure,82,Success
+2757,6290,72,20241214,Cardiac procedure,285,Success
+2758,178,115,20240115,Appendectomy,157,Success
+2759,1183,98,20241217,Orthopedic repair,275,Success
+2760,6197,86,20240324,General surgery,227,Success
+2761,1669,39,20240620,Orthopedic repair,185,Success
+2762,9484,100,20240428,Cataract,162,Success
+2763,8028,11,20240717,Cataract,208,Success
+2764,522,51,20240921,Cardiac procedure,70,Success
+2765,10132,32,20240627,Orthopedic repair,220,Success
+2766,13703,64,20240102,Appendectomy,65,Success
+2767,5447,40,20240403,Orthopedic repair,268,Success
+2768,7971,63,20241005,Cardiac procedure,235,Success
+2769,12568,25,20240820,General surgery,207,Success
+2770,7872,96,20240811,General surgery,336,Success
+2771,906,82,20240407,Appendectomy,82,Success
+2772,14490,8,20240122,Cardiac procedure,308,Success
+2773,14457,13,20240108,Appendectomy,40,Success
+2774,7118,39,20240312,General surgery,216,Success
+2775,5061,81,20240727,General surgery,298,Success
+2776,13616,109,20240802,General surgery,38,Success
+2777,5481,21,20241130,Cardiac procedure,213,Success
+2778,7053,57,20240223,General surgery,214,Success
+2779,4848,2,20240126,Orthopedic repair,163,Success
+2780,1824,114,20240731,General surgery,137,Success
+2781,4319,80,20241119,Appendectomy,189,Success
+2782,9493,30,20240424,Orthopedic repair,238,Success
+2783,1696,27,20240328,Appendectomy,232,Success
+2784,1393,88,20240823,Orthopedic repair,106,Success
+2785,9025,88,20240828,General surgery,352,Success
+2786,8319,78,20240805,General surgery,231,Success
+2787,14946,15,20240215,Orthopedic repair,309,Success
+2788,9614,116,20240922,Cataract,146,Success
+2789,1285,42,20241215,General surgery,87,Success
+2790,12428,75,20240407,Appendectomy,153,Success
+2791,5277,54,20240918,Orthopedic repair,182,Success
+2792,2218,52,20241028,Orthopedic repair,260,Success
+2793,11267,76,20241229,Cataract,35,Success
+2794,13690,5,20241221,General surgery,141,Success
+2795,11922,51,20241214,Cataract,273,Success
+2796,7646,58,20240401,Cardiac procedure,325,Success
+2797,10318,31,20240907,Cardiac procedure,355,Success
+2798,2078,103,20241217,Orthopedic repair,231,Success
+2799,6276,11,20240222,Appendectomy,306,Success
+2800,631,36,20241029,Cardiac procedure,335,Success
+2801,9395,47,20240423,Appendectomy,112,Success
+2802,3275,43,20240508,Cataract,354,Success
+2803,13414,28,20240401,Cardiac procedure,198,Success
+2804,14952,115,20240825,Orthopedic repair,232,Success
+2805,11117,119,20240128,Orthopedic repair,222,Success
+2806,3728,25,20240909,Cardiac procedure,167,Success
+2807,5824,66,20240309,Appendectomy,252,Success
+2808,7082,6,20241013,General surgery,250,Success
+2809,10998,95,20240619,General surgery,281,Success
+2810,1512,104,20240619,Cardiac procedure,117,Success
+2811,4660,34,20241224,Appendectomy,119,Success
+2812,12068,57,20241207,Cardiac procedure,73,Success
+2813,11524,116,20240329,General surgery,219,Success
+2814,10304,105,20241109,General surgery,63,Success
+2815,8979,70,20240403,Appendectomy,223,Success
+2816,12636,2,20240613,Orthopedic repair,32,Success
+2817,4107,113,20240115,Cataract,173,Success
+2818,14937,37,20240201,Appendectomy,163,Success
+2819,12694,51,20240803,Orthopedic repair,89,Success
+2820,13540,113,20240525,Orthopedic repair,130,Success
+2821,10396,16,20241124,General surgery,222,Success
+2822,13680,81,20240421,Appendectomy,257,Success
+2823,13088,5,20241203,General surgery,271,Success
+2824,4434,78,20241110,Cardiac procedure,146,Success
+2825,5323,14,20240406,General surgery,289,Success
+2826,5985,24,20240926,Cataract,211,Success
+2827,2444,20,20240319,Appendectomy,299,Success
+2828,6235,14,20241216,Cardiac procedure,172,Success
+2829,2965,64,20241122,Appendectomy,155,Success
+2830,4491,94,20241017,Cardiac procedure,193,Success
+2831,5654,11,20241125,Cataract,40,Success
+2832,8266,30,20240821,Appendectomy,289,Success
+2833,8796,83,20240206,Cardiac procedure,348,Success
+2834,2347,2,20240215,Appendectomy,285,Success
+2835,8113,58,20240922,Appendectomy,339,Success
+2836,4036,12,20240401,General surgery,125,Success
+2837,2185,51,20240425,General surgery,108,Success
+2838,2159,104,20241028,Cataract,178,Success
+2839,14283,55,20241130,Cardiac procedure,175,Success
+2840,9164,46,20240415,Appendectomy,221,Success
+2841,3375,78,20240630,Cardiac procedure,335,Success
+2842,2109,89,20240421,General surgery,237,Success
+2843,4319,13,20240428,Cataract,178,Success
+2844,1033,92,20241214,Cardiac procedure,168,Success
+2845,4549,31,20241112,Appendectomy,251,Success
+2846,12588,66,20241104,Cataract,67,Success
+2847,3872,63,20241015,Cataract,262,Success
+2848,11668,1,20241223,Orthopedic repair,166,Success
+2849,13963,9,20240420,Cataract,89,Success
+2850,10128,90,20240914,General surgery,305,Success
+2851,12480,16,20241208,Appendectomy,161,Success
+2852,3472,73,20240404,General surgery,223,Success
+2853,10676,60,20240622,General surgery,100,Success
+2854,14780,118,20240926,General surgery,176,Success
+2855,3623,81,20240917,Appendectomy,260,Success
+2856,10775,66,20240302,Orthopedic repair,109,Success
+2857,11374,37,20240719,Orthopedic repair,121,Success
+2858,7426,27,20240604,Cataract,207,Success
+2859,8713,104,20241126,Orthopedic repair,104,Success
+2860,345,20,20240628,Orthopedic repair,232,Death
+2861,4051,100,20241031,General surgery,177,Success
+2862,7459,89,20241015,Appendectomy,34,Success
+2863,4047,120,20240621,Appendectomy,287,Success
+2864,12397,99,20240215,Orthopedic repair,109,Success
+2865,13089,62,20240810,Cataract,205,Success
+2866,13269,101,20241229,Orthopedic repair,204,Success
+2867,2319,112,20240218,Orthopedic repair,166,Success
+2868,2163,25,20240629,Orthopedic repair,56,Success
+2869,2333,15,20240416,General surgery,297,Success
+2870,14073,51,20240117,Orthopedic repair,86,Success
+2871,6091,53,20240513,Appendectomy,127,Success
+2872,4745,60,20241229,Orthopedic repair,332,Success
+2873,7718,38,20240915,General surgery,267,Success
+2874,1285,4,20241212,Cataract,204,Success
+2875,2017,83,20240611,Orthopedic repair,101,Success
+2876,6569,4,20241010,Appendectomy,76,Success
+2877,13532,21,20240901,Cataract,51,Complications
+2878,1041,85,20241030,Appendectomy,147,Success
+2879,14,115,20240213,Cardiac procedure,357,Success
+2880,13909,119,20240524,Appendectomy,255,Success
+2881,12547,11,20240621,Cataract,33,Success
+2882,12177,111,20241223,General surgery,112,Success
+2883,7754,106,20240103,Orthopedic repair,295,Success
+2884,9061,103,20241217,Orthopedic repair,234,Success
+2885,3633,111,20240301,Cardiac procedure,94,Success
+2886,5889,78,20240613,Appendectomy,113,Success
+2887,9164,115,20240604,Cataract,174,Success
+2888,2354,93,20240129,Orthopedic repair,69,Success
+2889,11964,21,20240902,Cataract,151,Success
+2890,12345,66,20240430,General surgery,170,Success
+2891,1716,27,20240522,Orthopedic repair,329,Success
+2892,6172,31,20240827,Cardiac procedure,331,Success
+2893,12664,3,20240530,Cataract,219,Success
+2894,4894,108,20240608,Orthopedic repair,260,Success
+2895,14779,96,20241227,Orthopedic repair,81,Success
+2896,7814,87,20240310,Appendectomy,270,Success
+2897,5115,74,20241015,Cataract,352,Success
+2898,12768,24,20240523,Cardiac procedure,350,Success
+2899,3909,4,20241212,Cardiac procedure,202,Success
+2900,6536,50,20240102,Cataract,339,Success
+2901,9033,10,20241103,Cardiac procedure,257,Success
+2902,10376,108,20240214,Cardiac procedure,65,Success
+2903,12670,70,20241011,Cataract,67,Success
+2904,12057,49,20241124,Cardiac procedure,323,Success
+2905,3333,74,20240427,Cardiac procedure,274,Success
+2906,7837,112,20241010,Cardiac procedure,161,Success
+2907,10102,87,20240508,General surgery,123,Success
+2908,8709,31,20240906,Orthopedic repair,334,Success
+2909,14470,118,20240331,Appendectomy,238,Success
+2910,13250,36,20240201,Orthopedic repair,355,Success
+2911,5040,113,20240804,General surgery,314,Success
+2912,3067,25,20240303,Cataract,84,Success
+2913,8024,114,20240517,Appendectomy,343,Success
+2914,4730,11,20240721,Orthopedic repair,106,Success
+2915,13158,40,20240514,General surgery,32,Success
+2916,9503,65,20240103,Orthopedic repair,330,Success
+2917,10065,101,20241213,Appendectomy,266,Success
+2918,9593,12,20241027,Appendectomy,117,Success
+2919,12743,30,20240216,Orthopedic repair,121,Success
+2920,5705,75,20240323,Orthopedic repair,110,Success
+2921,5423,114,20241109,Orthopedic repair,185,Success
+2922,10092,8,20241014,Orthopedic repair,222,Success
+2923,2440,120,20241010,Appendectomy,325,Success
+2924,5959,72,20241016,Cardiac procedure,220,Success
+2925,11769,36,20240626,Cataract,164,Success
+2926,3134,64,20240608,General surgery,306,Success
+2927,3934,47,20240507,General surgery,311,Success
+2928,12119,93,20241102,General surgery,193,Success
+2929,7084,84,20240224,Cataract,32,Success
+2930,9754,86,20240419,General surgery,223,Success
+2931,4433,66,20241026,Cataract,191,Success
+2932,2208,73,20240116,Cardiac procedure,253,Success
+2933,11840,57,20240418,Cardiac procedure,239,Success
+2934,7352,119,20240414,Cataract,143,Success
+2935,3853,88,20241104,Cataract,275,Success
+2936,2017,40,20240711,Appendectomy,347,Success
+2937,2598,82,20240115,Cataract,195,Success
+2938,356,115,20241031,Cardiac procedure,91,Success
+2939,6875,44,20240711,Cataract,208,Success
+2940,3640,22,20240531,Appendectomy,312,Success
+2941,5629,75,20241122,Appendectomy,179,Success
+2942,8615,32,20240507,Orthopedic repair,333,Success
+2943,13851,116,20240527,Orthopedic repair,175,Success
+2944,3881,24,20241220,Cardiac procedure,309,Success
+2945,6672,111,20240617,Cardiac procedure,296,Success
+2946,14743,3,20241018,Cardiac procedure,267,Success
+2947,3945,93,20240821,Orthopedic repair,239,Success
+2948,4260,80,20240801,Orthopedic repair,136,Success
+2949,3843,106,20240907,Appendectomy,227,Success
+2950,10742,58,20241227,Appendectomy,50,Success
+2951,11822,7,20241017,General surgery,201,Success
+2952,1183,43,20240206,Cataract,290,Success
+2953,8981,25,20240528,Appendectomy,214,Success
+2954,476,39,20240701,Cardiac procedure,46,Success
+2955,9152,55,20241216,General surgery,245,Success
+2956,3692,9,20240308,General surgery,168,Success
+2957,12922,41,20240615,Cataract,35,Success
+2958,6890,108,20240614,Appendectomy,294,Success
+2959,12362,22,20240731,Cardiac procedure,302,Success
+2960,7042,106,20240414,Cardiac procedure,35,Success
+2961,1249,37,20240427,Orthopedic repair,33,Success
+2962,14031,99,20240402,Cardiac procedure,346,Success
+2963,3246,43,20241124,General surgery,254,Success
+2964,2958,29,20240611,General surgery,66,Success
+2965,3215,60,20240207,General surgery,336,Success
+2966,11911,55,20241231,Orthopedic repair,164,Success
+2967,5073,57,20240306,Orthopedic repair,73,Success
+2968,8142,51,20240901,Cataract,312,Success
+2969,9379,119,20241026,Orthopedic repair,192,Success
+2970,7647,38,20241209,General surgery,225,Success
+2971,8918,110,20241208,General surgery,71,Success
+2972,11875,29,20240529,Appendectomy,356,Success
+2973,6332,49,20240823,Orthopedic repair,298,Success
+2974,9954,75,20240309,Cardiac procedure,334,Success
+2975,2591,20,20241231,Cardiac procedure,96,Success
+2976,11002,75,20240829,Appendectomy,215,Success
+2977,3714,65,20240326,Cardiac procedure,325,Success
+2978,9656,11,20241003,Cardiac procedure,156,Success
+2979,4841,18,20240324,Cardiac procedure,206,Success
+2980,10517,110,20240806,General surgery,209,Success
+2981,130,110,20240716,Cataract,82,Success
+2982,13516,29,20240617,Orthopedic repair,290,Success
+2983,4406,108,20240528,Appendectomy,222,Success
+2984,1465,76,20240831,Appendectomy,30,Success
+2985,6578,106,20240711,General surgery,67,Success
+2986,9274,50,20240304,Cataract,355,Success
+2987,8524,38,20240523,General surgery,197,Complications
+2988,10218,54,20241208,Cataract,229,Success
+2989,1922,61,20240108,Cataract,339,Success
+2990,1084,60,20240730,General surgery,355,Success
+2991,12381,10,20240726,Orthopedic repair,200,Success
+2992,3480,37,20241009,Cataract,357,Success
+2993,14721,1,20240109,Cataract,87,Success
+2994,5792,15,20240414,Orthopedic repair,245,Complications
+2995,316,68,20240422,Orthopedic repair,286,Success
+2996,9882,95,20241005,Appendectomy,268,Success
+2997,1252,5,20240106,General surgery,95,Success
+2998,8336,71,20240128,Appendectomy,59,Success
+2999,2125,116,20240814,Cardiac procedure,201,Success
+3000,8832,94,20241220,General surgery,359,Success
+3001,9698,10,20241221,Cardiac procedure,275,Success
+3002,9379,74,20240714,Cardiac procedure,301,Success
+3003,12430,53,20241001,Orthopedic repair,54,Success
+3004,8531,64,20240405,Cataract,131,Success
+3005,3223,33,20241226,Orthopedic repair,208,Success
+3006,6894,45,20240424,Cataract,314,Success
+3007,14504,99,20241124,Orthopedic repair,172,Success
+3008,6424,40,20240818,Cataract,47,Success
+3009,5430,113,20240412,Cataract,115,Success
+3010,7843,67,20240312,Cataract,323,Success
+3011,8825,95,20240405,Orthopedic repair,288,Success
+3012,2470,90,20240519,Appendectomy,51,Success
+3013,6660,100,20240523,General surgery,85,Success
+3014,9462,74,20241008,Cataract,349,Success
+3015,433,105,20241102,Orthopedic repair,59,Success
+3016,12289,96,20240710,Cataract,280,Success
+3017,5119,73,20240523,Appendectomy,52,Success
+3018,7230,63,20241117,Orthopedic repair,316,Success
+3019,10774,87,20240120,Cataract,329,Success
+3020,6066,47,20240520,Orthopedic repair,95,Success
+3021,5347,34,20240123,Cataract,54,Success
+3022,11732,59,20240319,Cardiac procedure,292,Success
+3023,12634,95,20241216,General surgery,189,Success
+3024,11907,43,20241119,Appendectomy,30,Success
+3025,14613,86,20240608,Orthopedic repair,271,Success
+3026,550,108,20240727,Orthopedic repair,92,Success
+3027,4027,118,20241028,Cardiac procedure,89,Success
+3028,14606,72,20240103,Cataract,271,Success
+3029,7664,69,20240311,Cataract,127,Success
+3030,13946,45,20240104,Cardiac procedure,167,Success
+3031,14224,83,20241216,Orthopedic repair,357,Success
+3032,7994,92,20240109,Cardiac procedure,148,Success
+3033,11131,73,20240224,Cataract,319,Success
+3034,1778,32,20241117,General surgery,76,Success
+3035,4398,89,20240210,Cataract,351,Success
+3036,5440,49,20240704,Cardiac procedure,150,Success
+3037,10900,83,20241206,Cataract,201,Success
+3038,14298,13,20240630,General surgery,236,Success
+3039,12874,68,20240101,Cardiac procedure,210,Success
+3040,4871,46,20240622,Cataract,30,Success
+3041,13666,10,20240919,Cardiac procedure,288,Success
+3042,6619,47,20241229,Cardiac procedure,182,Success
+3043,2444,116,20240908,Cardiac procedure,150,Success
+3044,11784,10,20241008,Appendectomy,78,Success
+3045,14324,106,20240118,Cataract,274,Success
+3046,5049,68,20240203,Cataract,143,Success
+3047,9024,27,20240403,Orthopedic repair,280,Success
+3048,2022,60,20240214,Cardiac procedure,128,Success
+3049,11089,95,20241213,Orthopedic repair,220,Success
+3050,5052,80,20241128,Cataract,269,Success
+3051,6997,52,20241022,Cardiac procedure,258,Success
+3052,2516,63,20240710,Orthopedic repair,67,Success
+3053,11633,107,20240422,Cardiac procedure,35,Success
+3054,1387,8,20240112,Cardiac procedure,215,Success
+3055,7559,1,20241121,General surgery,214,Success
+3056,12351,59,20240621,General surgery,98,Success
+3057,13752,113,20240514,Orthopedic repair,162,Success
+3058,9173,109,20240116,Appendectomy,181,Success
+3059,7340,43,20240310,General surgery,299,Complications
+3060,5204,109,20241023,General surgery,196,Complications
+3061,8527,110,20240919,Appendectomy,328,Complications
+3062,4311,56,20240615,Cardiac procedure,65,Success
+3063,10047,103,20240912,General surgery,106,Success
+3064,10966,18,20240520,Cardiac procedure,82,Success
+3065,845,25,20241208,Cataract,35,Success
+3066,458,18,20241129,Appendectomy,112,Success
+3067,3597,39,20241114,Cardiac procedure,250,Success
+3068,10786,100,20240725,General surgery,48,Success
+3069,4468,29,20241124,Cardiac procedure,286,Success
+3070,14784,107,20241109,Cardiac procedure,244,Success
+3071,5004,64,20240209,General surgery,217,Success
+3072,5556,64,20241007,Appendectomy,341,Success
+3073,6321,13,20240219,Orthopedic repair,185,Success
+3074,8249,12,20240228,General surgery,346,Success
+3075,524,92,20241120,General surgery,268,Success
+3076,6340,26,20240220,Orthopedic repair,242,Success
+3077,11830,58,20241210,Cardiac procedure,252,Success
+3078,7127,36,20240303,Cardiac procedure,55,Success
+3079,9312,110,20240109,Appendectomy,312,Success
+3080,3707,12,20240603,Cardiac procedure,279,Success
+3081,5965,57,20240125,Orthopedic repair,54,Complications
+3082,5090,9,20240601,General surgery,258,Success
+3083,7869,59,20240912,Appendectomy,195,Success
+3084,1739,14,20240531,Appendectomy,160,Success
+3085,14776,42,20241105,Orthopedic repair,251,Success
+3086,9916,19,20241206,Cataract,342,Success
+3087,7970,99,20240105,Cataract,275,Success
+3088,8473,22,20240531,Orthopedic repair,175,Success
+3089,10958,105,20240713,Orthopedic repair,246,Success
+3090,7959,43,20240915,Orthopedic repair,171,Success
+3091,3487,91,20240203,Cataract,104,Success
+3092,7586,24,20240628,Cardiac procedure,217,Success
+3093,5477,78,20241115,General surgery,296,Success
+3094,2407,5,20241027,Orthopedic repair,97,Success
+3095,5754,57,20240627,Orthopedic repair,117,Success
+3096,585,113,20240324,Cardiac procedure,242,Success
+3097,2430,108,20241118,General surgery,315,Success
+3098,8924,103,20241012,Cardiac procedure,143,Success
+3099,8001,8,20240507,Orthopedic repair,50,Success
+3100,7914,79,20240215,Cataract,58,Complications
+3101,5393,36,20240611,Cardiac procedure,43,Success
+3102,1931,42,20241104,Cataract,177,Success
+3103,11839,69,20240421,General surgery,328,Success
+3104,4689,43,20241231,Orthopedic repair,238,Success
+3105,5047,38,20240105,Cardiac procedure,341,Success
+3106,1107,6,20240514,Cataract,207,Success
+3107,3581,79,20240519,Cataract,159,Success
+3108,1281,67,20241201,Appendectomy,276,Success
+3109,13746,6,20240505,General surgery,348,Success
+3110,5245,10,20241106,Appendectomy,220,Success
+3111,14284,43,20241129,Appendectomy,114,Success
+3112,13643,19,20240124,Orthopedic repair,229,Success
+3113,7768,100,20240224,General surgery,313,Success
+3114,14684,46,20240406,Appendectomy,144,Success
+3115,9175,72,20240307,Appendectomy,40,Success
+3116,9907,23,20240406,Cardiac procedure,108,Success
+3117,13385,61,20240103,Cardiac procedure,190,Success
+3118,4645,44,20240413,General surgery,221,Success
+3119,8664,104,20241031,Cardiac procedure,357,Success
+3120,8743,26,20240920,Cataract,132,Success
+3121,7520,95,20240809,Appendectomy,145,Success
+3122,11043,107,20240121,Orthopedic repair,335,Success
+3123,12349,93,20240611,Cataract,138,Success
+3124,14326,101,20240807,Orthopedic repair,295,Success
+3125,4638,29,20241026,Orthopedic repair,292,Success
+3126,6186,68,20241117,Cataract,105,Success
+3127,4010,77,20240805,Appendectomy,162,Success
+3128,7795,53,20241118,Orthopedic repair,119,Success
+3129,2781,31,20240525,General surgery,159,Success
+3130,6364,7,20240104,Orthopedic repair,242,Success
+3131,2246,10,20240526,General surgery,203,Success
+3132,8576,46,20240527,Orthopedic repair,215,Success
+3133,10784,83,20240607,Cardiac procedure,286,Success
+3134,1204,31,20240805,Cardiac procedure,83,Success
+3135,1547,91,20240428,Orthopedic repair,182,Success
+3136,2747,75,20241022,Appendectomy,30,Success
+3137,7193,31,20240808,Orthopedic repair,161,Success
+3138,14811,18,20240831,Appendectomy,243,Success
+3139,7348,98,20240203,Orthopedic repair,76,Success
+3140,12341,25,20240123,Cataract,192,Success
+3141,14475,76,20240910,Cataract,213,Success
+3142,6441,113,20240831,Orthopedic repair,148,Success
+3143,4433,69,20240713,General surgery,74,Success
+3144,9670,36,20241220,Appendectomy,184,Success
+3145,13682,4,20241119,General surgery,336,Success
+3146,13457,16,20241001,Orthopedic repair,222,Success
+3147,1872,88,20240108,Appendectomy,52,Success
+3148,2657,60,20240407,Cataract,34,Success
+3149,11625,71,20241229,Orthopedic repair,229,Success
+3150,6009,116,20240924,Orthopedic repair,180,Success
+3151,439,37,20241231,Appendectomy,183,Success
+3152,5196,64,20240113,General surgery,320,Success
+3153,3225,57,20240731,Cataract,301,Success
+3154,11255,110,20240301,General surgery,60,Success
+3155,9293,111,20240810,Cataract,199,Success
+3156,7071,73,20240408,Orthopedic repair,122,Success
+3157,2187,95,20240725,Orthopedic repair,196,Success
+3158,570,27,20241011,Orthopedic repair,54,Success
+3159,2001,106,20241011,Cardiac procedure,149,Success
+3160,8430,75,20240508,Appendectomy,37,Success
+3161,3067,74,20240928,Cataract,236,Success
+3162,3283,37,20241203,Cardiac procedure,186,Success
+3163,2788,97,20241030,Orthopedic repair,336,Success
+3164,12182,21,20240923,Orthopedic repair,112,Success
+3165,3375,78,20240309,Appendectomy,51,Success
+3166,9232,56,20240201,Cardiac procedure,332,Success
+3167,11647,22,20241107,Orthopedic repair,276,Success
+3168,4954,117,20240614,Cardiac procedure,335,Success
+3169,542,113,20240523,Orthopedic repair,170,Success
+3170,14012,120,20241004,Appendectomy,322,Success
+3171,632,76,20240213,Cardiac procedure,294,Success
+3172,9350,15,20240520,General surgery,114,Success
+3173,5683,88,20240514,Orthopedic repair,202,Success
+3174,8658,79,20241112,Orthopedic repair,223,Success
+3175,2416,8,20241129,Appendectomy,326,Success
+3176,13951,93,20240614,Appendectomy,168,Success
+3177,952,45,20240222,Orthopedic repair,250,Success
+3178,12834,90,20241106,Appendectomy,108,Success
+3179,8375,10,20241114,Appendectomy,43,Success
+3180,12020,66,20241014,Cataract,318,Success
+3181,4327,42,20240215,Appendectomy,86,Success
+3182,14504,112,20240301,Orthopedic repair,221,Success
+3183,6597,41,20241202,General surgery,151,Success
+3184,7177,33,20240907,General surgery,123,Success
+3185,8838,16,20240710,Orthopedic repair,283,Success
+3186,14535,73,20240814,Appendectomy,58,Success
+3187,12780,16,20241220,Cardiac procedure,342,Success
+3188,2399,91,20240204,Appendectomy,88,Success
+3189,7778,69,20240731,General surgery,125,Success
+3190,2012,48,20240514,Cardiac procedure,206,Success
+3191,2143,74,20241105,Appendectomy,227,Success
+3192,9551,118,20240108,Cardiac procedure,50,Success
+3193,194,45,20240311,Orthopedic repair,36,Success
+3194,8283,42,20240426,Appendectomy,76,Success
+3195,2442,46,20240210,Orthopedic repair,353,Success
+3196,13275,54,20241029,General surgery,154,Success
+3197,11609,11,20240214,Cardiac procedure,97,Success
+3198,3413,106,20241018,General surgery,61,Complications
+3199,9818,23,20240707,Orthopedic repair,109,Success
+3200,11898,9,20240313,Orthopedic repair,209,Success
+3201,7578,47,20240109,General surgery,165,Success
+3202,1587,26,20240323,Orthopedic repair,305,Success
+3203,14169,113,20240322,Appendectomy,53,Success
+3204,13597,17,20240106,Cardiac procedure,40,Success
+3205,4971,8,20241229,Cardiac procedure,109,Success
+3206,576,117,20240530,General surgery,50,Success
+3207,5384,115,20240705,Cataract,79,Success
+3208,12144,80,20240526,General surgery,355,Success
+3209,8954,53,20240616,Cardiac procedure,127,Success
+3210,5395,48,20240822,Cataract,254,Success
+3211,1943,40,20241023,Cardiac procedure,258,Success
+3212,5591,73,20240418,Cardiac procedure,93,Success
+3213,10198,112,20240821,Orthopedic repair,359,Success
+3214,7015,88,20240118,Orthopedic repair,215,Success
+3215,10814,60,20240806,General surgery,339,Success
+3216,6940,92,20240312,Cataract,48,Success
+3217,7467,59,20240524,Appendectomy,92,Success
+3218,7779,35,20240709,Appendectomy,275,Success
+3219,9947,52,20240104,Cataract,121,Success
+3220,6708,120,20240129,General surgery,129,Success
+3221,727,94,20240725,General surgery,160,Success
+3222,14383,1,20241220,Cataract,340,Success
+3223,7861,37,20241030,Cataract,197,Success
+3224,821,52,20240220,Appendectomy,187,Complications
+3225,10372,2,20241019,Appendectomy,267,Success
+3226,3720,94,20240526,Cataract,147,Success
+3227,5072,70,20240417,Orthopedic repair,61,Success
+3228,2603,26,20240826,General surgery,56,Success
+3229,3120,25,20240316,Orthopedic repair,101,Success
+3230,6279,20,20241010,Cataract,233,Success
+3231,6977,45,20240620,Appendectomy,334,Success
+3232,4999,110,20240223,Appendectomy,352,Success
+3233,9143,41,20240901,Cataract,347,Success
+3234,155,56,20240916,Cardiac procedure,239,Success
+3235,12507,60,20240425,General surgery,234,Success
+3236,7850,106,20240907,Orthopedic repair,150,Success
+3237,10806,109,20240214,Cataract,36,Success
+3238,10109,100,20240519,Cataract,267,Success
+3239,10413,89,20240430,Cardiac procedure,168,Complications
+3240,13232,39,20240524,Appendectomy,124,Success
+3241,480,48,20241005,Cataract,359,Success
+3242,12145,58,20241217,Cataract,168,Complications
+3243,2955,59,20240314,Orthopedic repair,345,Success
+3244,1448,84,20241104,Orthopedic repair,286,Success
+3245,14475,101,20240512,Cardiac procedure,330,Success
+3246,9755,86,20240222,Appendectomy,179,Success
+3247,4584,60,20241008,Appendectomy,340,Success
+3248,3638,9,20240523,Orthopedic repair,124,Success
+3249,14579,108,20240331,Cataract,300,Success
+3250,6658,117,20240718,Cardiac procedure,108,Success
+3251,14922,94,20240115,Cardiac procedure,323,Success
+3252,8984,62,20240907,General surgery,58,Success
+3253,1858,44,20240129,Orthopedic repair,194,Success
+3254,10932,82,20240830,Cataract,285,Success
+3255,1332,60,20241105,Cataract,239,Success
+3256,8982,50,20241217,General surgery,340,Success
+3257,14593,59,20240504,Cardiac procedure,86,Success
+3258,1162,104,20240822,General surgery,345,Success
+3259,5763,119,20241113,Cardiac procedure,170,Success
+3260,2062,60,20240220,Cardiac procedure,261,Success
+3261,14489,99,20240219,Orthopedic repair,45,Success
+3262,8317,26,20240303,Orthopedic repair,193,Success
+3263,14183,46,20240414,General surgery,354,Success
+3264,2109,58,20240929,Orthopedic repair,342,Success
+3265,7293,27,20240524,Cardiac procedure,319,Success
+3266,9874,58,20240803,Orthopedic repair,161,Success
+3267,4224,11,20240621,Appendectomy,151,Death
+3268,11911,102,20240429,Cataract,335,Success
+3269,3104,8,20240924,Cataract,189,Success
+3270,13492,92,20240422,Cardiac procedure,330,Success
+3271,8296,99,20240405,Orthopedic repair,296,Success
+3272,11326,6,20240615,General surgery,63,Success
+3273,12137,88,20240420,General surgery,76,Success
+3274,9544,61,20240216,Cataract,180,Success
+3275,2683,35,20241116,Orthopedic repair,352,Success
+3276,11320,101,20240308,Cataract,68,Success
+3277,3062,93,20240308,Cardiac procedure,311,Success
+3278,7593,111,20240701,Cardiac procedure,82,Success
+3279,8911,99,20240117,Cardiac procedure,319,Success
+3280,9883,73,20240302,Cardiac procedure,189,Success
+3281,8425,30,20241002,Cardiac procedure,108,Success
+3282,2056,107,20240725,Appendectomy,264,Success
+3283,5402,109,20241123,Cardiac procedure,240,Success
+3284,2702,80,20240819,Appendectomy,61,Success
+3285,4667,8,20240308,Cataract,164,Success
+3286,1548,40,20241119,Orthopedic repair,154,Success
+3287,6060,93,20240516,Cardiac procedure,228,Success
+3288,8668,114,20241019,Orthopedic repair,264,Success
+3289,9847,45,20240416,Orthopedic repair,143,Success
+3290,3277,13,20240501,General surgery,274,Success
+3291,9719,45,20241129,Appendectomy,92,Success
+3292,1003,94,20240715,Cataract,43,Success
+3293,11881,93,20240908,Cardiac procedure,174,Success
+3294,8122,30,20240510,General surgery,147,Success
+3295,9589,20,20240818,Cardiac procedure,341,Success
+3296,12019,47,20241027,Cardiac procedure,67,Success
+3297,3762,91,20240719,Appendectomy,190,Success
+3298,6142,43,20240324,Cataract,64,Success
+3299,9120,52,20240816,Appendectomy,320,Success
+3300,12892,62,20241215,Orthopedic repair,302,Success
+3301,12332,18,20240421,General surgery,142,Success
+3302,7067,52,20240407,Orthopedic repair,156,Success
+3303,5789,68,20240121,Appendectomy,143,Success
+3304,11005,87,20240421,Cataract,66,Success
+3305,13684,24,20240720,Cardiac procedure,121,Success
+3306,6229,103,20240318,General surgery,326,Success
+3307,11981,52,20240608,Cardiac procedure,318,Success
+3308,2782,39,20240213,Orthopedic repair,350,Success
+3309,3735,113,20240924,Cataract,204,Success
+3310,2116,54,20240620,Orthopedic repair,249,Success
+3311,10561,107,20240719,Cardiac procedure,305,Success
+3312,12293,75,20240229,Cardiac procedure,69,Success
+3313,3252,17,20241026,Appendectomy,212,Success
+3314,12608,17,20241210,Appendectomy,51,Success
+3315,9624,26,20240501,Cardiac procedure,103,Success
+3316,3286,4,20240926,General surgery,232,Success
+3317,3834,116,20240605,General surgery,190,Success
+3318,12833,73,20240415,Cardiac procedure,320,Success
+3319,3412,78,20240826,Appendectomy,92,Success
+3320,9429,115,20240130,Appendectomy,88,Success
+3321,214,50,20240224,Orthopedic repair,310,Success
+3322,5938,96,20240209,Orthopedic repair,204,Success
+3323,11503,98,20241025,General surgery,301,Success
+3324,7492,3,20241009,Cataract,130,Success
+3325,7023,73,20241004,Cardiac procedure,341,Success
+3326,3388,63,20240329,Appendectomy,130,Success
+3327,9187,41,20240218,Appendectomy,63,Success
+3328,14912,99,20241213,General surgery,237,Success
+3329,11540,26,20240601,Cataract,344,Success
+3330,14479,98,20240414,Cardiac procedure,49,Success
+3331,7180,61,20240308,Appendectomy,122,Success
+3332,5227,95,20240826,General surgery,60,Success
+3333,14423,105,20240719,General surgery,227,Success
+3334,11512,20,20240702,Appendectomy,157,Success
+3335,4106,82,20240318,General surgery,254,Success
+3336,11106,18,20240413,General surgery,46,Success
+3337,11005,55,20240811,General surgery,104,Success
+3338,5342,12,20240619,Orthopedic repair,317,Success
+3339,699,36,20240811,General surgery,302,Success
+3340,13856,94,20240518,Appendectomy,355,Success
+3341,9467,21,20240501,Cardiac procedure,32,Success
+3342,7944,83,20240120,Cataract,241,Success
+3343,768,33,20240829,Cardiac procedure,176,Success
+3344,7003,72,20240827,Cardiac procedure,139,Success
+3345,3154,85,20240828,Appendectomy,30,Success
+3346,12838,80,20241127,Cardiac procedure,358,Success
+3347,13087,118,20240905,Cardiac procedure,292,Success
+3348,2776,101,20241027,Cardiac procedure,51,Complications
+3349,14972,114,20240210,General surgery,56,Success
+3350,4892,88,20240702,Orthopedic repair,249,Success
+3351,14805,42,20241226,Appendectomy,225,Success
+3352,10898,77,20240301,Cardiac procedure,345,Success
+3353,14439,113,20240411,Appendectomy,259,Success
+3354,5244,51,20240711,General surgery,353,Success
+3355,406,98,20240912,Orthopedic repair,348,Success
+3356,5121,33,20241108,Cataract,167,Success
+3357,6592,51,20241128,Cardiac procedure,100,Success
+3358,14181,44,20240209,Cataract,82,Success
+3359,3937,74,20240524,Orthopedic repair,205,Success
+3360,2221,16,20241226,Cataract,185,Success
+3361,10246,79,20240404,Appendectomy,216,Success
+3362,2210,42,20240529,Appendectomy,218,Success
+3363,13638,30,20240429,General surgery,275,Success
+3364,11419,110,20241229,Cataract,86,Success
+3365,10263,29,20240423,Cardiac procedure,341,Success
+3366,7666,85,20240728,Cardiac procedure,226,Success
+3367,11871,30,20240126,Cardiac procedure,236,Success
+3368,5739,44,20241019,Appendectomy,337,Success
+3369,11929,77,20240423,Appendectomy,251,Success
+3370,2520,59,20240309,Cataract,288,Success
+3371,13405,5,20241106,General surgery,137,Success
+3372,13513,100,20241121,Cataract,115,Success
+3373,1623,101,20241031,Orthopedic repair,56,Success
+3374,10968,38,20240625,Orthopedic repair,292,Success
+3375,10177,104,20241105,Cardiac procedure,279,Success
+3376,71,63,20240112,General surgery,99,Success
+3377,13854,39,20240211,Orthopedic repair,317,Success
+3378,5399,103,20240225,General surgery,233,Success
+3379,7535,28,20240730,Cataract,259,Success
+3380,7399,23,20240120,General surgery,273,Success
+3381,7195,105,20240408,General surgery,198,Success
+3382,2253,26,20240318,Appendectomy,239,Success
+3383,1440,106,20241120,Appendectomy,356,Success
+3384,13403,78,20240710,Appendectomy,331,Success
+3385,7711,18,20240302,Cardiac procedure,266,Success
+3386,2718,37,20240829,Orthopedic repair,318,Success
+3387,13473,50,20240410,Cardiac procedure,283,Success
+3388,2574,95,20240927,Appendectomy,61,Success
+3389,13995,64,20240625,Cardiac procedure,221,Success
+3390,5869,56,20240321,Cataract,317,Success
+3391,14124,106,20241230,Orthopedic repair,53,Success
+3392,5120,108,20240519,Appendectomy,354,Success
+3393,4627,94,20240625,General surgery,260,Success
+3394,4177,38,20240426,General surgery,155,Success
+3395,3083,83,20240407,Cataract,279,Success
+3396,11031,74,20241112,Cataract,232,Success
+3397,13421,68,20240919,Appendectomy,225,Success
+3398,1072,54,20240409,Orthopedic repair,190,Success
+3399,11232,104,20240320,Appendectomy,311,Success
+3400,4444,68,20240413,Cataract,82,Success
+3401,2095,21,20240904,Cardiac procedure,52,Success
+3402,11333,65,20240629,Cataract,343,Success
+3403,2075,68,20240521,Appendectomy,299,Success
+3404,13541,44,20240222,Cataract,144,Success
+3405,1493,55,20241007,Cataract,186,Success
+3406,351,18,20240616,Cataract,228,Success
+3407,14362,72,20240403,Cataract,230,Success
+3408,6903,28,20240222,General surgery,197,Success
+3409,9015,28,20240205,Cataract,334,Success
+3410,7328,41,20240517,Orthopedic repair,208,Success
+3411,14464,7,20240119,Appendectomy,264,Success
+3412,8472,28,20240519,General surgery,53,Success
+3413,4971,77,20241201,Cardiac procedure,240,Success
+3414,9344,107,20240318,Orthopedic repair,357,Success
+3415,10025,99,20240813,Orthopedic repair,135,Success
+3416,14997,50,20240424,Appendectomy,279,Success
+3417,6219,46,20240116,Appendectomy,72,Success
+3418,8670,95,20240211,Cataract,137,Success
+3419,5270,62,20240403,Orthopedic repair,136,Success
+3420,1966,80,20240411,Cataract,127,Success
+3421,11734,60,20240419,Appendectomy,61,Success
+3422,31,54,20241005,Cataract,306,Success
+3423,1675,86,20240128,General surgery,214,Success
+3424,2866,120,20240205,Appendectomy,33,Success
+3425,8944,70,20240924,Orthopedic repair,55,Success
+3426,7797,84,20240829,Cardiac procedure,116,Success
+3427,13835,43,20240902,General surgery,70,Success
+3428,249,107,20240616,Cardiac procedure,286,Success
+3429,7324,1,20241007,General surgery,309,Success
+3430,2683,20,20240513,Orthopedic repair,185,Success
+3431,7294,27,20240602,Appendectomy,206,Success
+3432,4073,98,20240314,Orthopedic repair,147,Success
+3433,13276,92,20241022,Orthopedic repair,153,Success
+3434,13791,7,20240918,Cardiac procedure,242,Success
+3435,4863,73,20241110,Appendectomy,348,Success
+3436,1492,15,20240526,General surgery,350,Success
+3437,13150,120,20240202,Orthopedic repair,125,Success
+3438,5174,32,20240521,Cardiac procedure,220,Success
+3439,1936,31,20241013,Cardiac procedure,324,Success
+3440,14277,11,20241107,Cataract,40,Success
+3441,4797,107,20240705,General surgery,185,Success
+3442,4435,113,20240826,General surgery,168,Success
+3443,13195,49,20241004,Cataract,116,Success
+3444,13909,116,20240307,General surgery,239,Success
+3445,8713,47,20240907,Cardiac procedure,58,Success
+3446,7062,108,20240812,General surgery,144,Success
+3447,10690,87,20240212,Orthopedic repair,136,Success
+3448,10116,88,20240227,Appendectomy,163,Success
+3449,13862,100,20241214,Appendectomy,223,Success
+3450,3437,16,20241221,General surgery,121,Success
+3451,3600,8,20240125,Cataract,33,Success
+3452,14180,56,20240105,General surgery,208,Success
+3453,6462,10,20240813,Cardiac procedure,192,Success
+3454,3084,51,20241109,Appendectomy,217,Success
+3455,298,35,20241224,Appendectomy,221,Success
+3456,10169,59,20240925,General surgery,215,Complications
+3457,11379,79,20241213,Cataract,304,Success
+3458,14728,65,20241022,General surgery,49,Success
+3459,6234,115,20240906,Appendectomy,113,Success
+3460,599,69,20241030,Appendectomy,151,Success
+3461,14665,98,20241216,General surgery,185,Complications
+3462,796,34,20240908,Cardiac procedure,230,Success
+3463,10140,102,20240701,General surgery,259,Success
+3464,9352,1,20240605,Cardiac procedure,65,Success
+3465,11908,41,20240212,General surgery,335,Success
+3466,7364,74,20240125,General surgery,166,Success
+3467,12468,112,20240229,General surgery,229,Success
+3468,6574,30,20240409,Appendectomy,305,Success
+3469,6025,29,20240804,Cardiac procedure,72,Success
+3470,4045,95,20240604,Cataract,357,Success
+3471,3081,63,20240814,General surgery,299,Success
+3472,12985,76,20240826,Appendectomy,41,Success
+3473,13733,20,20240210,General surgery,134,Success
+3474,8647,111,20241109,Cardiac procedure,179,Success
+3475,83,44,20240728,Orthopedic repair,139,Success
+3476,14837,90,20240728,Orthopedic repair,101,Success
+3477,5575,46,20240601,Cataract,228,Success
+3478,4217,22,20241031,Cataract,246,Success
+3479,209,78,20240901,Cataract,115,Success
+3480,9799,59,20240830,Cardiac procedure,137,Success
+3481,709,91,20240606,Orthopedic repair,44,Success
+3482,12320,111,20240505,Appendectomy,85,Success
+3483,13770,6,20240922,General surgery,71,Success
+3484,1245,116,20241107,General surgery,81,Success
+3485,7377,14,20240809,General surgery,30,Success
+3486,2342,85,20241108,Cardiac procedure,206,Success
+3487,3124,106,20240128,Appendectomy,290,Success
+3488,6035,15,20240902,General surgery,270,Success
+3489,14357,89,20241231,Cataract,101,Success
+3490,11058,95,20240626,Appendectomy,230,Success
+3491,5451,17,20241009,Orthopedic repair,237,Success
+3492,14694,103,20241004,Cardiac procedure,101,Success
+3493,10689,115,20241120,Cardiac procedure,273,Success
+3494,5653,4,20240128,Appendectomy,202,Success
+3495,12561,75,20240404,Orthopedic repair,322,Success
+3496,3075,48,20240211,Cataract,325,Success
+3497,4067,32,20240712,Cardiac procedure,42,Success
+3498,7523,65,20240203,General surgery,31,Success
+3499,11031,5,20240610,Cardiac procedure,328,Success
+3500,4696,20,20240626,Cardiac procedure,284,Success
+3501,14984,89,20240321,General surgery,194,Success
+3502,3066,43,20240131,Orthopedic repair,74,Success
+3503,7407,82,20240929,Orthopedic repair,298,Success
+3504,5166,13,20241025,Cataract,266,Success
+3505,6926,119,20241012,Appendectomy,339,Success
+3506,3280,29,20240809,Orthopedic repair,269,Success
+3507,13925,86,20240830,Cataract,91,Success
+3508,12951,44,20241226,General surgery,116,Success
+3509,6971,118,20240303,Orthopedic repair,52,Success
+3510,1798,105,20240303,Appendectomy,96,Success
+3511,7758,28,20240520,Orthopedic repair,135,Success
+3512,1374,49,20240807,Cardiac procedure,65,Success
+3513,14356,23,20241119,Cataract,308,Success
+3514,9224,70,20240112,Cataract,335,Success
+3515,9432,117,20240108,Orthopedic repair,139,Success
+3516,189,91,20240909,General surgery,291,Success
+3517,10537,77,20240206,Cataract,42,Success
+3518,2856,62,20240920,Cataract,50,Success
+3519,11890,33,20240619,Cataract,108,Success
+3520,9332,4,20240218,Cataract,255,Success
+3521,2593,61,20240407,Orthopedic repair,60,Success
+3522,1706,17,20240422,General surgery,59,Success
+3523,10036,82,20240310,Orthopedic repair,68,Success
+3524,7955,90,20240609,Cardiac procedure,99,Success
+3525,2090,96,20240413,Appendectomy,270,Success
+3526,1356,49,20240905,Cataract,72,Success
+3527,6268,3,20240801,Cardiac procedure,248,Success
+3528,3104,51,20240929,General surgery,217,Success
+3529,9158,3,20240203,General surgery,291,Success
+3530,2879,14,20240313,General surgery,327,Success
+3531,8722,104,20240602,General surgery,241,Success
+3532,10714,16,20240114,Orthopedic repair,254,Success
+3533,10605,15,20240424,General surgery,211,Success
+3534,2472,76,20240422,Orthopedic repair,50,Success
+3535,2904,20,20240320,Cataract,354,Success
+3536,7227,20,20240610,Cataract,216,Success
+3537,9360,23,20240628,General surgery,247,Success
+3538,14460,38,20241114,Cataract,258,Success
+3539,10711,30,20240730,Orthopedic repair,120,Success
+3540,6708,19,20241119,Cardiac procedure,200,Success
+3541,2047,6,20240623,Cataract,276,Success
+3542,10323,17,20240112,General surgery,310,Success
+3543,11868,45,20240412,General surgery,66,Success
+3544,8986,113,20240512,Cardiac procedure,268,Success
+3545,8658,113,20240420,Cardiac procedure,282,Success
+3546,10124,70,20241027,Orthopedic repair,139,Success
+3547,10324,78,20240813,Cardiac procedure,292,Success
+3548,9328,2,20240528,Cardiac procedure,76,Success
+3549,2571,12,20240105,Cardiac procedure,143,Success
+3550,12614,42,20241215,General surgery,110,Success
+3551,1203,33,20240819,General surgery,262,Success
+3552,4894,33,20240703,Orthopedic repair,139,Success
+3553,12531,17,20240704,Appendectomy,176,Success
+3554,8316,8,20241114,Appendectomy,356,Success
+3555,1015,105,20241026,General surgery,154,Complications
+3556,4746,12,20241102,General surgery,83,Success
+3557,3379,82,20240905,Cardiac procedure,125,Success
+3558,14276,67,20241202,Appendectomy,100,Success
+3559,3053,42,20240101,Appendectomy,333,Success
+3560,9779,86,20240303,Appendectomy,58,Success
+3561,7789,32,20240117,Cataract,196,Success
+3562,1369,103,20240129,General surgery,34,Success
+3563,14249,60,20240105,Orthopedic repair,339,Success
+3564,927,2,20241010,General surgery,123,Success
+3565,1283,8,20240930,Cataract,333,Success
+3566,873,58,20240603,Cardiac procedure,256,Success
+3567,11393,110,20241021,Cataract,299,Success
+3568,6355,20,20240226,Orthopedic repair,145,Success
+3569,9017,59,20241002,Appendectomy,277,Success
+3570,9830,39,20241214,Orthopedic repair,334,Success
+3571,6784,98,20240813,Cataract,350,Success
+3572,10033,31,20241124,Cataract,240,Success
+3573,2841,69,20240805,Appendectomy,153,Success
+3574,13434,79,20240331,Cardiac procedure,294,Success
+3575,8369,116,20240320,General surgery,321,Success
+3576,5524,119,20241017,Cataract,324,Success
+3577,4531,96,20240515,General surgery,117,Success
+3578,7455,113,20240603,Orthopedic repair,196,Success
+3579,9636,100,20241006,General surgery,128,Success
+3580,1157,119,20240824,Appendectomy,172,Success
+3581,14357,76,20240123,General surgery,250,Success
+3582,13708,114,20240701,Appendectomy,294,Success
+3583,2476,1,20240923,Cataract,235,Success
+3584,8630,60,20240119,General surgery,58,Success
+3585,5479,118,20240711,General surgery,78,Success
+3586,1660,110,20241122,General surgery,286,Success
+3587,4162,6,20240425,Appendectomy,168,Success
+3588,7644,90,20241127,Cardiac procedure,359,Success
+3589,8575,6,20240310,General surgery,141,Success
+3590,545,49,20240210,General surgery,278,Success
+3591,7330,39,20240229,General surgery,304,Success
+3592,9817,89,20240429,Orthopedic repair,357,Success
+3593,14916,22,20241118,Orthopedic repair,35,Success
+3594,5752,56,20240813,Cataract,214,Success
+3595,516,36,20240607,Orthopedic repair,261,Success
+3596,6647,86,20240328,Cataract,36,Success
+3597,10016,14,20241011,Orthopedic repair,187,Success
+3598,3078,106,20241118,General surgery,108,Success
+3599,8325,74,20240817,Cardiac procedure,287,Success
+3600,13490,106,20241215,Cardiac procedure,166,Success
+3601,3710,71,20240325,Appendectomy,109,Success
+3602,8537,113,20240412,General surgery,199,Success
+3603,9398,11,20240730,Appendectomy,313,Success
+3604,844,42,20240709,Cardiac procedure,277,Success
+3605,3093,116,20240323,Orthopedic repair,265,Success
+3606,3343,118,20241014,Cataract,153,Success
+3607,7883,40,20240512,Orthopedic repair,233,Success
+3608,14386,11,20241030,Cardiac procedure,203,Success
+3609,7809,72,20240809,General surgery,116,Success
+3610,4353,10,20241026,Appendectomy,157,Success
+3611,3930,53,20240904,Orthopedic repair,239,Success
+3612,3384,12,20240324,Orthopedic repair,176,Success
+3613,439,48,20240207,Orthopedic repair,119,Success
+3614,5793,115,20240522,Appendectomy,86,Success
+3615,14745,14,20241205,Cataract,274,Success
+3616,5519,62,20241225,Cardiac procedure,165,Success
+3617,6383,76,20241104,Orthopedic repair,153,Success
+3618,6721,21,20240426,Cataract,338,Complications
+3619,7510,47,20240905,Appendectomy,140,Success
+3620,4118,107,20240703,Orthopedic repair,292,Success
+3621,4622,71,20241111,Appendectomy,282,Success
+3622,9876,114,20241008,Appendectomy,178,Success
+3623,10316,70,20240531,General surgery,72,Success
+3624,6758,18,20241002,General surgery,268,Success
+3625,125,97,20240818,Appendectomy,336,Success
+3626,3146,46,20241216,Appendectomy,135,Success
+3627,5859,98,20240910,Appendectomy,133,Success
+3628,14488,89,20241218,Cardiac procedure,230,Success
+3629,1932,24,20241223,Cataract,243,Success
+3630,2825,99,20240624,Appendectomy,245,Success
+3631,9409,57,20241102,Appendectomy,237,Success
+3632,11949,82,20240120,Cataract,160,Complications
+3633,723,106,20240207,Cataract,240,Success
+3634,14722,86,20241112,General surgery,216,Success
+3635,3939,72,20240309,Orthopedic repair,52,Success
+3636,13564,87,20240207,Cataract,228,Success
+3637,9924,14,20240714,Orthopedic repair,323,Success
+3638,13901,99,20240916,Cardiac procedure,185,Success
+3639,246,62,20241128,General surgery,48,Success
+3640,8500,61,20240716,Orthopedic repair,181,Success
+3641,7771,34,20240625,Cataract,195,Success
+3642,4104,31,20240118,Appendectomy,320,Success
+3643,10245,87,20240226,Orthopedic repair,316,Success
+3644,10932,27,20241013,Cataract,83,Success
+3645,500,99,20241025,Cataract,40,Complications
+3646,6585,77,20240229,Cardiac procedure,38,Success
+3647,14128,88,20240602,Cataract,45,Success
+3648,8258,82,20240330,Appendectomy,190,Success
+3649,10143,29,20240629,Cardiac procedure,129,Success
+3650,6601,92,20240322,Cataract,157,Success
+3651,13208,103,20240813,Cataract,205,Success
+3652,11954,32,20240311,General surgery,112,Success
+3653,14693,75,20240211,Cataract,211,Success
+3654,14302,24,20240120,Cataract,99,Success
+3655,10891,52,20240907,General surgery,207,Success
+3656,8397,1,20240417,Cataract,206,Death
+3657,3605,75,20240206,Cardiac procedure,257,Success
+3658,9201,72,20240831,General surgery,54,Success
+3659,3200,19,20240906,Cataract,242,Success
+3660,5734,17,20240120,Cataract,185,Success
+3661,14832,8,20241007,Orthopedic repair,234,Success
+3662,13864,105,20240322,Cataract,277,Success
+3663,5256,81,20240827,General surgery,200,Success
+3664,5462,98,20241207,Cataract,204,Success
+3665,2367,1,20240902,Cataract,358,Success
+3666,6313,70,20240506,Cataract,222,Success
+3667,1136,95,20241027,Cardiac procedure,182,Complications
+3668,1985,119,20240825,General surgery,73,Success
+3669,9835,120,20240319,Orthopedic repair,139,Success
+3670,12821,91,20241017,Cardiac procedure,161,Success
+3671,11616,32,20241015,Cataract,176,Success
+3672,7493,1,20241224,Cardiac procedure,355,Success
+3673,4471,116,20240513,Cardiac procedure,91,Success
+3674,626,4,20241224,Cardiac procedure,339,Success
+3675,9879,45,20240107,Cardiac procedure,52,Success
+3676,4571,19,20240603,Appendectomy,247,Success
+3677,148,84,20241015,Appendectomy,126,Success
+3678,13697,83,20240416,Appendectomy,264,Success
+3679,14960,66,20241014,Appendectomy,88,Success
+3680,13860,116,20241031,Orthopedic repair,321,Success
+3681,3107,10,20240111,Cataract,284,Success
+3682,12547,21,20240506,Appendectomy,295,Success
+3683,7280,23,20240322,Cataract,132,Success
+3684,7790,89,20240510,Cardiac procedure,116,Success
+3685,12730,7,20240519,General surgery,180,Success
+3686,593,7,20240214,Cataract,188,Success
+3687,3662,88,20240610,Cardiac procedure,115,Success
+3688,7635,96,20240503,Cataract,127,Success
+3689,1255,74,20241128,Cardiac procedure,194,Success
+3690,1629,32,20240124,Orthopedic repair,109,Success
+3691,2839,56,20240630,Cardiac procedure,100,Success
+3692,13277,45,20240602,Orthopedic repair,280,Success
+3693,8920,84,20240522,General surgery,65,Success
+3694,5169,81,20240714,General surgery,250,Success
+3695,12429,115,20240112,General surgery,311,Success
+3696,7621,64,20241007,General surgery,149,Success
+3697,4254,113,20241029,General surgery,68,Success
+3698,8624,85,20240111,Appendectomy,119,Success
+3699,4184,61,20240224,General surgery,267,Success
+3700,5790,14,20241225,Orthopedic repair,46,Success
+3701,5206,46,20240317,Orthopedic repair,295,Success
+3702,13828,42,20241128,Appendectomy,129,Success
+3703,11000,111,20240322,Orthopedic repair,153,Success
+3704,2337,25,20240816,Cataract,87,Complications
+3705,5897,3,20240706,General surgery,155,Success
+3706,14933,90,20240713,Appendectomy,93,Success
+3707,13391,87,20241213,Appendectomy,88,Success
+3708,10607,117,20241130,Appendectomy,78,Success
+3709,10048,89,20240129,Cardiac procedure,229,Success
+3710,12824,89,20240210,Cataract,107,Success
+3711,10922,44,20240421,Cardiac procedure,96,Success
+3712,10657,113,20241003,Cardiac procedure,334,Success
+3713,3537,118,20241030,General surgery,39,Success
+3714,9771,91,20240203,Orthopedic repair,230,Success
+3715,3752,65,20240409,Orthopedic repair,221,Success
+3716,2729,34,20240401,Orthopedic repair,317,Success
+3717,4211,69,20240518,Appendectomy,308,Success
+3718,3861,86,20241219,General surgery,120,Complications
+3719,254,73,20240903,Cataract,262,Success
+3720,939,28,20241130,Appendectomy,305,Success
+3721,6068,95,20240411,Orthopedic repair,237,Success
+3722,13590,63,20240219,General surgery,270,Success
+3723,5692,97,20240513,Appendectomy,166,Success
+3724,12888,10,20240824,General surgery,117,Success
+3725,5945,25,20240102,Orthopedic repair,292,Success
+3726,8829,53,20241022,Orthopedic repair,235,Complications
+3727,3975,32,20240526,Cardiac procedure,44,Success
+3728,1882,115,20240624,Cataract,111,Success
+3729,3183,41,20240510,Cardiac procedure,159,Success
+3730,10795,90,20240508,General surgery,188,Success
+3731,37,61,20240819,Appendectomy,228,Success
+3732,13114,10,20240831,Cataract,137,Success
+3733,12267,22,20241104,Orthopedic repair,307,Success
+3734,2204,12,20240124,Orthopedic repair,241,Success
+3735,9710,77,20240420,Cataract,153,Success
+3736,7216,2,20240722,Cardiac procedure,289,Success
+3737,1180,89,20241224,General surgery,165,Success
+3738,14068,13,20240515,Cardiac procedure,319,Success
+3739,8283,90,20240914,Appendectomy,112,Success
+3740,7840,68,20240916,Cardiac procedure,329,Success
+3741,13342,9,20240605,Cardiac procedure,120,Success
+3742,13722,6,20241016,Appendectomy,137,Success
+3743,2404,36,20240729,General surgery,358,Success
+3744,14527,64,20240805,Cardiac procedure,175,Success
+3745,7328,3,20240712,Orthopedic repair,235,Success
+3746,1344,99,20240926,Cardiac procedure,188,Success
+3747,2582,51,20241029,General surgery,270,Success
+3748,2460,62,20240903,Appendectomy,159,Success
+3749,3621,31,20241028,Appendectomy,149,Success
+3750,3513,14,20240805,Cataract,31,Success
+3751,5515,53,20240327,Cataract,328,Success
+3752,4142,74,20240502,Orthopedic repair,269,Success
+3753,1390,71,20240425,Appendectomy,110,Success
+3754,901,30,20241015,Orthopedic repair,359,Success
+3755,14529,98,20240219,Cataract,328,Success
+3756,12314,87,20240404,Appendectomy,149,Success
+3757,2394,47,20240721,Appendectomy,123,Success
+3758,12384,8,20240419,Orthopedic repair,351,Success
+3759,10125,114,20240501,Cardiac procedure,108,Success
+3760,6372,19,20240713,Orthopedic repair,40,Success
+3761,1330,73,20240625,Cataract,189,Success
+3762,6859,65,20240505,Cataract,107,Success
+3763,10586,96,20240521,Cataract,265,Success
+3764,9500,81,20240811,Cardiac procedure,185,Success
+3765,4535,70,20240928,Cataract,246,Success
+3766,14574,106,20240913,Cataract,250,Success
+3767,6933,13,20240224,Cataract,314,Success
+3768,8876,101,20240305,Orthopedic repair,348,Success
+3769,5982,102,20240718,Cardiac procedure,247,Success
+3770,14347,69,20241221,Appendectomy,347,Success
+3771,5474,98,20240225,General surgery,160,Success
+3772,13494,10,20240622,Appendectomy,221,Success
+3773,8230,3,20240416,Orthopedic repair,81,Success
+3774,723,62,20240508,General surgery,325,Success
+3775,5142,87,20240420,Appendectomy,191,Success
+3776,11422,98,20240120,Orthopedic repair,345,Success
+3777,6121,91,20241023,Cardiac procedure,163,Success
+3778,8059,14,20240604,Orthopedic repair,331,Success
+3779,12314,37,20241022,Appendectomy,75,Success
+3780,8018,58,20240309,Cataract,91,Success
+3781,3497,109,20240927,Cataract,256,Success
+3782,7564,45,20240806,Appendectomy,224,Success
+3783,471,42,20241027,Cardiac procedure,141,Complications
+3784,1972,15,20240807,Appendectomy,236,Success
+3785,7177,117,20241220,Cataract,41,Success
+3786,12564,72,20240612,Cataract,50,Success
+3787,9738,9,20240818,Cardiac procedure,356,Success
+3788,2742,17,20241116,Appendectomy,81,Success
+3789,13326,35,20241129,Cardiac procedure,332,Success
+3790,17,22,20240604,Cardiac procedure,54,Success
+3791,10625,72,20241119,General surgery,259,Success
+3792,1474,98,20241011,Orthopedic repair,89,Success
+3793,4751,111,20241120,Orthopedic repair,314,Success
+3794,12423,35,20241103,Orthopedic repair,271,Success
+3795,7025,50,20240402,Appendectomy,70,Success
+3796,1499,90,20240310,Appendectomy,284,Success
+3797,8035,119,20240721,Orthopedic repair,45,Success
+3798,5150,27,20240221,Orthopedic repair,314,Success
+3799,6211,101,20240815,Appendectomy,44,Success
+3800,9968,87,20241224,Appendectomy,352,Success
+3801,5418,63,20240103,General surgery,251,Success
+3802,774,45,20240129,General surgery,339,Success
+3803,3105,61,20240501,Appendectomy,147,Success
+3804,2056,109,20240916,Cardiac procedure,62,Success
+3805,2104,29,20241227,Cardiac procedure,334,Success
+3806,11289,38,20240208,General surgery,207,Success
+3807,8019,93,20240303,Cardiac procedure,262,Success
+3808,11474,16,20240604,Orthopedic repair,31,Success
+3809,2690,1,20240807,Cardiac procedure,268,Success
+3810,13471,25,20240809,Cardiac procedure,356,Success
+3811,14051,86,20240208,Cataract,228,Success
+3812,14110,5,20241208,Cataract,150,Success
+3813,11125,9,20241122,Cataract,67,Success
+3814,5122,101,20240206,General surgery,351,Success
+3815,10254,91,20240426,General surgery,61,Success
+3816,7624,30,20240120,General surgery,45,Success
+3817,92,35,20241229,Cardiac procedure,325,Success
+3818,1681,19,20240322,Cataract,88,Success
+3819,7921,33,20240224,Orthopedic repair,305,Success
+3820,8286,25,20240928,Cataract,173,Success
+3821,5563,64,20240318,Orthopedic repair,61,Success
+3822,14313,30,20240706,Appendectomy,335,Success
+3823,10950,84,20240511,Cataract,288,Success
+3824,9571,51,20240415,Appendectomy,114,Success
+3825,9064,115,20240201,Cardiac procedure,179,Success
+3826,6943,26,20241025,General surgery,48,Success
+3827,5773,115,20240414,Cardiac procedure,341,Success
+3828,1760,81,20240124,General surgery,334,Success
+3829,5136,5,20240305,General surgery,248,Success
+3830,10803,18,20241017,Cardiac procedure,140,Success
+3831,6623,109,20241204,Appendectomy,306,Success
+3832,9783,55,20240713,Cataract,229,Success
+3833,9907,68,20240922,Orthopedic repair,284,Success
+3834,14052,33,20240610,Cardiac procedure,147,Success
+3835,6390,81,20240710,Appendectomy,192,Success
+3836,11230,81,20240720,Cardiac procedure,88,Success
+3837,14954,111,20240219,Cardiac procedure,208,Success
+3838,9382,97,20241215,General surgery,215,Success
+3839,146,11,20240502,Appendectomy,185,Success
+3840,11336,77,20240607,Cataract,147,Success
+3841,14340,111,20240510,Cardiac procedure,306,Success
+3842,13780,75,20241003,Appendectomy,278,Success
+3843,7875,62,20240523,Cardiac procedure,65,Success
+3844,13532,107,20241227,Cataract,271,Success
+3845,8642,38,20241202,Cataract,141,Success
+3846,6606,63,20240428,Cataract,209,Success
+3847,13019,5,20240217,Orthopedic repair,334,Success
+3848,5282,18,20240602,Cataract,261,Success
+3849,180,45,20240407,Orthopedic repair,248,Success
+3850,8501,78,20240930,Appendectomy,117,Success
+3851,12485,63,20241228,Cataract,132,Success
+3852,12500,94,20241103,Orthopedic repair,170,Success
+3853,12325,79,20240709,Appendectomy,201,Success
+3854,3170,81,20240206,Appendectomy,102,Success
+3855,4183,49,20240623,Appendectomy,109,Success
+3856,5231,45,20241206,Appendectomy,156,Success
+3857,9933,41,20241110,Orthopedic repair,230,Success
+3858,4058,41,20240331,Orthopedic repair,205,Success
+3859,11843,97,20240610,General surgery,106,Success
+3860,4022,105,20241127,Cataract,261,Success
+3861,12644,70,20240303,Appendectomy,303,Success
+3862,3223,75,20240423,Cardiac procedure,134,Success
+3863,11149,97,20241008,Orthopedic repair,207,Success
+3864,13916,101,20240703,Cardiac procedure,325,Success
+3865,9560,38,20240923,Cataract,283,Success
+3866,8298,119,20240725,Cardiac procedure,96,Success
+3867,8272,13,20241216,Appendectomy,183,Success
+3868,13600,25,20240520,General surgery,277,Success
+3869,11340,52,20240329,General surgery,310,Success
+3870,8687,120,20240111,Cardiac procedure,175,Success
+3871,7629,78,20240824,Cardiac procedure,53,Success
+3872,7078,120,20240121,Cataract,154,Success
+3873,1065,100,20240906,General surgery,344,Success
+3874,7835,102,20240617,Cataract,320,Success
+3875,11113,63,20241116,Orthopedic repair,176,Success
+3876,11155,99,20241011,Cardiac procedure,310,Success
+3877,12697,102,20240914,Appendectomy,317,Success
+3878,1425,112,20240530,Cardiac procedure,343,Success
+3879,1852,116,20240428,Orthopedic repair,71,Success
+3880,12597,32,20240119,Cardiac procedure,54,Success
+3881,4472,7,20241218,Orthopedic repair,142,Success
+3882,14143,73,20240706,Cardiac procedure,70,Success
+3883,4739,5,20240903,General surgery,83,Success
+3884,7985,75,20240713,Appendectomy,86,Success
+3885,2216,27,20240628,Orthopedic repair,139,Complications
+3886,12585,101,20240413,General surgery,260,Success
+3887,9270,1,20240527,Cataract,265,Success
+3888,4190,100,20240902,Orthopedic repair,259,Success
+3889,12629,84,20241210,Cardiac procedure,154,Success
+3890,4110,59,20240518,Orthopedic repair,183,Success
+3891,4720,15,20240909,Orthopedic repair,351,Success
+3892,293,9,20240420,Orthopedic repair,327,Success
+3893,12785,38,20240328,Cardiac procedure,70,Success
+3894,6840,110,20240810,Appendectomy,191,Success
+3895,13517,20,20240716,Appendectomy,193,Success
+3896,5810,32,20241128,Cardiac procedure,323,Success
+3897,5559,30,20240216,Appendectomy,41,Success
+3898,6441,56,20240424,Cardiac procedure,128,Success
+3899,1868,87,20241019,Cardiac procedure,166,Success
+3900,679,84,20240523,Appendectomy,342,Success
+3901,4881,91,20240202,Cardiac procedure,222,Success
+3902,13170,61,20241021,Orthopedic repair,33,Success
+3903,1720,91,20241016,Orthopedic repair,324,Success
+3904,3726,26,20241214,Cardiac procedure,63,Success
+3905,12769,106,20240916,Cataract,31,Success
+3906,9334,44,20240621,Appendectomy,145,Success
+3907,5272,38,20240121,General surgery,299,Success
+3908,14317,67,20240823,Orthopedic repair,147,Success
+3909,14641,33,20240404,Orthopedic repair,278,Success
+3910,10164,92,20241031,General surgery,197,Success
+3911,9265,55,20240919,Appendectomy,64,Success
+3912,13734,73,20240808,Orthopedic repair,108,Success
+3913,7383,2,20241201,Cardiac procedure,31,Success
+3914,14728,88,20240113,General surgery,52,Success
+3915,3390,5,20240320,Orthopedic repair,149,Success
+3916,14353,106,20240305,Cardiac procedure,175,Success
+3917,3358,62,20241020,Orthopedic repair,328,Success
+3918,6120,102,20240303,Cataract,86,Complications
+3919,11262,25,20241006,Cardiac procedure,41,Success
+3920,11692,94,20240320,Cataract,309,Success
+3921,4308,68,20241009,Orthopedic repair,277,Success
+3922,900,40,20240429,Orthopedic repair,187,Success
+3923,520,100,20240107,Appendectomy,223,Success
+3924,5270,6,20241116,Cardiac procedure,154,Success
+3925,4294,60,20240618,Orthopedic repair,322,Success
+3926,6275,1,20240709,Cardiac procedure,330,Success
+3927,2566,44,20240526,General surgery,189,Success
+3928,3577,25,20240721,Cardiac procedure,205,Success
+3929,9963,7,20241210,General surgery,343,Success
+3930,12683,32,20241011,Appendectomy,131,Success
+3931,7664,38,20241108,Cataract,134,Success
+3932,13689,88,20240129,General surgery,94,Success
+3933,6982,12,20241008,Orthopedic repair,153,Success
+3934,1139,76,20241110,Appendectomy,303,Success
+3935,885,100,20240605,General surgery,279,Success
+3936,14573,78,20240917,Cataract,147,Success
+3937,2948,2,20241202,Cataract,123,Success
+3938,9122,103,20240402,Orthopedic repair,98,Success
+3939,4092,18,20240921,Cataract,211,Success
+3940,4545,23,20240120,Appendectomy,52,Success
+3941,7471,110,20240711,General surgery,350,Success
+3942,13610,5,20240303,General surgery,230,Success
+3943,4444,56,20240220,Cataract,49,Success
+3944,1993,20,20241005,Appendectomy,337,Success
+3945,13945,64,20241022,Cataract,70,Success
+3946,11418,2,20240105,Cataract,113,Success
+3947,13242,95,20240719,Cardiac procedure,242,Success
+3948,593,21,20240731,General surgery,65,Success
+3949,7741,63,20241023,General surgery,190,Success
+3950,1100,97,20241030,Cataract,157,Success
+3951,9934,102,20241225,General surgery,201,Success
+3952,2260,111,20240321,Orthopedic repair,72,Success
+3953,75,64,20240922,General surgery,282,Success
+3954,1988,91,20240615,Orthopedic repair,314,Success
+3955,9979,45,20241211,Cardiac procedure,112,Success
+3956,5272,20,20241130,General surgery,162,Success
+3957,6080,79,20240726,Orthopedic repair,247,Success
+3958,1521,9,20240227,General surgery,350,Success
+3959,7998,85,20241104,Cardiac procedure,225,Success
+3960,3540,95,20240104,Orthopedic repair,52,Success
+3961,13425,70,20240719,Cataract,309,Success
+3962,3305,11,20240509,General surgery,296,Success
+3963,705,10,20240820,Cardiac procedure,64,Success
+3964,10422,97,20240327,Cardiac procedure,85,Success
+3965,14167,74,20240413,Orthopedic repair,178,Success
+3966,1416,86,20240131,Cardiac procedure,202,Success
+3967,4981,107,20241115,Cataract,295,Success
+3968,1485,45,20241215,Cardiac procedure,48,Success
+3969,13307,118,20240817,Cardiac procedure,93,Success
+3970,4304,36,20240908,Appendectomy,335,Success
+3971,12447,109,20241117,Appendectomy,179,Success
+3972,8283,53,20241029,Cardiac procedure,318,Success
+3973,8981,91,20240814,General surgery,327,Success
+3974,8517,5,20241022,General surgery,177,Success
+3975,9337,19,20240427,Cataract,251,Success
+3976,1596,52,20240605,Cardiac procedure,146,Success
+3977,12157,106,20241102,Appendectomy,49,Success
+3978,10336,119,20240613,Cardiac procedure,194,Success
+3979,10615,74,20240924,Cardiac procedure,70,Success
+3980,13548,113,20240628,Cardiac procedure,348,Success
+3981,4819,18,20240313,Cardiac procedure,328,Success
+3982,2999,12,20240908,General surgery,128,Success
+3983,2621,91,20240113,General surgery,63,Success
+3984,8036,34,20241225,Appendectomy,279,Success
+3985,12716,105,20240524,Appendectomy,325,Success
+3986,2774,53,20240220,Cataract,164,Success
+3987,14920,34,20240616,Appendectomy,57,Success
+3988,4568,5,20240324,Cardiac procedure,96,Success
+3989,1477,54,20240529,Cataract,73,Success
+3990,12355,34,20240208,General surgery,244,Success
+3991,3268,102,20240912,General surgery,237,Success
+3992,3951,30,20240406,Appendectomy,198,Success
+3993,12870,2,20240427,Cataract,61,Success
+3994,7362,88,20240107,Cardiac procedure,48,Success
+3995,10963,66,20240826,General surgery,215,Success
+3996,11414,85,20240226,Cataract,88,Success
+3997,3277,27,20241129,Appendectomy,110,Success
+3998,6930,56,20240403,Cataract,313,Success
+3999,6933,30,20240225,Cataract,36,Success
+4000,3878,89,20240618,Cataract,136,Success

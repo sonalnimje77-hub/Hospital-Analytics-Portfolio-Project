@@ -1,0 +1,251 @@
+bed_id,bed_code,ward_id,room_number,bed_number,bed_type,daily_charge,bed_status,oxygen_supported,ventilator_supported
+1,BED0001,1,R001,B1,Semi Private,2500.0,Occupied,True,False
+2,BED0002,2,R001,B2,ICU,800.0,Occupied,True,False
+3,BED0003,3,R001,B3,Semi Private,1200.0,Occupied,True,False
+4,BED0004,4,R001,B4,Private,1500.0,Available,False,False
+5,BED0005,5,R002,B1,Semi Private,1500.0,Available,False,False
+6,BED0006,6,R002,B2,Private,1500.0,Available,True,False
+7,BED0007,7,R002,B3,ICU,800.0,Occupied,False,True
+8,BED0008,8,R002,B4,General,1200.0,Available,False,False
+9,BED0009,9,R003,B1,General,1200.0,Available,True,False
+10,BED0010,10,R003,B2,Private,1200.0,Occupied,True,True
+11,BED0011,11,R003,B3,Ventilator,2500.0,Occupied,False,False
+12,BED0012,12,R003,B4,Semi Private,2500.0,Maintenance,False,False
+13,BED0013,13,R004,B1,ICU,2500.0,Available,True,False
+14,BED0014,14,R004,B2,Private,1500.0,Occupied,False,False
+15,BED0015,15,R004,B3,General,800.0,Available,False,False
+16,BED0016,16,R004,B4,Ventilator,1500.0,Available,True,False
+17,BED0017,17,R005,B1,Semi Private,2500.0,Available,False,False
+18,BED0018,18,R005,B2,General,1500.0,Occupied,True,False
+19,BED0019,19,R005,B3,General,800.0,Occupied,True,True
+20,BED0020,20,R005,B4,Private,800.0,Available,True,False
+21,BED0021,21,R006,B1,Ventilator,1200.0,Reserved,True,False
+22,BED0022,22,R006,B2,ICU,2500.0,Occupied,False,False
+23,BED0023,23,R006,B3,General,2500.0,Maintenance,True,False
+24,BED0024,24,R006,B4,General,1500.0,Available,True,True
+25,BED0025,25,R007,B1,Private,1500.0,Available,True,False
+26,BED0026,26,R007,B2,Semi Private,2500.0,Available,True,False
+27,BED0027,27,R007,B3,ICU,800.0,Available,False,False
+28,BED0028,28,R007,B4,General,800.0,Available,False,False
+29,BED0029,29,R008,B1,ICU,1500.0,Occupied,False,True
+30,BED0030,30,R008,B2,ICU,1500.0,Occupied,True,False
+31,BED0031,31,R008,B3,Private,2500.0,Available,True,False
+32,BED0032,32,R008,B4,Semi Private,2500.0,Reserved,True,False
+33,BED0033,33,R009,B1,Private,1500.0,Available,True,False
+34,BED0034,34,R009,B2,Ventilator,2500.0,Available,True,False
+35,BED0035,35,R009,B3,ICU,1500.0,Occupied,False,False
+36,BED0036,36,R009,B4,ICU,2500.0,Occupied,False,True
+37,BED0037,37,R010,B1,Ventilator,800.0,Occupied,False,False
+38,BED0038,38,R010,B2,Private,2500.0,Reserved,True,False
+39,BED0039,39,R010,B3,Semi Private,2500.0,Occupied,False,True
+40,BED0040,40,R010,B4,Private,2500.0,Maintenance,True,False
+41,BED0041,41,R011,B1,Private,1200.0,Occupied,True,False
+42,BED0042,42,R011,B2,General,2500.0,Available,True,False
+43,BED0043,43,R011,B3,Semi Private,1500.0,Available,False,False
+44,BED0044,44,R011,B4,Semi Private,800.0,Occupied,False,False
+45,BED0045,45,R012,B1,ICU,2500.0,Available,False,True
+46,BED0046,46,R012,B2,Semi Private,2500.0,Occupied,False,False
+47,BED0047,47,R012,B3,General,2500.0,Available,True,False
+48,BED0048,48,R012,B4,ICU,2500.0,Occupied,False,True
+49,BED0049,49,R013,B1,Semi Private,1200.0,Occupied,False,False
+50,BED0050,50,R013,B2,Semi Private,1200.0,Occupied,True,False
+51,BED0051,1,R013,B3,Private,1500.0,Occupied,True,False
+52,BED0052,2,R013,B4,ICU,1200.0,Occupied,True,False
+53,BED0053,3,R014,B1,Private,1200.0,Available,False,False
+54,BED0054,4,R014,B2,ICU,1500.0,Reserved,False,False
+55,BED0055,5,R014,B3,ICU,1500.0,Maintenance,False,False
+56,BED0056,6,R014,B4,Ventilator,2500.0,Occupied,False,True
+57,BED0057,7,R015,B1,General,800.0,Available,True,False
+58,BED0058,8,R015,B2,Private,2500.0,Available,True,False
+59,BED0059,9,R015,B3,Ventilator,1500.0,Available,True,False
+60,BED0060,10,R015,B4,ICU,2500.0,Occupied,True,False
+61,BED0061,11,R016,B1,Private,1500.0,Occupied,False,False
+62,BED0062,12,R016,B2,General,1200.0,Occupied,False,False
+63,BED0063,13,R016,B3,General,1500.0,Occupied,True,False
+64,BED0064,14,R016,B4,Private,2500.0,Occupied,True,False
+65,BED0065,15,R017,B1,Semi Private,1500.0,Available,True,False
+66,BED0066,16,R017,B2,Semi Private,2500.0,Available,False,False
+67,BED0067,17,R017,B3,General,2500.0,Available,False,False
+68,BED0068,18,R017,B4,Semi Private,1200.0,Available,False,False
+69,BED0069,19,R018,B1,General,1200.0,Maintenance,False,False
+70,BED0070,20,R018,B2,General,2500.0,Reserved,False,False
+71,BED0071,21,R018,B3,ICU,2500.0,Available,False,False
+72,BED0072,22,R018,B4,Semi Private,2500.0,Available,False,False
+73,BED0073,23,R019,B1,ICU,1200.0,Occupied,False,False
+74,BED0074,24,R019,B2,Ventilator,1500.0,Available,True,False
+75,BED0075,25,R019,B3,ICU,1500.0,Available,False,False
+76,BED0076,26,R019,B4,Ventilator,2500.0,Available,False,False
+77,BED0077,27,R020,B1,Ventilator,800.0,Occupied,False,False
+78,BED0078,28,R020,B2,Ventilator,1500.0,Available,True,False
+79,BED0079,29,R020,B3,ICU,2500.0,Reserved,False,True
+80,BED0080,30,R020,B4,Private,1200.0,Available,False,False
+81,BED0081,31,R021,B1,General,800.0,Available,True,True
+82,BED0082,32,R021,B2,General,800.0,Reserved,False,False
+83,BED0083,33,R021,B3,General,800.0,Available,True,False
+84,BED0084,34,R021,B4,Private,1200.0,Available,False,False
+85,BED0085,35,R022,B1,General,1500.0,Available,True,False
+86,BED0086,36,R022,B2,Semi Private,1200.0,Occupied,True,False
+87,BED0087,37,R022,B3,Semi Private,2500.0,Available,False,False
+88,BED0088,38,R022,B4,Semi Private,1200.0,Available,False,True
+89,BED0089,39,R023,B1,Private,2500.0,Occupied,False,False
+90,BED0090,40,R023,B2,Semi Private,1200.0,Maintenance,False,False
+91,BED0091,41,R023,B3,General,1200.0,Occupied,True,False
+92,BED0092,42,R023,B4,ICU,1200.0,Maintenance,True,False
+93,BED0093,43,R024,B1,Semi Private,2500.0,Available,False,False
+94,BED0094,44,R024,B2,Private,2500.0,Occupied,True,True
+95,BED0095,45,R024,B3,Semi Private,800.0,Occupied,True,False
+96,BED0096,46,R024,B4,Private,800.0,Reserved,False,True
+97,BED0097,47,R025,B1,ICU,2500.0,Occupied,False,True
+98,BED0098,48,R025,B2,Ventilator,1500.0,Occupied,True,False
+99,BED0099,49,R025,B3,Semi Private,800.0,Available,True,False
+100,BED0100,50,R025,B4,Semi Private,1200.0,Maintenance,True,False
+101,BED0101,1,R026,B1,Private,2500.0,Available,False,False
+102,BED0102,2,R026,B2,ICU,2500.0,Occupied,False,False
+103,BED0103,3,R026,B3,Semi Private,2500.0,Occupied,False,False
+104,BED0104,4,R026,B4,Ventilator,1200.0,Available,False,False
+105,BED0105,5,R027,B1,Semi Private,1500.0,Occupied,False,False
+106,BED0106,6,R027,B2,Semi Private,1200.0,Reserved,False,False
+107,BED0107,7,R027,B3,Private,2500.0,Occupied,False,False
+108,BED0108,8,R027,B4,ICU,800.0,Available,False,False
+109,BED0109,9,R028,B1,Private,800.0,Available,True,False
+110,BED0110,10,R028,B2,Ventilator,1200.0,Occupied,False,False
+111,BED0111,11,R028,B3,General,800.0,Available,False,False
+112,BED0112,12,R028,B4,Ventilator,1200.0,Available,False,False
+113,BED0113,13,R029,B1,Semi Private,2500.0,Reserved,False,False
+114,BED0114,14,R029,B2,Private,1500.0,Occupied,True,False
+115,BED0115,15,R029,B3,Private,1500.0,Available,True,False
+116,BED0116,16,R029,B4,Semi Private,1500.0,Reserved,False,False
+117,BED0117,17,R030,B1,Ventilator,1500.0,Occupied,False,True
+118,BED0118,18,R030,B2,ICU,1200.0,Available,True,False
+119,BED0119,19,R030,B3,Ventilator,1200.0,Available,False,False
+120,BED0120,20,R030,B4,Private,1200.0,Occupied,True,False
+121,BED0121,21,R031,B1,Private,1200.0,Occupied,False,False
+122,BED0122,22,R031,B2,General,800.0,Available,False,False
+123,BED0123,23,R031,B3,Semi Private,800.0,Occupied,True,False
+124,BED0124,24,R031,B4,Ventilator,1200.0,Occupied,False,True
+125,BED0125,25,R032,B1,Semi Private,2500.0,Available,False,False
+126,BED0126,26,R032,B2,Semi Private,1500.0,Occupied,True,False
+127,BED0127,27,R032,B3,General,1500.0,Available,False,False
+128,BED0128,28,R032,B4,Private,1500.0,Available,False,False
+129,BED0129,29,R033,B1,Private,1500.0,Occupied,False,False
+130,BED0130,30,R033,B2,ICU,800.0,Maintenance,False,True
+131,BED0131,31,R033,B3,Ventilator,2500.0,Occupied,True,False
+132,BED0132,32,R033,B4,Semi Private,800.0,Reserved,True,False
+133,BED0133,33,R034,B1,ICU,1500.0,Available,True,False
+134,BED0134,34,R034,B2,Semi Private,2500.0,Occupied,True,True
+135,BED0135,35,R034,B3,ICU,800.0,Occupied,False,False
+136,BED0136,36,R034,B4,ICU,800.0,Available,False,False
+137,BED0137,37,R035,B1,Ventilator,2500.0,Reserved,True,False
+138,BED0138,38,R035,B2,Semi Private,2500.0,Occupied,True,False
+139,BED0139,39,R035,B3,Private,1500.0,Maintenance,False,True
+140,BED0140,40,R035,B4,Semi Private,1500.0,Available,False,False
+141,BED0141,41,R036,B1,Ventilator,2500.0,Occupied,True,False
+142,BED0142,42,R036,B2,General,1500.0,Occupied,True,False
+143,BED0143,43,R036,B3,General,1200.0,Occupied,False,False
+144,BED0144,44,R036,B4,Semi Private,800.0,Available,True,False
+145,BED0145,45,R037,B1,General,1200.0,Available,False,False
+146,BED0146,46,R037,B2,Ventilator,800.0,Occupied,True,False
+147,BED0147,47,R037,B3,Ventilator,800.0,Available,False,False
+148,BED0148,48,R037,B4,ICU,2500.0,Available,False,True
+149,BED0149,49,R038,B1,Ventilator,1200.0,Available,False,False
+150,BED0150,50,R038,B2,Private,800.0,Occupied,False,False
+151,BED0151,1,R038,B3,General,800.0,Occupied,True,False
+152,BED0152,2,R038,B4,Private,1500.0,Occupied,False,False
+153,BED0153,3,R039,B1,Ventilator,2500.0,Reserved,False,True
+154,BED0154,4,R039,B2,General,800.0,Available,False,False
+155,BED0155,5,R039,B3,Semi Private,1500.0,Occupied,False,True
+156,BED0156,6,R039,B4,Ventilator,2500.0,Occupied,True,False
+157,BED0157,7,R040,B1,Ventilator,800.0,Occupied,True,True
+158,BED0158,8,R040,B2,Semi Private,1200.0,Available,True,False
+159,BED0159,9,R040,B3,Semi Private,1500.0,Available,False,False
+160,BED0160,10,R040,B4,ICU,2500.0,Occupied,True,False
+161,BED0161,11,R041,B1,Ventilator,1500.0,Available,True,False
+162,BED0162,12,R041,B2,General,1200.0,Available,False,False
+163,BED0163,13,R041,B3,Ventilator,800.0,Available,True,False
+164,BED0164,14,R041,B4,Semi Private,1200.0,Occupied,True,False
+165,BED0165,15,R042,B1,ICU,2500.0,Occupied,True,False
+166,BED0166,16,R042,B2,Semi Private,800.0,Occupied,False,False
+167,BED0167,17,R042,B3,ICU,2500.0,Available,True,False
+168,BED0168,18,R042,B4,Ventilator,1500.0,Available,False,False
+169,BED0169,19,R043,B1,General,2500.0,Occupied,True,True
+170,BED0170,20,R043,B2,Ventilator,1200.0,Available,True,False
+171,BED0171,21,R043,B3,General,2500.0,Available,True,False
+172,BED0172,22,R043,B4,General,800.0,Reserved,True,False
+173,BED0173,23,R044,B1,Semi Private,2500.0,Available,True,False
+174,BED0174,24,R044,B2,Semi Private,2500.0,Occupied,False,False
+175,BED0175,25,R044,B3,General,800.0,Available,True,False
+176,BED0176,26,R044,B4,ICU,1500.0,Occupied,False,False
+177,BED0177,27,R045,B1,General,800.0,Occupied,False,False
+178,BED0178,28,R045,B2,Ventilator,800.0,Available,False,False
+179,BED0179,29,R045,B3,Ventilator,800.0,Occupied,False,False
+180,BED0180,30,R045,B4,Ventilator,1200.0,Available,False,False
+181,BED0181,31,R046,B1,General,1200.0,Occupied,True,False
+182,BED0182,32,R046,B2,ICU,1200.0,Occupied,True,False
+183,BED0183,33,R046,B3,General,2500.0,Maintenance,True,False
+184,BED0184,34,R046,B4,ICU,800.0,Available,False,False
+185,BED0185,35,R047,B1,Ventilator,1200.0,Occupied,False,False
+186,BED0186,36,R047,B2,Semi Private,2500.0,Occupied,False,False
+187,BED0187,37,R047,B3,General,1200.0,Occupied,True,False
+188,BED0188,38,R047,B4,Semi Private,800.0,Available,True,False
+189,BED0189,39,R048,B1,General,1500.0,Available,True,False
+190,BED0190,40,R048,B2,ICU,1500.0,Occupied,False,False
+191,BED0191,41,R048,B3,ICU,1200.0,Occupied,True,False
+192,BED0192,42,R048,B4,ICU,1500.0,Available,False,False
+193,BED0193,43,R049,B1,Ventilator,1200.0,Available,True,False
+194,BED0194,44,R049,B2,Semi Private,1200.0,Occupied,True,False
+195,BED0195,45,R049,B3,ICU,1500.0,Available,False,False
+196,BED0196,46,R049,B4,Semi Private,2500.0,Occupied,True,True
+197,BED0197,47,R050,B1,General,800.0,Available,True,False
+198,BED0198,48,R050,B2,General,1500.0,Available,False,False
+199,BED0199,49,R050,B3,ICU,1500.0,Available,False,False
+200,BED0200,50,R050,B4,Ventilator,1500.0,Available,True,False
+201,BED0201,1,R051,B1,ICU,1500.0,Reserved,True,False
+202,BED0202,2,R051,B2,ICU,2500.0,Occupied,True,False
+203,BED0203,3,R051,B3,Semi Private,1200.0,Available,False,False
+204,BED0204,4,R051,B4,General,800.0,Available,True,False
+205,BED0205,5,R052,B1,General,2500.0,Available,True,False
+206,BED0206,6,R052,B2,ICU,2500.0,Available,True,False
+207,BED0207,7,R052,B3,Ventilator,2500.0,Available,True,False
+208,BED0208,8,R052,B4,ICU,1500.0,Available,False,True
+209,BED0209,9,R053,B1,General,1500.0,Available,True,False
+210,BED0210,10,R053,B2,Private,800.0,Available,False,False
+211,BED0211,11,R053,B3,Private,800.0,Available,True,False
+212,BED0212,12,R053,B4,Ventilator,2500.0,Occupied,False,False
+213,BED0213,13,R054,B1,Ventilator,2500.0,Available,True,False
+214,BED0214,14,R054,B2,Private,2500.0,Occupied,True,False
+215,BED0215,15,R054,B3,Semi Private,1200.0,Occupied,True,False
+216,BED0216,16,R054,B4,Ventilator,2500.0,Available,True,False
+217,BED0217,17,R055,B1,Private,2500.0,Available,False,False
+218,BED0218,18,R055,B2,Ventilator,1200.0,Occupied,True,False
+219,BED0219,19,R055,B3,General,1500.0,Occupied,False,False
+220,BED0220,20,R055,B4,Private,1500.0,Available,True,False
+221,BED0221,21,R056,B1,Ventilator,800.0,Occupied,True,False
+222,BED0222,22,R056,B2,General,800.0,Maintenance,True,False
+223,BED0223,23,R056,B3,ICU,2500.0,Occupied,True,False
+224,BED0224,24,R056,B4,Semi Private,800.0,Occupied,False,False
+225,BED0225,25,R057,B1,ICU,800.0,Occupied,False,False
+226,BED0226,26,R057,B2,Semi Private,1500.0,Available,True,True
+227,BED0227,27,R057,B3,Semi Private,2500.0,Occupied,True,False
+228,BED0228,28,R057,B4,ICU,1200.0,Occupied,True,False
+229,BED0229,29,R058,B1,General,1500.0,Maintenance,True,True
+230,BED0230,30,R058,B2,Semi Private,2500.0,Maintenance,True,False
+231,BED0231,31,R058,B3,Semi Private,1200.0,Reserved,True,False
+232,BED0232,32,R058,B4,Private,1500.0,Reserved,True,False
+233,BED0233,33,R059,B1,Semi Private,2500.0,Occupied,False,False
+234,BED0234,34,R059,B2,General,1200.0,Available,True,False
+235,BED0235,35,R059,B3,Semi Private,800.0,Occupied,False,False
+236,BED0236,36,R059,B4,Semi Private,1500.0,Available,True,False
+237,BED0237,37,R060,B1,Semi Private,1500.0,Reserved,True,False
+238,BED0238,38,R060,B2,Ventilator,2500.0,Available,False,False
+239,BED0239,39,R060,B3,Private,800.0,Available,True,False
+240,BED0240,40,R060,B4,Ventilator,1200.0,Available,True,False
+241,BED0241,41,R061,B1,ICU,800.0,Available,True,False
+242,BED0242,42,R061,B2,General,1200.0,Available,False,True
+243,BED0243,43,R061,B3,Semi Private,2500.0,Occupied,False,False
+244,BED0244,44,R061,B4,Semi Private,800.0,Occupied,True,False
+245,BED0245,45,R062,B1,General,800.0,Available,False,False
+246,BED0246,46,R062,B2,ICU,2500.0,Available,True,False
+247,BED0247,47,R062,B3,Ventilator,1200.0,Occupied,True,False
+248,BED0248,48,R062,B4,General,1200.0,Available,False,False
+249,BED0249,49,R063,B1,Private,1200.0,Available,True,False
+250,BED0250,50,R063,B2,General,2500.0,Available,False,False

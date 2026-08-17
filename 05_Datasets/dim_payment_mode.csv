@@ -1,0 +1,8 @@
+payment_mode_id,payment_code,payment_mode_name,payment_category,requires_reference,allows_refund,processing_fee_percentage,description,status
+1,PM001,Cash,Cash,False,True,0,Cash payment,Active
+2,PM002,Credit Card,Card,True,True,0,Credit Card payment,Active
+3,PM003,Debit Card,Card,True,True,0,Debit Card payment,Active
+4,PM004,UPI,Digital,True,True,0,UPI payment,Active
+5,PM005,Net Banking,Bank,True,True,0,Net Banking payment,Active
+6,PM006,Insurance,Insurance,True,True,0,Insurance payment,Active
+7,PM007,Corporate Billing,Insurance,True,True,0,Corporate Billing payment,Active

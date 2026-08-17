@@ -1,0 +1,51 @@
+ward_id,ward_code,ward_name,ward_type,department_id,floor_number,total_beds,nurse_in_charge,ward_phone,ward_status
+1,WRD001,Ward 01,General,1,2,24,Nurse 1,0712-500001,Active
+2,WRD002,Ward 02,NICU,2,3,23,Nurse 2,0712-500002,Active
+3,WRD003,Ward 03,Semi Private,3,4,26,Nurse 3,0712-500003,Active
+4,WRD004,Ward 04,Semi Private,4,5,13,Nurse 4,0712-500004,Active
+5,WRD005,Ward 05,Private,5,1,13,Nurse 5,0712-500005,Active
+6,WRD006,Ward 06,Private,6,2,14,Nurse 6,0712-500006,Active
+7,WRD007,Ward 07,General,7,3,30,Nurse 7,0712-500007,Active
+8,WRD008,Ward 08,NICU,8,4,17,Nurse 8,0712-500008,Active
+9,WRD009,Ward 09,Private,9,5,16,Nurse 9,0712-500009,Active
+10,WRD010,Ward 10,PICU,10,1,14,Nurse 10,0712-500010,Active
+11,WRD011,Ward 11,General,11,2,20,Nurse 11,0712-500011,Active
+12,WRD012,Ward 12,Semi Private,12,3,29,Nurse 12,0712-500012,Active
+13,WRD013,Ward 13,Private,13,4,24,Nurse 13,0712-500013,Active
+14,WRD014,Ward 14,Private,14,5,13,Nurse 14,0712-500014,Active
+15,WRD015,Ward 15,Private,15,1,27,Nurse 15,0712-500015,Active
+16,WRD016,Ward 16,General,16,2,29,Nurse 16,0712-500016,Active
+17,WRD017,Ward 17,General,17,3,24,Nurse 17,0712-500017,Active
+18,WRD018,Ward 18,NICU,18,4,22,Nurse 18,0712-500018,Active
+19,WRD019,Ward 19,General,1,5,24,Nurse 19,0712-500019,Active
+20,WRD020,Ward 20,General,2,1,25,Nurse 20,0712-500020,Active
+21,WRD021,Ward 21,PICU,3,2,28,Nurse 21,0712-500021,Active
+22,WRD022,Ward 22,Private,4,3,23,Nurse 22,0712-500022,Active
+23,WRD023,Ward 23,Semi Private,5,4,21,Nurse 23,0712-500023,Active
+24,WRD024,Ward 24,PICU,6,5,13,Nurse 24,0712-500024,Active
+25,WRD025,Ward 25,PICU,7,1,17,Nurse 25,0712-500025,Active
+26,WRD026,Ward 26,CCU,8,2,11,Nurse 26,0712-500026,Active
+27,WRD027,Ward 27,Semi Private,9,3,25,Nurse 27,0712-500027,Active
+28,WRD028,Ward 28,Semi Private,10,4,30,Nurse 28,0712-500028,Active
+29,WRD029,Ward 29,CCU,11,5,12,Nurse 29,0712-500029,Active
+30,WRD030,Ward 30,PICU,12,1,19,Nurse 30,0712-500030,Active
+31,WRD031,Ward 31,PICU,13,2,24,Nurse 31,0712-500031,Active
+32,WRD032,Ward 32,Private,14,3,10,Nurse 32,0712-500032,Active
+33,WRD033,Ward 33,Private,15,4,19,Nurse 33,0712-500033,Active
+34,WRD034,Ward 34,ICU,16,5,26,Nurse 34,0712-500034,Active
+35,WRD035,Ward 35,PICU,17,1,16,Nurse 35,0712-500035,Active
+36,WRD036,Ward 36,Semi Private,18,2,23,Nurse 36,0712-500036,Active
+37,WRD037,Ward 37,PICU,1,3,22,Nurse 37,0712-500037,Active
+38,WRD038,Ward 38,NICU,2,4,24,Nurse 38,0712-500038,Active
+39,WRD039,Ward 39,Private,3,5,15,Nurse 39,0712-500039,Active
+40,WRD040,Ward 40,PICU,4,1,13,Nurse 40,0712-500040,Active
+41,WRD041,Ward 41,General,5,2,10,Nurse 41,0712-500041,Active
+42,WRD042,Ward 42,Private,6,3,20,Nurse 42,0712-500042,Active
+43,WRD043,Ward 43,ICU,7,4,13,Nurse 43,0712-500043,Active
+44,WRD044,Ward 44,Private,8,5,23,Nurse 44,0712-500044,Active
+45,WRD045,Ward 45,Private,9,1,21,Nurse 45,0712-500045,Active
+46,WRD046,Ward 46,Semi Private,10,2,27,Nurse 46,0712-500046,Active
+47,WRD047,Ward 47,ICU,11,3,26,Nurse 47,0712-500047,Active
+48,WRD048,Ward 48,Private,12,4,17,Nurse 48,0712-500048,Active
+49,WRD049,Ward 49,PICU,13,5,16,Nurse 49,0712-500049,Active
+50,WRD050,Ward 50,PICU,14,1,11,Nurse 50,0712-500050,Active

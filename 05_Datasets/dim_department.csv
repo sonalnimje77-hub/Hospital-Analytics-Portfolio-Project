@@ -1,0 +1,19 @@
+department_id,department_code,department_name,department_type,floor_number,building_name,extension_number,head_of_department,consultation_fee,operating_hours,is_emergency_department,total_rooms,total_beds,department_status
+1,DEP001,General Medicine,Clinical,2,Main Building,101,Dr. Head 1,500,09:00 AM - 05:00 PM,False,11,21,Active
+1,DEP002,Cardiology,Clinical,3,Main Building,102,Dr. Head 2,1200,09:00 AM - 05:00 PM,False,12,22,Active
+1,DEP003,Neurology,Clinical,4,Main Building,103,Dr. Head 3,1500,09:00 AM - 05:00 PM,False,13,23,Active
+1,DEP004,Orthopedics,Clinical,5,Main Building,104,Dr. Head 4,1000,09:00 AM - 05:00 PM,False,14,24,Active
+1,DEP005,Emergency Medicine,Emergency,1,Main Building,105,Dr. Head 5,800,09:00 AM - 05:00 PM,True,15,25,Active
+1,DEP006,Pediatrics,Clinical,2,Main Building,106,Dr. Head 6,700,09:00 AM - 05:00 PM,False,16,26,Active
+1,DEP007,Radiology,Diagnostic,3,Main Building,107,Dr. Head 7,900,09:00 AM - 05:00 PM,False,17,27,Active
+1,DEP008,Pathology,Diagnostic,4,Main Building,108,Dr. Head 8,600,09:00 AM - 05:00 PM,False,10,28,Active
+1,DEP009,Critical Care,Clinical,5,Main Building,109,Dr. Head 9,1800,09:00 AM - 05:00 PM,False,11,29,Active
+1,DEP010,Anesthesiology,Clinical,1,Main Building,110,Dr. Head 10,1100,09:00 AM - 05:00 PM,False,12,30,Active
+1,DEP011,Gynecology,Clinical,2,Main Building,111,Dr. Head 11,900,09:00 AM - 05:00 PM,False,13,31,Active
+1,DEP012,Dermatology,Clinical,3,Main Building,112,Dr. Head 12,700,09:00 AM - 05:00 PM,False,14,32,Active
+1,DEP013,ENT,Clinical,4,Main Building,113,Dr. Head 13,650,09:00 AM - 05:00 PM,False,15,33,Active
+1,DEP014,Ophthalmology,Clinical,5,Main Building,114,Dr. Head 14,650,09:00 AM - 05:00 PM,False,16,34,Active
+1,DEP015,Dental,Clinical,1,Main Building,115,Dr. Head 15,600,09:00 AM - 05:00 PM,False,17,35,Active
+1,DEP016,Nephrology,Clinical,2,Main Building,116,Dr. Head 16,1300,09:00 AM - 05:00 PM,False,10,36,Active
+1,DEP017,Urology,Clinical,3,Main Building,117,Dr. Head 17,1100,09:00 AM - 05:00 PM,False,11,37,Active
+1,DEP018,Oncology,Clinical,4,Main Building,118,Dr. Head 18,1600,09:00 AM - 05:00 PM,False,12,38,Active

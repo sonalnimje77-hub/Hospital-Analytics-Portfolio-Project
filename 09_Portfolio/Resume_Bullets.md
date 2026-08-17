@@ -1,0 +1,3 @@
+- Built an end-to-end synthetic Hospital BI analytics solution using MySQL, Python/Jupyter, Excel, Power Query and Power BI.
+- Designed normalized dimensions/facts, SQL reporting views and validation checks.
+- Generated, cleaned and analyzed multi-domain hospital datasets and defined management KPIs.
